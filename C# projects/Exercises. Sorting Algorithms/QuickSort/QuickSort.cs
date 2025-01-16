@@ -15,14 +15,16 @@ namespace QuickSort
 
         private static void Sort(int[] arr, int leftIndex, int rightIndex)
         {
-            if (leftIndex >= rightIndex)
+            if (leftIndex < rightIndex)
+            {
+                int pivot = Partition(arr, leftIndex, rightIndex);
+                Sort(arr, leftIndex, pivot - 1);
+                Sort(arr, pivot + 1, rightIndex);
+            }
+            else
             {
                 return;
             }
-            int pivot = arr[(leftIndex + rightIndex) / 2];
-            int partitionIndex = Partition(arr, leftIndex, rightIndex);
-            Sort(arr, leftIndex, partitionIndex - 1);
-            Sort(arr, partitionIndex, rightIndex);
         }
 
         private static int Partition(int[] arr, int leftIndex, int rightIndex)

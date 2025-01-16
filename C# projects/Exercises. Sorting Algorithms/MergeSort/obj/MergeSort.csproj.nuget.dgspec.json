@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\C# projects\\Exercises. Sorting Algorithms\\MergeSort\\MergeSort.csproj": {}
+    "D:\\Programing\\SoftUni\\C# projects\\Exercises. Sorting Algorithms\\MergeSort\\MergeSort.csproj": {}
   },
   "projects": {
-    "D:\\C# projects\\Exercises. Sorting Algorithms\\MergeSort\\MergeSort.csproj": {
+    "D:\\Programing\\SoftUni\\C# projects\\Exercises. Sorting Algorithms\\MergeSort\\MergeSort.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\C# projects\\Exercises. Sorting Algorithms\\MergeSort\\MergeSort.csproj",
+        "projectUniqueName": "D:\\Programing\\SoftUni\\C# projects\\Exercises. Sorting Algorithms\\MergeSort\\MergeSort.csproj",
         "projectName": "MergeSort",
-        "projectPath": "D:\\C# projects\\Exercises. Sorting Algorithms\\MergeSort\\MergeSort.csproj",
+        "projectPath": "D:\\Programing\\SoftUni\\C# projects\\Exercises. Sorting Algorithms\\MergeSort\\MergeSort.csproj",
         "packagesPath": "C:\\Users\\hrist\\.nuget\\packages\\",
-        "outputPath": "D:\\C# projects\\Exercises. Sorting Algorithms\\MergeSort\\obj\\",
+        "outputPath": "D:\\Programing\\SoftUni\\C# projects\\Exercises. Sorting Algorithms\\MergeSort\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

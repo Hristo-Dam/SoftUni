@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\C# projects\\Exercises. Sorting Algorithms\\SimpleSorts\\SimpleSorts.csproj": {}
+    "D:\\Programing\\SoftUni\\C# projects\\Exercises. Sorting Algorithms\\SimpleSorts\\SimpleSorts.csproj": {}
   },
   "projects": {
-    "D:\\C# projects\\Exercises. Sorting Algorithms\\SimpleSorts\\SimpleSorts.csproj": {
+    "D:\\Programing\\SoftUni\\C# projects\\Exercises. Sorting Algorithms\\SimpleSorts\\SimpleSorts.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\C# projects\\Exercises. Sorting Algorithms\\SimpleSorts\\SimpleSorts.csproj",
+        "projectUniqueName": "D:\\Programing\\SoftUni\\C# projects\\Exercises. Sorting Algorithms\\SimpleSorts\\SimpleSorts.csproj",
         "projectName": "SimpleSorts",
-        "projectPath": "D:\\C# projects\\Exercises. Sorting Algorithms\\SimpleSorts\\SimpleSorts.csproj",
+        "projectPath": "D:\\Programing\\SoftUni\\C# projects\\Exercises. Sorting Algorithms\\SimpleSorts\\SimpleSorts.csproj",
         "packagesPath": "C:\\Users\\hrist\\.nuget\\packages\\",
-        "outputPath": "D:\\C# projects\\Exercises. Sorting Algorithms\\SimpleSorts\\obj\\",
+        "outputPath": "D:\\Programing\\SoftUni\\C# projects\\Exercises. Sorting Algorithms\\SimpleSorts\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

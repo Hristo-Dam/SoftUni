@@ -1,13 +1,13 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\C# projects\\Exercises. Searching Algorithms and Shuffling\\",
+  "WorkspaceRootPath": "D:\\Programing\\SoftUni\\C# projects\\Exercises. Searching Algorithms and Shuffling\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{E146EF07-F0EF-4DAC-9C47-A1FD0A29FCFC}|Implement Binary Search\\Implement Binary Search.csproj|d:\\c# projects\\exercises. searching algorithms and shuffling\\implement binary search\\binarysearch.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{E146EF07-F0EF-4DAC-9C47-A1FD0A29FCFC}|Implement Binary Search\\Implement Binary Search.csproj|d:\\programing\\softuni\\c# projects\\exercises. searching algorithms and shuffling\\implement binary search\\binarysearch.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E146EF07-F0EF-4DAC-9C47-A1FD0A29FCFC}|Implement Binary Search\\Implement Binary Search.csproj|solutionrelative:implement binary search\\binarysearch.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E146EF07-F0EF-4DAC-9C47-A1FD0A29FCFC}|Implement Binary Search\\Implement Binary Search.csproj|d:\\c# projects\\exercises. searching algorithms and shuffling\\implement binary search\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{E146EF07-F0EF-4DAC-9C47-A1FD0A29FCFC}|Implement Binary Search\\Implement Binary Search.csproj|d:\\programing\\softuni\\c# projects\\exercises. searching algorithms and shuffling\\implement binary search\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E146EF07-F0EF-4DAC-9C47-A1FD0A29FCFC}|Implement Binary Search\\Implement Binary Search.csproj|solutionrelative:implement binary search\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -24,11 +24,11 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "BinarySearch.cs",
-              "DocumentMoniker": "D:\\C# projects\\Exercises. Searching Algorithms and Shuffling\\Implement Binary Search\\BinarySearch.cs",
+              "DocumentMoniker": "D:\\Programing\\SoftUni\\C# projects\\Exercises. Searching Algorithms and Shuffling\\Implement Binary Search\\BinarySearch.cs",
               "RelativeDocumentMoniker": "Implement Binary Search\\BinarySearch.cs",
-              "ToolTip": "D:\\C# projects\\Exercises. Searching Algorithms and Shuffling\\Implement Binary Search\\BinarySearch.cs",
+              "ToolTip": "D:\\Programing\\SoftUni\\C# projects\\Exercises. Searching Algorithms and Shuffling\\Implement Binary Search\\BinarySearch.cs",
               "RelativeToolTip": "Implement Binary Search\\BinarySearch.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAAB0AAAAkAAAAAAAAAA==",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAxwB0AAAAkAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-01-15T06:52:09.762Z",
               "EditorCaption": ""
@@ -37,13 +37,14 @@
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "StartUp.cs",
-              "DocumentMoniker": "D:\\C# projects\\Exercises. Searching Algorithms and Shuffling\\Implement Binary Search\\StartUp.cs",
+              "DocumentMoniker": "D:\\Programing\\SoftUni\\C# projects\\Exercises. Searching Algorithms and Shuffling\\Implement Binary Search\\StartUp.cs",
               "RelativeDocumentMoniker": "Implement Binary Search\\StartUp.cs",
-              "ToolTip": "D:\\C# projects\\Exercises. Searching Algorithms and Shuffling\\Implement Binary Search\\StartUp.cs",
+              "ToolTip": "D:\\Programing\\SoftUni\\C# projects\\Exercises. Searching Algorithms and Shuffling\\Implement Binary Search\\StartUp.cs",
               "RelativeToolTip": "Implement Binary Search\\StartUp.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAABFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-15T06:51:11.93Z"
+              "WhenOpened": "2025-01-15T06:51:11.93Z",
+              "EditorCaption": ""
             }
           ]
         },

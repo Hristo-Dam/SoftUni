@@ -4,7 +4,9 @@
     {
         static void Main(string[] args)
         {
-            QuickSort.Sort(new int[] { 2, 4, 3, 5, 1 , 8, 8, 4, 6, 7, 7});
+            int[] arr = { 3, 6, 1, 5, 2, 4, 9, 7, 10, 8};
+            QuickSort.Sort(arr);
+            Console.WriteLine(string.Join(" ", arr));
         }
     }
 }

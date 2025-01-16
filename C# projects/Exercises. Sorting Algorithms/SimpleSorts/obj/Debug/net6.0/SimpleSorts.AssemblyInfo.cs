@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("SimpleSorts")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+35bc3fb78336e653550345e70cc9df18c45825b4")]
 [assembly: System.Reflection.AssemblyProductAttribute("SimpleSorts")]
 [assembly: System.Reflection.AssemblyTitleAttribute("SimpleSorts")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
