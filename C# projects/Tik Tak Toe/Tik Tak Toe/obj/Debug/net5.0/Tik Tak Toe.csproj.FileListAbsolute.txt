@@ -1,5 +1,0 @@
-C:\Users\hrist\source\repos\Tik Tak Toe\Tik Tak Toe\obj\Debug\net5.0\Tik Tak Toe.csproj.AssemblyReference.cache
-C:\Users\hrist\source\repos\Tik Tak Toe\Tik Tak Toe\obj\Debug\net5.0\Tik Tak Toe.GeneratedMSBuildEditorConfig.editorconfig
-C:\Users\hrist\source\repos\Tik Tak Toe\Tik Tak Toe\obj\Debug\net5.0\Tik Tak Toe.AssemblyInfoInputs.cache
-C:\Users\hrist\source\repos\Tik Tak Toe\Tik Tak Toe\obj\Debug\net5.0\Tik Tak Toe.AssemblyInfo.cs
-C:\Users\hrist\source\repos\Tik Tak Toe\Tik Tak Toe\obj\Debug\net5.0\Tik Tak Toe.csproj.CoreCompileInputs.cache
