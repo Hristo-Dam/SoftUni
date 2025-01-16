@@ -1,0 +1,20 @@
+# Ignore all files in the bin/ and obj/ directories
+bin/
+obj/
+
+# Ignore Visual Studio temporary files
+.vs/
+*.suo
+*.vscode/
+
+# Ignore compiled files
+*.dll
+*.exe
+*.pdb
+
+# Ignore logs
+*.log
+
+# Ignore user-specific files
+*.user
+*.db
