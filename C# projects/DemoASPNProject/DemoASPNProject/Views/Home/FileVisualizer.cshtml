@@ -1,0 +1,19 @@
+﻿@{
+    ViewBag.Title = "FileVisualizer";
+}
+
+@{
+    ViewData["Title"] = "FileVisualizer";
+}
+
+@model List<string>
+
+<h1>FileVisualizer</h1>
+
+<ul>
+    @foreach (var file in Model)
+    {
+        <div>@file</div>
+    }
+</ul>
+

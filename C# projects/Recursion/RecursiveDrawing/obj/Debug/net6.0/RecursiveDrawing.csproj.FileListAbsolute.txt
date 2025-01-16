@@ -1,0 +1,14 @@
+D:\CS projects\Recursion\RecursiveDrawing\bin\Debug\net6.0\RecursiveDrawing.exe
+D:\CS projects\Recursion\RecursiveDrawing\bin\Debug\net6.0\RecursiveDrawing.deps.json
+D:\CS projects\Recursion\RecursiveDrawing\bin\Debug\net6.0\RecursiveDrawing.runtimeconfig.json
+D:\CS projects\Recursion\RecursiveDrawing\bin\Debug\net6.0\RecursiveDrawing.dll
+D:\CS projects\Recursion\RecursiveDrawing\bin\Debug\net6.0\RecursiveDrawing.pdb
+D:\CS projects\Recursion\RecursiveDrawing\obj\Debug\net6.0\RecursiveDrawing.GeneratedMSBuildEditorConfig.editorconfig
+D:\CS projects\Recursion\RecursiveDrawing\obj\Debug\net6.0\RecursiveDrawing.AssemblyInfoInputs.cache
+D:\CS projects\Recursion\RecursiveDrawing\obj\Debug\net6.0\RecursiveDrawing.AssemblyInfo.cs
+D:\CS projects\Recursion\RecursiveDrawing\obj\Debug\net6.0\RecursiveDrawing.csproj.CoreCompileInputs.cache
+D:\CS projects\Recursion\RecursiveDrawing\obj\Debug\net6.0\RecursiveDrawing.dll
+D:\CS projects\Recursion\RecursiveDrawing\obj\Debug\net6.0\refint\RecursiveDrawing.dll
+D:\CS projects\Recursion\RecursiveDrawing\obj\Debug\net6.0\RecursiveDrawing.pdb
+D:\CS projects\Recursion\RecursiveDrawing\obj\Debug\net6.0\RecursiveDrawing.genruntimeconfig.cache
+D:\CS projects\Recursion\RecursiveDrawing\obj\Debug\net6.0\ref\RecursiveDrawing.dll

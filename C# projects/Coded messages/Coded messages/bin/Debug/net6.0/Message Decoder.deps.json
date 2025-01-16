@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Message Decoder/1.0.0": {
+        "runtime": {
+          "Message Decoder.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Message Decoder/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

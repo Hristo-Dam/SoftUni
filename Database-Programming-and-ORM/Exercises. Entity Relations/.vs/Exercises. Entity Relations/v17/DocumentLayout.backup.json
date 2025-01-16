@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Database-Programming-and-ORM\\Exercises. Entity Relations\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D37CA285-E344-470D-B6A3-A2628391C604}|FootballBetting\\FootballBetting.csproj|d:\\database-programming-and-orm\\exercises. entity relations\\footballbetting\\data\\models\\bet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D37CA285-E344-470D-B6A3-A2628391C604}|FootballBetting\\FootballBetting.csproj|solutionrelative:footballbetting\\data\\models\\bet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D37CA285-E344-470D-B6A3-A2628391C604}|FootballBetting\\FootballBetting.csproj|d:\\database-programming-and-orm\\exercises. entity relations\\footballbetting\\data\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D37CA285-E344-470D-B6A3-A2628391C604}|FootballBetting\\FootballBetting.csproj|solutionrelative:footballbetting\\data\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Bet.cs",
+              "DocumentMoniker": "D:\\Database-Programming-and-ORM\\Exercises. Entity Relations\\FootballBetting\\Data\\Models\\Bet.cs",
+              "RelativeDocumentMoniker": "FootballBetting\\Data\\Models\\Bet.cs",
+              "ToolTip": "D:\\Database-Programming-and-ORM\\Exercises. Entity Relations\\FootballBetting\\Data\\Models\\Bet.cs",
+              "RelativeToolTip": "FootballBetting\\Data\\Models\\Bet.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABEAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-08T12:47:53.323Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "User.cs",
+              "DocumentMoniker": "D:\\Database-Programming-and-ORM\\Exercises. Entity Relations\\FootballBetting\\Data\\Models\\User.cs",
+              "RelativeDocumentMoniker": "FootballBetting\\Data\\Models\\User.cs",
+              "ToolTip": "D:\\Database-Programming-and-ORM\\Exercises. Entity Relations\\FootballBetting\\Data\\Models\\User.cs",
+              "RelativeToolTip": "FootballBetting\\Data\\Models\\User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAABFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-08T12:50:41.456Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

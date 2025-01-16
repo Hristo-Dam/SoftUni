@@ -1,0 +1,14 @@
+D:\CS projects\Exercises. Recursive Algorithms and Backtracking\8QueenProblem\bin\Debug\net6.0\8QueenProblem.exe
+D:\CS projects\Exercises. Recursive Algorithms and Backtracking\8QueenProblem\bin\Debug\net6.0\8QueenProblem.deps.json
+D:\CS projects\Exercises. Recursive Algorithms and Backtracking\8QueenProblem\bin\Debug\net6.0\8QueenProblem.runtimeconfig.json
+D:\CS projects\Exercises. Recursive Algorithms and Backtracking\8QueenProblem\bin\Debug\net6.0\8QueenProblem.dll
+D:\CS projects\Exercises. Recursive Algorithms and Backtracking\8QueenProblem\bin\Debug\net6.0\8QueenProblem.pdb
+D:\CS projects\Exercises. Recursive Algorithms and Backtracking\8QueenProblem\obj\Debug\net6.0\8QueenProblem.GeneratedMSBuildEditorConfig.editorconfig
+D:\CS projects\Exercises. Recursive Algorithms and Backtracking\8QueenProblem\obj\Debug\net6.0\8QueenProblem.AssemblyInfoInputs.cache
+D:\CS projects\Exercises. Recursive Algorithms and Backtracking\8QueenProblem\obj\Debug\net6.0\8QueenProblem.AssemblyInfo.cs
+D:\CS projects\Exercises. Recursive Algorithms and Backtracking\8QueenProblem\obj\Debug\net6.0\8QueenProblem.csproj.CoreCompileInputs.cache
+D:\CS projects\Exercises. Recursive Algorithms and Backtracking\8QueenProblem\obj\Debug\net6.0\8QueenProblem.dll
+D:\CS projects\Exercises. Recursive Algorithms and Backtracking\8QueenProblem\obj\Debug\net6.0\refint\8QueenProblem.dll
+D:\CS projects\Exercises. Recursive Algorithms and Backtracking\8QueenProblem\obj\Debug\net6.0\8QueenProblem.pdb
+D:\CS projects\Exercises. Recursive Algorithms and Backtracking\8QueenProblem\obj\Debug\net6.0\8QueenProblem.genruntimeconfig.cache
+D:\CS projects\Exercises. Recursive Algorithms and Backtracking\8QueenProblem\obj\Debug\net6.0\ref\8QueenProblem.dll

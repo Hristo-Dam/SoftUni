@@ -1,0 +1,16 @@
+C:\Users\hrist\source\repos\Lab. Strings and Text Processing\3. Substring\bin\Debug\net5.0\3. Substring.exe
+C:\Users\hrist\source\repos\Lab. Strings and Text Processing\3. Substring\bin\Debug\net5.0\3. Substring.deps.json
+C:\Users\hrist\source\repos\Lab. Strings and Text Processing\3. Substring\bin\Debug\net5.0\3. Substring.runtimeconfig.json
+C:\Users\hrist\source\repos\Lab. Strings and Text Processing\3. Substring\bin\Debug\net5.0\3. Substring.runtimeconfig.dev.json
+C:\Users\hrist\source\repos\Lab. Strings and Text Processing\3. Substring\bin\Debug\net5.0\3. Substring.dll
+C:\Users\hrist\source\repos\Lab. Strings and Text Processing\3. Substring\bin\Debug\net5.0\ref\3. Substring.dll
+C:\Users\hrist\source\repos\Lab. Strings and Text Processing\3. Substring\bin\Debug\net5.0\3. Substring.pdb
+C:\Users\hrist\source\repos\Lab. Strings and Text Processing\3. Substring\obj\Debug\net5.0\3. Substring.csproj.AssemblyReference.cache
+C:\Users\hrist\source\repos\Lab. Strings and Text Processing\3. Substring\obj\Debug\net5.0\3. Substring.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hrist\source\repos\Lab. Strings and Text Processing\3. Substring\obj\Debug\net5.0\3. Substring.AssemblyInfoInputs.cache
+C:\Users\hrist\source\repos\Lab. Strings and Text Processing\3. Substring\obj\Debug\net5.0\3. Substring.AssemblyInfo.cs
+C:\Users\hrist\source\repos\Lab. Strings and Text Processing\3. Substring\obj\Debug\net5.0\3. Substring.csproj.CoreCompileInputs.cache
+C:\Users\hrist\source\repos\Lab. Strings and Text Processing\3. Substring\obj\Debug\net5.0\3. Substring.dll
+C:\Users\hrist\source\repos\Lab. Strings and Text Processing\3. Substring\obj\Debug\net5.0\ref\3. Substring.dll
+C:\Users\hrist\source\repos\Lab. Strings and Text Processing\3. Substring\obj\Debug\net5.0\3. Substring.pdb
+C:\Users\hrist\source\repos\Lab. Strings and Text Processing\3. Substring\obj\Debug\net5.0\3. Substring.genruntimeconfig.cache

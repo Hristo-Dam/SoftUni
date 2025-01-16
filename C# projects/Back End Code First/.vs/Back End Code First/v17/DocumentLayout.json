@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\CS projects\\Back End Code First\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{62F556FB-3D49-4881-BC19-CF033C43B6EB}|CodeFirst\\CodeFirst.csproj|d:\\cs projects\\back end code first\\codefirst\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{62F556FB-3D49-4881-BC19-CF033C43B6EB}|CodeFirst\\CodeFirst.csproj|solutionrelative:codefirst\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{62F556FB-3D49-4881-BC19-CF033C43B6EB}|CodeFirst\\CodeFirst.csproj|d:\\cs projects\\back end code first\\codefirst\\ncfcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{62F556FB-3D49-4881-BC19-CF033C43B6EB}|CodeFirst\\CodeFirst.csproj|solutionrelative:codefirst\\ncfcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "NCFContext.cs",
+              "DocumentMoniker": "D:\\CS projects\\Back End Code First\\CodeFirst\\NCFContext.cs",
+              "RelativeDocumentMoniker": "CodeFirst\\NCFContext.cs",
+              "ToolTip": "D:\\CS projects\\Back End Code First\\CodeFirst\\NCFContext.cs",
+              "RelativeToolTip": "CodeFirst\\NCFContext.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAABYAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-16T10:28:55.777Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "StartUp.cs",
+              "DocumentMoniker": "D:\\CS projects\\Back End Code First\\CodeFirst\\StartUp.cs",
+              "RelativeDocumentMoniker": "CodeFirst\\StartUp.cs",
+              "ToolTip": "D:\\CS projects\\Back End Code First\\CodeFirst\\StartUp.cs",
+              "RelativeToolTip": "CodeFirst\\StartUp.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-16T10:24:16.136Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

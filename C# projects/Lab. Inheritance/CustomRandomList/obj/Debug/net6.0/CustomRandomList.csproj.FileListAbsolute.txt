@@ -1,0 +1,14 @@
+D:\CS projects\Lab. Inheritance\CustomRandomList\bin\Debug\net6.0\CustomRandomList.exe
+D:\CS projects\Lab. Inheritance\CustomRandomList\bin\Debug\net6.0\CustomRandomList.deps.json
+D:\CS projects\Lab. Inheritance\CustomRandomList\bin\Debug\net6.0\CustomRandomList.runtimeconfig.json
+D:\CS projects\Lab. Inheritance\CustomRandomList\bin\Debug\net6.0\CustomRandomList.dll
+D:\CS projects\Lab. Inheritance\CustomRandomList\bin\Debug\net6.0\CustomRandomList.pdb
+D:\CS projects\Lab. Inheritance\CustomRandomList\obj\Debug\net6.0\CustomRandomList.GeneratedMSBuildEditorConfig.editorconfig
+D:\CS projects\Lab. Inheritance\CustomRandomList\obj\Debug\net6.0\CustomRandomList.AssemblyInfoInputs.cache
+D:\CS projects\Lab. Inheritance\CustomRandomList\obj\Debug\net6.0\CustomRandomList.AssemblyInfo.cs
+D:\CS projects\Lab. Inheritance\CustomRandomList\obj\Debug\net6.0\CustomRandomList.csproj.CoreCompileInputs.cache
+D:\CS projects\Lab. Inheritance\CustomRandomList\obj\Debug\net6.0\CustomRandomList.dll
+D:\CS projects\Lab. Inheritance\CustomRandomList\obj\Debug\net6.0\refint\CustomRandomList.dll
+D:\CS projects\Lab. Inheritance\CustomRandomList\obj\Debug\net6.0\CustomRandomList.pdb
+D:\CS projects\Lab. Inheritance\CustomRandomList\obj\Debug\net6.0\CustomRandomList.genruntimeconfig.cache
+D:\CS projects\Lab. Inheritance\CustomRandomList\obj\Debug\net6.0\ref\CustomRandomList.dll

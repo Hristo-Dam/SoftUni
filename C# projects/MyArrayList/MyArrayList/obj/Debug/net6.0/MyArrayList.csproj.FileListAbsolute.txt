@@ -1,0 +1,14 @@
+D:\CS projects\MyArrayList\MyArrayList\bin\Debug\net6.0\MyArrayList.exe
+D:\CS projects\MyArrayList\MyArrayList\bin\Debug\net6.0\MyArrayList.deps.json
+D:\CS projects\MyArrayList\MyArrayList\bin\Debug\net6.0\MyArrayList.runtimeconfig.json
+D:\CS projects\MyArrayList\MyArrayList\bin\Debug\net6.0\MyArrayList.dll
+D:\CS projects\MyArrayList\MyArrayList\bin\Debug\net6.0\MyArrayList.pdb
+D:\CS projects\MyArrayList\MyArrayList\obj\Debug\net6.0\MyArrayList.GeneratedMSBuildEditorConfig.editorconfig
+D:\CS projects\MyArrayList\MyArrayList\obj\Debug\net6.0\MyArrayList.AssemblyInfoInputs.cache
+D:\CS projects\MyArrayList\MyArrayList\obj\Debug\net6.0\MyArrayList.AssemblyInfo.cs
+D:\CS projects\MyArrayList\MyArrayList\obj\Debug\net6.0\MyArrayList.csproj.CoreCompileInputs.cache
+D:\CS projects\MyArrayList\MyArrayList\obj\Debug\net6.0\MyArrayList.dll
+D:\CS projects\MyArrayList\MyArrayList\obj\Debug\net6.0\refint\MyArrayList.dll
+D:\CS projects\MyArrayList\MyArrayList\obj\Debug\net6.0\MyArrayList.pdb
+D:\CS projects\MyArrayList\MyArrayList\obj\Debug\net6.0\MyArrayList.genruntimeconfig.cache
+D:\CS projects\MyArrayList\MyArrayList\obj\Debug\net6.0\ref\MyArrayList.dll

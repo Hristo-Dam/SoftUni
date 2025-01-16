@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34728.123
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BuildTree", "BuildTree\BuildTree.csproj", "{0059ABC7-3B22-413C-B09D-E92F6078EF50}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BFSTraverseFolders", "BFSTraverseFolders\BFSTraverseFolders.csproj", "{74E11721-D06E-476B-8BB4-C692F3D1EADD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0059ABC7-3B22-413C-B09D-E92F6078EF50}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0059ABC7-3B22-413C-B09D-E92F6078EF50}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0059ABC7-3B22-413C-B09D-E92F6078EF50}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0059ABC7-3B22-413C-B09D-E92F6078EF50}.Release|Any CPU.Build.0 = Release|Any CPU
+		{74E11721-D06E-476B-8BB4-C692F3D1EADD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{74E11721-D06E-476B-8BB4-C692F3D1EADD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{74E11721-D06E-476B-8BB4-C692F3D1EADD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{74E11721-D06E-476B-8BB4-C692F3D1EADD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {DC0F2ACA-C8D1-455B-99BE-D1180F30A0BC}
+	EndGlobalSection
+EndGlobal

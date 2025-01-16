@@ -1,0 +1,15 @@
+C:\Users\hrist\source\repos\Lab Data Types and Variables\3. Exact Sum of Real Numbers\bin\Debug\net6.0\3. Exact Sum of Real Numbers.exe
+C:\Users\hrist\source\repos\Lab Data Types and Variables\3. Exact Sum of Real Numbers\bin\Debug\net6.0\3. Exact Sum of Real Numbers.deps.json
+C:\Users\hrist\source\repos\Lab Data Types and Variables\3. Exact Sum of Real Numbers\bin\Debug\net6.0\3. Exact Sum of Real Numbers.runtimeconfig.json
+C:\Users\hrist\source\repos\Lab Data Types and Variables\3. Exact Sum of Real Numbers\bin\Debug\net6.0\3. Exact Sum of Real Numbers.dll
+C:\Users\hrist\source\repos\Lab Data Types and Variables\3. Exact Sum of Real Numbers\bin\Debug\net6.0\ref\3. Exact Sum of Real Numbers.dll
+C:\Users\hrist\source\repos\Lab Data Types and Variables\3. Exact Sum of Real Numbers\bin\Debug\net6.0\3. Exact Sum of Real Numbers.pdb
+C:\Users\hrist\source\repos\Lab Data Types and Variables\3. Exact Sum of Real Numbers\obj\Debug\net6.0\3. Exact Sum of Real Numbers.csproj.AssemblyReference.cache
+C:\Users\hrist\source\repos\Lab Data Types and Variables\3. Exact Sum of Real Numbers\obj\Debug\net6.0\3. Exact Sum of Real Numbers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hrist\source\repos\Lab Data Types and Variables\3. Exact Sum of Real Numbers\obj\Debug\net6.0\3. Exact Sum of Real Numbers.AssemblyInfoInputs.cache
+C:\Users\hrist\source\repos\Lab Data Types and Variables\3. Exact Sum of Real Numbers\obj\Debug\net6.0\3. Exact Sum of Real Numbers.AssemblyInfo.cs
+C:\Users\hrist\source\repos\Lab Data Types and Variables\3. Exact Sum of Real Numbers\obj\Debug\net6.0\3. Exact Sum of Real Numbers.csproj.CoreCompileInputs.cache
+C:\Users\hrist\source\repos\Lab Data Types and Variables\3. Exact Sum of Real Numbers\obj\Debug\net6.0\3. Exact Sum of Real Numbers.dll
+C:\Users\hrist\source\repos\Lab Data Types and Variables\3. Exact Sum of Real Numbers\obj\Debug\net6.0\ref\3. Exact Sum of Real Numbers.dll
+C:\Users\hrist\source\repos\Lab Data Types and Variables\3. Exact Sum of Real Numbers\obj\Debug\net6.0\3. Exact Sum of Real Numbers.pdb
+C:\Users\hrist\source\repos\Lab Data Types and Variables\3. Exact Sum of Real Numbers\obj\Debug\net6.0\3. Exact Sum of Real Numbers.genruntimeconfig.cache

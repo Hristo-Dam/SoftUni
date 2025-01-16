@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "b/lf9izLmLFiR+6SEgDZ2AUkbpDhPkkg6KFBj53sHWrridaK4cWCgP6QcaVvD9ai7b3QPxoXyrYMMFRHrhxMfA==",
+  "success": true,
+  "projectFilePath": "D:\\CS projects\\Lab. Intro to Data Structures\\HeapOfNames\\HeapOfNames.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\hrist\\.nuget\\packages\\morecomplexdatastructures\\1.9.2\\morecomplexdatastructures.1.9.2.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "fb03af1b-3951-4d6e-83da-baf4a13e498c": {
+      "ProjectGuid": "fb03af1b-3951-4d6e-83da-baf4a13e498c",
+      "DisplayName": "1. Sum Matrix Elements",
+      "ColorIndex": 0
+    },
+    "be50b005-e73e-49c5-99d6-8985c54f7339": {
+      "ProjectGuid": "be50b005-e73e-49c5-99d6-8985c54f7339",
+      "DisplayName": "2. Sum Matrix Columns",
+      "ColorIndex": 1
+    },
+    "434730c8-2d51-45af-969c-f73e5191b4fb": {
+      "ProjectGuid": "434730c8-2d51-45af-969c-f73e5191b4fb",
+      "DisplayName": "3. Primary Diagonal",
+      "ColorIndex": 2
+    },
+    "dd20973e-7529-4721-8b4f-a6122d50f955": {
+      "ProjectGuid": "dd20973e-7529-4721-8b4f-a6122d50f955",
+      "DisplayName": "4. Symbol in Matrix",
+      "ColorIndex": 3
+    },
+    "e62a53b4-a4ce-4406-ac58-2b28eb9d11ab": {
+      "ProjectGuid": "e62a53b4-a4ce-4406-ac58-2b28eb9d11ab",
+      "DisplayName": "5. Square with Maximum Sum",
+      "ColorIndex": 4
+    },
+    "ed986bd2-9eac-42a4-a6b0-8dae0dc663d1": {
+      "ProjectGuid": "ed986bd2-9eac-42a4-a6b0-8dae0dc663d1",
+      "DisplayName": "6. Jagged-Array Modification",
+      "ColorIndex": 5
+    },
+    "130a469e-29ac-469e-ad1a-96c47d258d85": {
+      "ProjectGuid": "130a469e-29ac-469e-ad1a-96c47d258d85",
+      "DisplayName": "7. Pascal Triangle",
+      "ColorIndex": 6
+    }
+  },
+  "NextColorIndex": 7
+}

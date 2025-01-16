@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\CS projects\\Mini Exam. Recursion and Backtracking\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{747D41CE-BE5E-4FC8-8F8B-4EDF9936E3C9}|ReversedVectors\\ReversedVectors.csproj|d:\\cs projects\\mini exam. recursion and backtracking\\reversedvectors\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{747D41CE-BE5E-4FC8-8F8B-4EDF9936E3C9}|ReversedVectors\\ReversedVectors.csproj|solutionrelative:reversedvectors\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "StartUp.cs",
+              "DocumentMoniker": "D:\\CS projects\\Mini Exam. Recursion and Backtracking\\ReversedVectors\\StartUp.cs",
+              "RelativeDocumentMoniker": "ReversedVectors\\StartUp.cs",
+              "ToolTip": "D:\\CS projects\\Mini Exam. Recursion and Backtracking\\ReversedVectors\\StartUp.cs",
+              "RelativeToolTip": "ReversedVectors\\StartUp.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABgAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-30T07:19:14.138Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

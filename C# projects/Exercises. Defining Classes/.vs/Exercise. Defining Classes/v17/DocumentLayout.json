@@ -1,0 +1,116 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\SoftUni Recovery Files\\C# projects\\Exercises. Defining Classes\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6922121E-BB4D-4560-BDEB-1A71B40F2B63}|RawData\\RawData.csproj|d:\\softuni recovery files\\c# projects\\exercises. defining classes\\rawdata\\car.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6922121E-BB4D-4560-BDEB-1A71B40F2B63}|RawData\\RawData.csproj|solutionrelative:rawdata\\car.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6922121E-BB4D-4560-BDEB-1A71B40F2B63}|RawData\\RawData.csproj|d:\\softuni recovery files\\c# projects\\exercises. defining classes\\rawdata\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6922121E-BB4D-4560-BDEB-1A71B40F2B63}|RawData\\RawData.csproj|solutionrelative:rawdata\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6922121E-BB4D-4560-BDEB-1A71B40F2B63}|RawData\\RawData.csproj|d:\\softuni recovery files\\c# projects\\exercises. defining classes\\rawdata\\engine.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6922121E-BB4D-4560-BDEB-1A71B40F2B63}|RawData\\RawData.csproj|solutionrelative:rawdata\\engine.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6922121E-BB4D-4560-BDEB-1A71B40F2B63}|RawData\\RawData.csproj|d:\\softuni recovery files\\c# projects\\exercises. defining classes\\rawdata\\tire.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6922121E-BB4D-4560-BDEB-1A71B40F2B63}|RawData\\RawData.csproj|solutionrelative:rawdata\\tire.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6922121E-BB4D-4560-BDEB-1A71B40F2B63}|RawData\\RawData.csproj|d:\\softuni recovery files\\c# projects\\exercises. defining classes\\rawdata\\cargo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6922121E-BB4D-4560-BDEB-1A71B40F2B63}|RawData\\RawData.csproj|solutionrelative:rawdata\\cargo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Tire.cs",
+              "DocumentMoniker": "D:\\SoftUni Recovery Files\\C# projects\\Exercises. Defining Classes\\RawData\\Tire.cs",
+              "RelativeDocumentMoniker": "RawData\\Tire.cs",
+              "ToolTip": "D:\\SoftUni Recovery Files\\C# projects\\Exercises. Defining Classes\\RawData\\Tire.cs",
+              "RelativeToolTip": "RawData\\Tire.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-16T07:15:33.478Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Cargo.cs",
+              "DocumentMoniker": "D:\\SoftUni Recovery Files\\C# projects\\Exercises. Defining Classes\\RawData\\Cargo.cs",
+              "RelativeDocumentMoniker": "RawData\\Cargo.cs",
+              "ToolTip": "D:\\SoftUni Recovery Files\\C# projects\\Exercises. Defining Classes\\RawData\\Cargo.cs",
+              "RelativeToolTip": "RawData\\Cargo.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAABQAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-16T07:15:33.616Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Engine.cs",
+              "DocumentMoniker": "D:\\SoftUni Recovery Files\\C# projects\\Exercises. Defining Classes\\RawData\\Engine.cs",
+              "RelativeDocumentMoniker": "RawData\\Engine.cs",
+              "ToolTip": "D:\\SoftUni Recovery Files\\C# projects\\Exercises. Defining Classes\\RawData\\Engine.cs",
+              "RelativeToolTip": "RawData\\Engine.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-16T07:15:33.617Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Car.cs",
+              "DocumentMoniker": "D:\\SoftUni Recovery Files\\C# projects\\Exercises. Defining Classes\\RawData\\Car.cs",
+              "RelativeDocumentMoniker": "RawData\\Car.cs",
+              "ToolTip": "D:\\SoftUni Recovery Files\\C# projects\\Exercises. Defining Classes\\RawData\\Car.cs",
+              "RelativeToolTip": "RawData\\Car.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-16T07:15:33.618Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "StartUp.cs",
+              "DocumentMoniker": "D:\\SoftUni Recovery Files\\C# projects\\Exercises. Defining Classes\\RawData\\StartUp.cs",
+              "RelativeDocumentMoniker": "RawData\\StartUp.cs",
+              "ToolTip": "D:\\SoftUni Recovery Files\\C# projects\\Exercises. Defining Classes\\RawData\\StartUp.cs",
+              "RelativeToolTip": "RawData\\StartUp.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADYAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-16T07:15:33.619Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "1b5d46ba-c00c-4abb-842b-b29de51a44ec": {
+      "ProjectGuid": "1b5d46ba-c00c-4abb-842b-b29de51a44ec",
+      "DisplayName": "1. Train",
+      "ColorIndex": 0
+    },
+    "8280c6ef-c1bd-4c08-aef7-b6be06058d27": {
+      "ProjectGuid": "8280c6ef-c1bd-4c08-aef7-b6be06058d27",
+      "DisplayName": "2. Zig-Zag Arrays",
+      "ColorIndex": 1
+    },
+    "9a1b67b0-d099-4054-938d-98ef72b24835": {
+      "ProjectGuid": "9a1b67b0-d099-4054-938d-98ef72b24835",
+      "DisplayName": "3. Array Rotation",
+      "ColorIndex": 2
+    }
+  },
+  "NextColorIndex": 3
+}

@@ -1,0 +1,14 @@
+D:\CS projects\Mini Exam. Recursion and Backtracking\DrawReversed“K”\bin\Debug\net6.0\DrawReversed“K”.exe
+D:\CS projects\Mini Exam. Recursion and Backtracking\DrawReversed“K”\bin\Debug\net6.0\DrawReversed“K”.deps.json
+D:\CS projects\Mini Exam. Recursion and Backtracking\DrawReversed“K”\bin\Debug\net6.0\DrawReversed“K”.runtimeconfig.json
+D:\CS projects\Mini Exam. Recursion and Backtracking\DrawReversed“K”\bin\Debug\net6.0\DrawReversed“K”.dll
+D:\CS projects\Mini Exam. Recursion and Backtracking\DrawReversed“K”\bin\Debug\net6.0\DrawReversed“K”.pdb
+D:\CS projects\Mini Exam. Recursion and Backtracking\DrawReversed“K”\obj\Debug\net6.0\DrawReversed“K”.GeneratedMSBuildEditorConfig.editorconfig
+D:\CS projects\Mini Exam. Recursion and Backtracking\DrawReversed“K”\obj\Debug\net6.0\DrawReversed“K”.AssemblyInfoInputs.cache
+D:\CS projects\Mini Exam. Recursion and Backtracking\DrawReversed“K”\obj\Debug\net6.0\DrawReversed“K”.AssemblyInfo.cs
+D:\CS projects\Mini Exam. Recursion and Backtracking\DrawReversed“K”\obj\Debug\net6.0\DrawReversed“K”.csproj.CoreCompileInputs.cache
+D:\CS projects\Mini Exam. Recursion and Backtracking\DrawReversed“K”\obj\Debug\net6.0\DrawReversed“K”.dll
+D:\CS projects\Mini Exam. Recursion and Backtracking\DrawReversed“K”\obj\Debug\net6.0\refint\DrawReversed“K”.dll
+D:\CS projects\Mini Exam. Recursion and Backtracking\DrawReversed“K”\obj\Debug\net6.0\DrawReversed“K”.pdb
+D:\CS projects\Mini Exam. Recursion and Backtracking\DrawReversed“K”\obj\Debug\net6.0\DrawReversed“K”.genruntimeconfig.cache
+D:\CS projects\Mini Exam. Recursion and Backtracking\DrawReversed“K”\obj\Debug\net6.0\ref\DrawReversed“K”.dll

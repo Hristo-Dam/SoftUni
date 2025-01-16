@@ -1,0 +1,21 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "0ace9f5e-ef27-4b81-ab79-dfbd5ef4b030": {
+      "ProjectGuid": "0ace9f5e-ef27-4b81-ab79-dfbd5ef4b030",
+      "DisplayName": "1. Day of Week",
+      "ColorIndex": 0
+    },
+    "ff17e233-bbc9-450c-80fd-da6840a6e65c": {
+      "ProjectGuid": "ff17e233-bbc9-450c-80fd-da6840a6e65c",
+      "DisplayName": "2. Print Numbers in Reverse Order",
+      "ColorIndex": 1
+    },
+    "2f562374-5e31-44d8-8475-5ed2dac66953": {
+      "ProjectGuid": "2f562374-5e31-44d8-8475-5ed2dac66953",
+      "DisplayName": "3. Rounding Numbers",
+      "ColorIndex": 2
+    }
+  },
+  "NextColorIndex": 3
+}

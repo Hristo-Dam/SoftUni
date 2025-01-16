@@ -1,0 +1,14 @@
+D:\CS projects\Recursion\NastedLoopToRecursion\bin\Debug\net6.0\NastedLoopToRecursion.exe
+D:\CS projects\Recursion\NastedLoopToRecursion\bin\Debug\net6.0\NastedLoopToRecursion.deps.json
+D:\CS projects\Recursion\NastedLoopToRecursion\bin\Debug\net6.0\NastedLoopToRecursion.runtimeconfig.json
+D:\CS projects\Recursion\NastedLoopToRecursion\bin\Debug\net6.0\NastedLoopToRecursion.dll
+D:\CS projects\Recursion\NastedLoopToRecursion\bin\Debug\net6.0\NastedLoopToRecursion.pdb
+D:\CS projects\Recursion\NastedLoopToRecursion\obj\Debug\net6.0\NastedLoopToRecursion.GeneratedMSBuildEditorConfig.editorconfig
+D:\CS projects\Recursion\NastedLoopToRecursion\obj\Debug\net6.0\NastedLoopToRecursion.AssemblyInfoInputs.cache
+D:\CS projects\Recursion\NastedLoopToRecursion\obj\Debug\net6.0\NastedLoopToRecursion.AssemblyInfo.cs
+D:\CS projects\Recursion\NastedLoopToRecursion\obj\Debug\net6.0\NastedLoopToRecursion.csproj.CoreCompileInputs.cache
+D:\CS projects\Recursion\NastedLoopToRecursion\obj\Debug\net6.0\NastedLoopToRecursion.dll
+D:\CS projects\Recursion\NastedLoopToRecursion\obj\Debug\net6.0\refint\NastedLoopToRecursion.dll
+D:\CS projects\Recursion\NastedLoopToRecursion\obj\Debug\net6.0\NastedLoopToRecursion.pdb
+D:\CS projects\Recursion\NastedLoopToRecursion\obj\Debug\net6.0\NastedLoopToRecursion.genruntimeconfig.cache
+D:\CS projects\Recursion\NastedLoopToRecursion\obj\Debug\net6.0\ref\NastedLoopToRecursion.dll

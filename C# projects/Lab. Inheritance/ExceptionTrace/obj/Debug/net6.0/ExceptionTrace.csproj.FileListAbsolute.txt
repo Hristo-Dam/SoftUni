@@ -1,0 +1,14 @@
+D:\CS projects\Lab. Inheritance\ExceptionTrace\bin\Debug\net6.0\ExceptionTrace.exe
+D:\CS projects\Lab. Inheritance\ExceptionTrace\bin\Debug\net6.0\ExceptionTrace.deps.json
+D:\CS projects\Lab. Inheritance\ExceptionTrace\bin\Debug\net6.0\ExceptionTrace.runtimeconfig.json
+D:\CS projects\Lab. Inheritance\ExceptionTrace\bin\Debug\net6.0\ExceptionTrace.dll
+D:\CS projects\Lab. Inheritance\ExceptionTrace\bin\Debug\net6.0\ExceptionTrace.pdb
+D:\CS projects\Lab. Inheritance\ExceptionTrace\obj\Debug\net6.0\ExceptionTrace.GeneratedMSBuildEditorConfig.editorconfig
+D:\CS projects\Lab. Inheritance\ExceptionTrace\obj\Debug\net6.0\ExceptionTrace.AssemblyInfoInputs.cache
+D:\CS projects\Lab. Inheritance\ExceptionTrace\obj\Debug\net6.0\ExceptionTrace.AssemblyInfo.cs
+D:\CS projects\Lab. Inheritance\ExceptionTrace\obj\Debug\net6.0\ExceptionTrace.csproj.CoreCompileInputs.cache
+D:\CS projects\Lab. Inheritance\ExceptionTrace\obj\Debug\net6.0\ExceptionTrace.dll
+D:\CS projects\Lab. Inheritance\ExceptionTrace\obj\Debug\net6.0\refint\ExceptionTrace.dll
+D:\CS projects\Lab. Inheritance\ExceptionTrace\obj\Debug\net6.0\ExceptionTrace.pdb
+D:\CS projects\Lab. Inheritance\ExceptionTrace\obj\Debug\net6.0\ExceptionTrace.genruntimeconfig.cache
+D:\CS projects\Lab. Inheritance\ExceptionTrace\obj\Debug\net6.0\ref\ExceptionTrace.dll

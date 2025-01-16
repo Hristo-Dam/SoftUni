@@ -1,0 +1,53 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\CS projects\\Lab. Inheritance\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C3484B3A-8B37-41FA-8857-C7C3FE502623}|ExceptionTrace\\ExceptionTrace.csproj|d:\\cs projects\\lab. inheritance\\exceptiontrace\\myfilereader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C3484B3A-8B37-41FA-8857-C7C3FE502623}|ExceptionTrace\\ExceptionTrace.csproj|solutionrelative:exceptiontrace\\myfilereader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C3484B3A-8B37-41FA-8857-C7C3FE502623}|ExceptionTrace\\ExceptionTrace.csproj|d:\\cs projects\\lab. inheritance\\exceptiontrace\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C3484B3A-8B37-41FA-8857-C7C3FE502623}|ExceptionTrace\\ExceptionTrace.csproj|solutionrelative:exceptiontrace\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MyFileReader.cs",
+              "DocumentMoniker": "D:\\CS projects\\Lab. Inheritance\\ExceptionTrace\\MyFileReader.cs",
+              "RelativeDocumentMoniker": "ExceptionTrace\\MyFileReader.cs",
+              "ToolTip": "D:\\CS projects\\Lab. Inheritance\\ExceptionTrace\\MyFileReader.cs",
+              "RelativeToolTip": "ExceptionTrace\\MyFileReader.cs",
+              "ViewState": "AQIAABMAAAAAAAAAAAAQwEYAAABEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-10T11:26:25.774Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "StartUp.cs",
+              "DocumentMoniker": "D:\\CS projects\\Lab. Inheritance\\ExceptionTrace\\StartUp.cs",
+              "RelativeDocumentMoniker": "ExceptionTrace\\StartUp.cs",
+              "ToolTip": "D:\\CS projects\\Lab. Inheritance\\ExceptionTrace\\StartUp.cs",
+              "RelativeToolTip": "ExceptionTrace\\StartUp.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-10T11:26:26.996Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+C:\Users\hrist\source\repos\3. Final-Exam-Preparation-Strings and text processing\2. Parentheses\bin\Debug\net5.0\2. Parentheses.exe
+C:\Users\hrist\source\repos\3. Final-Exam-Preparation-Strings and text processing\2. Parentheses\bin\Debug\net5.0\2. Parentheses.deps.json
+C:\Users\hrist\source\repos\3. Final-Exam-Preparation-Strings and text processing\2. Parentheses\bin\Debug\net5.0\2. Parentheses.runtimeconfig.json
+C:\Users\hrist\source\repos\3. Final-Exam-Preparation-Strings and text processing\2. Parentheses\bin\Debug\net5.0\2. Parentheses.runtimeconfig.dev.json
+C:\Users\hrist\source\repos\3. Final-Exam-Preparation-Strings and text processing\2. Parentheses\bin\Debug\net5.0\2. Parentheses.dll
+C:\Users\hrist\source\repos\3. Final-Exam-Preparation-Strings and text processing\2. Parentheses\bin\Debug\net5.0\ref\2. Parentheses.dll
+C:\Users\hrist\source\repos\3. Final-Exam-Preparation-Strings and text processing\2. Parentheses\bin\Debug\net5.0\2. Parentheses.pdb
+C:\Users\hrist\source\repos\3. Final-Exam-Preparation-Strings and text processing\2. Parentheses\obj\Debug\net5.0\2. Parentheses.csproj.AssemblyReference.cache
+C:\Users\hrist\source\repos\3. Final-Exam-Preparation-Strings and text processing\2. Parentheses\obj\Debug\net5.0\2. Parentheses.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hrist\source\repos\3. Final-Exam-Preparation-Strings and text processing\2. Parentheses\obj\Debug\net5.0\2. Parentheses.AssemblyInfoInputs.cache
+C:\Users\hrist\source\repos\3. Final-Exam-Preparation-Strings and text processing\2. Parentheses\obj\Debug\net5.0\2. Parentheses.AssemblyInfo.cs
+C:\Users\hrist\source\repos\3. Final-Exam-Preparation-Strings and text processing\2. Parentheses\obj\Debug\net5.0\2. Parentheses.csproj.CoreCompileInputs.cache
+C:\Users\hrist\source\repos\3. Final-Exam-Preparation-Strings and text processing\2. Parentheses\obj\Debug\net5.0\2. Parentheses.dll
+C:\Users\hrist\source\repos\3. Final-Exam-Preparation-Strings and text processing\2. Parentheses\obj\Debug\net5.0\ref\2. Parentheses.dll
+C:\Users\hrist\source\repos\3. Final-Exam-Preparation-Strings and text processing\2. Parentheses\obj\Debug\net5.0\2. Parentheses.pdb
+C:\Users\hrist\source\repos\3. Final-Exam-Preparation-Strings and text processing\2. Parentheses\obj\Debug\net5.0\2. Parentheses.genruntimeconfig.cache

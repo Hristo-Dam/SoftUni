@@ -1,0 +1,16 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "b3af9578-49bc-4d8f-9d90-0624cc54ea9c": {
+      "ProjectGuid": "b3af9578-49bc-4d8f-9d90-0624cc54ea9c",
+      "DisplayName": "1. Employees",
+      "ColorIndex": 0
+    },
+    "0a2e0660-2402-46b0-9d53-451687c1d6bb": {
+      "ProjectGuid": "0a2e0660-2402-46b0-9d53-451687c1d6bb",
+      "DisplayName": "2. Employee Statistic",
+      "ColorIndex": 1
+    }
+  },
+  "NextColorIndex": 2
+}

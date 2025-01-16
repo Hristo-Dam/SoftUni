@@ -1,0 +1,16 @@
+C:\Users\hrist\source\repos\3. Final-Exam-Preparation-Strings and text processing\1. Substring count\bin\Debug\net5.0\1. Substring count.exe
+C:\Users\hrist\source\repos\3. Final-Exam-Preparation-Strings and text processing\1. Substring count\bin\Debug\net5.0\1. Substring count.deps.json
+C:\Users\hrist\source\repos\3. Final-Exam-Preparation-Strings and text processing\1. Substring count\bin\Debug\net5.0\1. Substring count.runtimeconfig.json
+C:\Users\hrist\source\repos\3. Final-Exam-Preparation-Strings and text processing\1. Substring count\bin\Debug\net5.0\1. Substring count.runtimeconfig.dev.json
+C:\Users\hrist\source\repos\3. Final-Exam-Preparation-Strings and text processing\1. Substring count\bin\Debug\net5.0\1. Substring count.dll
+C:\Users\hrist\source\repos\3. Final-Exam-Preparation-Strings and text processing\1. Substring count\bin\Debug\net5.0\ref\1. Substring count.dll
+C:\Users\hrist\source\repos\3. Final-Exam-Preparation-Strings and text processing\1. Substring count\bin\Debug\net5.0\1. Substring count.pdb
+C:\Users\hrist\source\repos\3. Final-Exam-Preparation-Strings and text processing\1. Substring count\obj\Debug\net5.0\1. Substring count.csproj.AssemblyReference.cache
+C:\Users\hrist\source\repos\3. Final-Exam-Preparation-Strings and text processing\1. Substring count\obj\Debug\net5.0\1. Substring count.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hrist\source\repos\3. Final-Exam-Preparation-Strings and text processing\1. Substring count\obj\Debug\net5.0\1. Substring count.AssemblyInfoInputs.cache
+C:\Users\hrist\source\repos\3. Final-Exam-Preparation-Strings and text processing\1. Substring count\obj\Debug\net5.0\1. Substring count.AssemblyInfo.cs
+C:\Users\hrist\source\repos\3. Final-Exam-Preparation-Strings and text processing\1. Substring count\obj\Debug\net5.0\1. Substring count.csproj.CoreCompileInputs.cache
+C:\Users\hrist\source\repos\3. Final-Exam-Preparation-Strings and text processing\1. Substring count\obj\Debug\net5.0\1. Substring count.dll
+C:\Users\hrist\source\repos\3. Final-Exam-Preparation-Strings and text processing\1. Substring count\obj\Debug\net5.0\ref\1. Substring count.dll
+C:\Users\hrist\source\repos\3. Final-Exam-Preparation-Strings and text processing\1. Substring count\obj\Debug\net5.0\1. Substring count.pdb
+C:\Users\hrist\source\repos\3. Final-Exam-Preparation-Strings and text processing\1. Substring count\obj\Debug\net5.0\1. Substring count.genruntimeconfig.cache

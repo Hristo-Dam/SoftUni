@@ -1,0 +1,16 @@
+C:\Users\hrist\source\repos\Lab. Lists\3. Merging Lists\bin\Debug\net5.0\3. Merging Lists.exe
+C:\Users\hrist\source\repos\Lab. Lists\3. Merging Lists\bin\Debug\net5.0\3. Merging Lists.deps.json
+C:\Users\hrist\source\repos\Lab. Lists\3. Merging Lists\bin\Debug\net5.0\3. Merging Lists.runtimeconfig.json
+C:\Users\hrist\source\repos\Lab. Lists\3. Merging Lists\bin\Debug\net5.0\3. Merging Lists.runtimeconfig.dev.json
+C:\Users\hrist\source\repos\Lab. Lists\3. Merging Lists\bin\Debug\net5.0\3. Merging Lists.dll
+C:\Users\hrist\source\repos\Lab. Lists\3. Merging Lists\bin\Debug\net5.0\ref\3. Merging Lists.dll
+C:\Users\hrist\source\repos\Lab. Lists\3. Merging Lists\bin\Debug\net5.0\3. Merging Lists.pdb
+C:\Users\hrist\source\repos\Lab. Lists\3. Merging Lists\obj\Debug\net5.0\3. Merging Lists.csproj.AssemblyReference.cache
+C:\Users\hrist\source\repos\Lab. Lists\3. Merging Lists\obj\Debug\net5.0\3. Merging Lists.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hrist\source\repos\Lab. Lists\3. Merging Lists\obj\Debug\net5.0\3. Merging Lists.AssemblyInfoInputs.cache
+C:\Users\hrist\source\repos\Lab. Lists\3. Merging Lists\obj\Debug\net5.0\3. Merging Lists.AssemblyInfo.cs
+C:\Users\hrist\source\repos\Lab. Lists\3. Merging Lists\obj\Debug\net5.0\3. Merging Lists.csproj.CoreCompileInputs.cache
+C:\Users\hrist\source\repos\Lab. Lists\3. Merging Lists\obj\Debug\net5.0\3. Merging Lists.dll
+C:\Users\hrist\source\repos\Lab. Lists\3. Merging Lists\obj\Debug\net5.0\ref\3. Merging Lists.dll
+C:\Users\hrist\source\repos\Lab. Lists\3. Merging Lists\obj\Debug\net5.0\3. Merging Lists.pdb
+C:\Users\hrist\source\repos\Lab. Lists\3. Merging Lists\obj\Debug\net5.0\3. Merging Lists.genruntimeconfig.cache

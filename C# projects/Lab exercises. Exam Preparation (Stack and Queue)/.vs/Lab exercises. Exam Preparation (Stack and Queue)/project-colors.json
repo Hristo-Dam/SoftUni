@@ -1,0 +1,21 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "f9a1f1f5-d1a4-4c6b-9825-6947cffaef7b": {
+      "ProjectGuid": "f9a1f1f5-d1a4-4c6b-9825-6947cffaef7b",
+      "DisplayName": "1. Basic Stack Operations",
+      "ColorIndex": 0
+    },
+    "78ca590b-0580-4d11-a71e-30776e7f2027": {
+      "ProjectGuid": "78ca590b-0580-4d11-a71e-30776e7f2027",
+      "DisplayName": "2. Simple Calculator",
+      "ColorIndex": 1
+    },
+    "26af2d1f-d5c2-4758-b019-5c9b09aa6cda": {
+      "ProjectGuid": "26af2d1f-d5c2-4758-b019-5c9b09aa6cda",
+      "DisplayName": "3. Print Even Numbers",
+      "ColorIndex": 2
+    }
+  },
+  "NextColorIndex": 3
+}

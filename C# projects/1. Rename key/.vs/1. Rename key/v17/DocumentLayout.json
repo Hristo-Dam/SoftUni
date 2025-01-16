@@ -1,0 +1,83 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\C# projects\\1. Rename key\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{389AC3B9-CC25-4161-B329-59A368CB5206}|3. ASCII dict\\3. ASCII dict.csproj|d:\\c# projects\\1. rename key\\3. ascii dict\\program3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{389AC3B9-CC25-4161-B329-59A368CB5206}|3. ASCII dict\\3. ASCII dict.csproj|solutionrelative:3. ascii dict\\program3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E82CC6C-CEF5-4B61-AC63-4C1835FBB277}|2. Remove duplicates\\2. Remove duplicates.csproj|d:\\c# projects\\1. rename key\\2. remove duplicates\\program2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7E82CC6C-CEF5-4B61-AC63-4C1835FBB277}|2. Remove duplicates\\2. Remove duplicates.csproj|solutionrelative:2. remove duplicates\\program2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B3A67D91-44AC-4022-B4FF-9D065551EA16}|1. Rename key\\1. Rename key.csproj|d:\\c# projects\\1. rename key\\1. rename key\\program1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B3A67D91-44AC-4022-B4FF-9D065551EA16}|1. Rename key\\1. Rename key.csproj|solutionrelative:1. rename key\\program1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program3.cs",
+              "DocumentMoniker": "D:\\C# projects\\1. Rename key\\3. ASCII dict\\Program3.cs",
+              "RelativeDocumentMoniker": "3. ASCII dict\\Program3.cs",
+              "ToolTip": "D:\\C# projects\\1. Rename key\\3. ASCII dict\\Program3.cs",
+              "RelativeToolTip": "3. ASCII dict\\Program3.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-16T07:17:52.091Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program2.cs",
+              "DocumentMoniker": "D:\\C# projects\\1. Rename key\\2. Remove duplicates\\Program2.cs",
+              "RelativeDocumentMoniker": "2. Remove duplicates\\Program2.cs",
+              "ToolTip": "D:\\C# projects\\1. Rename key\\2. Remove duplicates\\Program2.cs",
+              "RelativeToolTip": "2. Remove duplicates\\Program2.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAQwAMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-16T07:17:52.221Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program1.cs",
+              "DocumentMoniker": "D:\\C# projects\\1. Rename key\\1. Rename key\\Program1.cs",
+              "RelativeDocumentMoniker": "1. Rename key\\Program1.cs",
+              "ToolTip": "D:\\C# projects\\1. Rename key\\1. Rename key\\Program1.cs",
+              "RelativeToolTip": "1. Rename key\\Program1.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAAAgwEAAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-16T07:17:52.223Z"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

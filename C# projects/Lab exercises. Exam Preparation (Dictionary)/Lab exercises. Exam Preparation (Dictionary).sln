@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.32112.339
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1. Count Real Numbers", "1. Count Real Numbers\1. Count Real Numbers.csproj", "{FA072C81-2182-45F7-B40B-32DE894F4D85}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "2. Odd Occurrences", "2. Odd Occurrences\2. Odd Occurrences.csproj", "{148DF25F-ECC4-4F9B-AD07-A03D00C8E473}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "3. Word Synonyms", "3. Word Synonyms\3. Word Synonyms.csproj", "{57CFAADA-D6CF-4646-8590-5C825452CD00}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FA072C81-2182-45F7-B40B-32DE894F4D85}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FA072C81-2182-45F7-B40B-32DE894F4D85}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FA072C81-2182-45F7-B40B-32DE894F4D85}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FA072C81-2182-45F7-B40B-32DE894F4D85}.Release|Any CPU.Build.0 = Release|Any CPU
+		{148DF25F-ECC4-4F9B-AD07-A03D00C8E473}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{148DF25F-ECC4-4F9B-AD07-A03D00C8E473}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{148DF25F-ECC4-4F9B-AD07-A03D00C8E473}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{148DF25F-ECC4-4F9B-AD07-A03D00C8E473}.Release|Any CPU.Build.0 = Release|Any CPU
+		{57CFAADA-D6CF-4646-8590-5C825452CD00}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{57CFAADA-D6CF-4646-8590-5C825452CD00}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{57CFAADA-D6CF-4646-8590-5C825452CD00}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{57CFAADA-D6CF-4646-8590-5C825452CD00}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3047D8B2-250E-4835-8B80-E454C7A48B10}
+	EndGlobalSection
+EndGlobal

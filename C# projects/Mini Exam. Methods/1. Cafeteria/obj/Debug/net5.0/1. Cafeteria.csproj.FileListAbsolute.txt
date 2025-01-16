@@ -1,0 +1,16 @@
+C:\Users\hrist\source\repos\Mini Exam. Methods\1. Cafeteria\bin\Debug\net5.0\1. Cafeteria.exe
+C:\Users\hrist\source\repos\Mini Exam. Methods\1. Cafeteria\bin\Debug\net5.0\1. Cafeteria.deps.json
+C:\Users\hrist\source\repos\Mini Exam. Methods\1. Cafeteria\bin\Debug\net5.0\1. Cafeteria.runtimeconfig.json
+C:\Users\hrist\source\repos\Mini Exam. Methods\1. Cafeteria\bin\Debug\net5.0\1. Cafeteria.runtimeconfig.dev.json
+C:\Users\hrist\source\repos\Mini Exam. Methods\1. Cafeteria\bin\Debug\net5.0\1. Cafeteria.dll
+C:\Users\hrist\source\repos\Mini Exam. Methods\1. Cafeteria\bin\Debug\net5.0\ref\1. Cafeteria.dll
+C:\Users\hrist\source\repos\Mini Exam. Methods\1. Cafeteria\bin\Debug\net5.0\1. Cafeteria.pdb
+C:\Users\hrist\source\repos\Mini Exam. Methods\1. Cafeteria\obj\Debug\net5.0\1. Cafeteria.csproj.AssemblyReference.cache
+C:\Users\hrist\source\repos\Mini Exam. Methods\1. Cafeteria\obj\Debug\net5.0\1. Cafeteria.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hrist\source\repos\Mini Exam. Methods\1. Cafeteria\obj\Debug\net5.0\1. Cafeteria.AssemblyInfoInputs.cache
+C:\Users\hrist\source\repos\Mini Exam. Methods\1. Cafeteria\obj\Debug\net5.0\1. Cafeteria.AssemblyInfo.cs
+C:\Users\hrist\source\repos\Mini Exam. Methods\1. Cafeteria\obj\Debug\net5.0\1. Cafeteria.csproj.CoreCompileInputs.cache
+C:\Users\hrist\source\repos\Mini Exam. Methods\1. Cafeteria\obj\Debug\net5.0\1. Cafeteria.dll
+C:\Users\hrist\source\repos\Mini Exam. Methods\1. Cafeteria\obj\Debug\net5.0\ref\1. Cafeteria.dll
+C:\Users\hrist\source\repos\Mini Exam. Methods\1. Cafeteria\obj\Debug\net5.0\1. Cafeteria.pdb
+C:\Users\hrist\source\repos\Mini Exam. Methods\1. Cafeteria\obj\Debug\net5.0\1. Cafeteria.genruntimeconfig.cache

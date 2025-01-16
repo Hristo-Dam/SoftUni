@@ -1,0 +1,14 @@
+C:\Users\hrist\source\repos\3. Mini-Exam. Arrays\3. Team “Beyond Reason”\bin\Debug\net6.0\3. Team “Beyond Reason”.exe
+C:\Users\hrist\source\repos\3. Mini-Exam. Arrays\3. Team “Beyond Reason”\bin\Debug\net6.0\3. Team “Beyond Reason”.deps.json
+C:\Users\hrist\source\repos\3. Mini-Exam. Arrays\3. Team “Beyond Reason”\bin\Debug\net6.0\3. Team “Beyond Reason”.runtimeconfig.json
+C:\Users\hrist\source\repos\3. Mini-Exam. Arrays\3. Team “Beyond Reason”\bin\Debug\net6.0\3. Team “Beyond Reason”.dll
+C:\Users\hrist\source\repos\3. Mini-Exam. Arrays\3. Team “Beyond Reason”\bin\Debug\net6.0\ref\3. Team “Beyond Reason”.dll
+C:\Users\hrist\source\repos\3. Mini-Exam. Arrays\3. Team “Beyond Reason”\bin\Debug\net6.0\3. Team “Beyond Reason”.pdb
+C:\Users\hrist\source\repos\3. Mini-Exam. Arrays\3. Team “Beyond Reason”\obj\Debug\net6.0\3. Team “Beyond Reason”.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hrist\source\repos\3. Mini-Exam. Arrays\3. Team “Beyond Reason”\obj\Debug\net6.0\3. Team “Beyond Reason”.AssemblyInfoInputs.cache
+C:\Users\hrist\source\repos\3. Mini-Exam. Arrays\3. Team “Beyond Reason”\obj\Debug\net6.0\3. Team “Beyond Reason”.AssemblyInfo.cs
+C:\Users\hrist\source\repos\3. Mini-Exam. Arrays\3. Team “Beyond Reason”\obj\Debug\net6.0\3. Team “Beyond Reason”.csproj.CoreCompileInputs.cache
+C:\Users\hrist\source\repos\3. Mini-Exam. Arrays\3. Team “Beyond Reason”\obj\Debug\net6.0\3. Team “Beyond Reason”.dll
+C:\Users\hrist\source\repos\3. Mini-Exam. Arrays\3. Team “Beyond Reason”\obj\Debug\net6.0\ref\3. Team “Beyond Reason”.dll
+C:\Users\hrist\source\repos\3. Mini-Exam. Arrays\3. Team “Beyond Reason”\obj\Debug\net6.0\3. Team “Beyond Reason”.pdb
+C:\Users\hrist\source\repos\3. Mini-Exam. Arrays\3. Team “Beyond Reason”\obj\Debug\net6.0\3. Team “Beyond Reason”.genruntimeconfig.cache

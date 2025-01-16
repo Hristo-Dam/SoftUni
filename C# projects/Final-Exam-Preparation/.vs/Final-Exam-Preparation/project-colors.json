@@ -1,0 +1,26 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "51ea2484-06ae-4ea5-8149-5d1d71b7433b": {
+      "ProjectGuid": "51ea2484-06ae-4ea5-8149-5d1d71b7433b",
+      "DisplayName": "1. The Enigma Machine",
+      "ColorIndex": 0
+    },
+    "89d2b167-0856-4ead-b93b-e5f60d25f93b": {
+      "ProjectGuid": "89d2b167-0856-4ead-b93b-e5f60d25f93b",
+      "DisplayName": "2. Ad Astra",
+      "ColorIndex": 1
+    },
+    "31623c8c-20ee-482b-b6b0-dfda5bf7af0b": {
+      "ProjectGuid": "31623c8c-20ee-482b-b6b0-dfda5bf7af0b",
+      "DisplayName": "3. The Pianist",
+      "ColorIndex": 2
+    },
+    "a727679b-4204-400d-90c3-5021ada8254f": {
+      "ProjectGuid": "a727679b-4204-400d-90c3-5021ada8254f",
+      "DisplayName": "Code Snippets",
+      "ColorIndex": 3
+    }
+  },
+  "NextColorIndex": 4
+}

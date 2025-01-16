@@ -1,0 +1,14 @@
+D:\CS projects\Sandbox For ArrayList Test\BasicArrayList - Exam\bin\Debug\net6.0\BasicArrayList - Exam.exe
+D:\CS projects\Sandbox For ArrayList Test\BasicArrayList - Exam\bin\Debug\net6.0\BasicArrayList - Exam.deps.json
+D:\CS projects\Sandbox For ArrayList Test\BasicArrayList - Exam\bin\Debug\net6.0\BasicArrayList - Exam.runtimeconfig.json
+D:\CS projects\Sandbox For ArrayList Test\BasicArrayList - Exam\bin\Debug\net6.0\BasicArrayList - Exam.dll
+D:\CS projects\Sandbox For ArrayList Test\BasicArrayList - Exam\bin\Debug\net6.0\BasicArrayList - Exam.pdb
+D:\CS projects\Sandbox For ArrayList Test\BasicArrayList - Exam\obj\Debug\net6.0\BasicArrayList - Exam.GeneratedMSBuildEditorConfig.editorconfig
+D:\CS projects\Sandbox For ArrayList Test\BasicArrayList - Exam\obj\Debug\net6.0\BasicArrayList - Exam.AssemblyInfoInputs.cache
+D:\CS projects\Sandbox For ArrayList Test\BasicArrayList - Exam\obj\Debug\net6.0\BasicArrayList - Exam.AssemblyInfo.cs
+D:\CS projects\Sandbox For ArrayList Test\BasicArrayList - Exam\obj\Debug\net6.0\BasicArrayList - Exam.csproj.CoreCompileInputs.cache
+D:\CS projects\Sandbox For ArrayList Test\BasicArrayList - Exam\obj\Debug\net6.0\BasicArrayList - Exam.dll
+D:\CS projects\Sandbox For ArrayList Test\BasicArrayList - Exam\obj\Debug\net6.0\refint\BasicArrayList - Exam.dll
+D:\CS projects\Sandbox For ArrayList Test\BasicArrayList - Exam\obj\Debug\net6.0\BasicArrayList - Exam.pdb
+D:\CS projects\Sandbox For ArrayList Test\BasicArrayList - Exam\obj\Debug\net6.0\BasicArrayList - Exam.genruntimeconfig.cache
+D:\CS projects\Sandbox For ArrayList Test\BasicArrayList - Exam\obj\Debug\net6.0\ref\BasicArrayList - Exam.dll

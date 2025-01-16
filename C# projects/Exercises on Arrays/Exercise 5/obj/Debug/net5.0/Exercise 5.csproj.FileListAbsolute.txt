@@ -1,0 +1,16 @@
+C:\Users\hrist\source\repos\Exercises on Arrays\Exercise 5\bin\Debug\net5.0\Exercise 5.exe
+C:\Users\hrist\source\repos\Exercises on Arrays\Exercise 5\bin\Debug\net5.0\Exercise 5.deps.json
+C:\Users\hrist\source\repos\Exercises on Arrays\Exercise 5\bin\Debug\net5.0\Exercise 5.runtimeconfig.json
+C:\Users\hrist\source\repos\Exercises on Arrays\Exercise 5\bin\Debug\net5.0\Exercise 5.runtimeconfig.dev.json
+C:\Users\hrist\source\repos\Exercises on Arrays\Exercise 5\bin\Debug\net5.0\Exercise 5.dll
+C:\Users\hrist\source\repos\Exercises on Arrays\Exercise 5\bin\Debug\net5.0\ref\Exercise 5.dll
+C:\Users\hrist\source\repos\Exercises on Arrays\Exercise 5\bin\Debug\net5.0\Exercise 5.pdb
+C:\Users\hrist\source\repos\Exercises on Arrays\Exercise 5\obj\Debug\net5.0\Exercise 5.csproj.AssemblyReference.cache
+C:\Users\hrist\source\repos\Exercises on Arrays\Exercise 5\obj\Debug\net5.0\Exercise 5.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hrist\source\repos\Exercises on Arrays\Exercise 5\obj\Debug\net5.0\Exercise 5.AssemblyInfoInputs.cache
+C:\Users\hrist\source\repos\Exercises on Arrays\Exercise 5\obj\Debug\net5.0\Exercise 5.AssemblyInfo.cs
+C:\Users\hrist\source\repos\Exercises on Arrays\Exercise 5\obj\Debug\net5.0\Exercise 5.csproj.CoreCompileInputs.cache
+C:\Users\hrist\source\repos\Exercises on Arrays\Exercise 5\obj\Debug\net5.0\Exercise 5.dll
+C:\Users\hrist\source\repos\Exercises on Arrays\Exercise 5\obj\Debug\net5.0\ref\Exercise 5.dll
+C:\Users\hrist\source\repos\Exercises on Arrays\Exercise 5\obj\Debug\net5.0\Exercise 5.pdb
+C:\Users\hrist\source\repos\Exercises on Arrays\Exercise 5\obj\Debug\net5.0\Exercise 5.genruntimeconfig.cache

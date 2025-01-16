@@ -1,0 +1,16 @@
+C:\Users\hrist\source\repos\Lab. Lambda and LINQ\6. Best Word\bin\Debug\net5.0\6. Best Word.exe
+C:\Users\hrist\source\repos\Lab. Lambda and LINQ\6. Best Word\bin\Debug\net5.0\6. Best Word.deps.json
+C:\Users\hrist\source\repos\Lab. Lambda and LINQ\6. Best Word\bin\Debug\net5.0\6. Best Word.runtimeconfig.json
+C:\Users\hrist\source\repos\Lab. Lambda and LINQ\6. Best Word\bin\Debug\net5.0\6. Best Word.runtimeconfig.dev.json
+C:\Users\hrist\source\repos\Lab. Lambda and LINQ\6. Best Word\bin\Debug\net5.0\6. Best Word.dll
+C:\Users\hrist\source\repos\Lab. Lambda and LINQ\6. Best Word\bin\Debug\net5.0\ref\6. Best Word.dll
+C:\Users\hrist\source\repos\Lab. Lambda and LINQ\6. Best Word\bin\Debug\net5.0\6. Best Word.pdb
+C:\Users\hrist\source\repos\Lab. Lambda and LINQ\6. Best Word\obj\Debug\net5.0\6. Best Word.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hrist\source\repos\Lab. Lambda and LINQ\6. Best Word\obj\Debug\net5.0\6. Best Word.AssemblyInfoInputs.cache
+C:\Users\hrist\source\repos\Lab. Lambda and LINQ\6. Best Word\obj\Debug\net5.0\6. Best Word.AssemblyInfo.cs
+C:\Users\hrist\source\repos\Lab. Lambda and LINQ\6. Best Word\obj\Debug\net5.0\6. Best Word.csproj.CoreCompileInputs.cache
+C:\Users\hrist\source\repos\Lab. Lambda and LINQ\6. Best Word\obj\Debug\net5.0\6. Best Word.dll
+C:\Users\hrist\source\repos\Lab. Lambda and LINQ\6. Best Word\obj\Debug\net5.0\ref\6. Best Word.dll
+C:\Users\hrist\source\repos\Lab. Lambda and LINQ\6. Best Word\obj\Debug\net5.0\6. Best Word.pdb
+C:\Users\hrist\source\repos\Lab. Lambda and LINQ\6. Best Word\obj\Debug\net5.0\6. Best Word.genruntimeconfig.cache
+C:\Users\hrist\source\repos\Lab. Lambda and LINQ\6. Best Word\obj\Debug\net5.0\6. Best Word.csproj.AssemblyReference.cache

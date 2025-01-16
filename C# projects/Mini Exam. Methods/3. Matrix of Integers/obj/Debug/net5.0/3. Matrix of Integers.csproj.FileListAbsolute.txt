@@ -1,0 +1,16 @@
+C:\Users\hrist\source\repos\Mini Exam. Methods\3. Matrix of Integers\bin\Debug\net5.0\3. Matrix of Integers.exe
+C:\Users\hrist\source\repos\Mini Exam. Methods\3. Matrix of Integers\bin\Debug\net5.0\3. Matrix of Integers.deps.json
+C:\Users\hrist\source\repos\Mini Exam. Methods\3. Matrix of Integers\bin\Debug\net5.0\3. Matrix of Integers.runtimeconfig.json
+C:\Users\hrist\source\repos\Mini Exam. Methods\3. Matrix of Integers\bin\Debug\net5.0\3. Matrix of Integers.runtimeconfig.dev.json
+C:\Users\hrist\source\repos\Mini Exam. Methods\3. Matrix of Integers\bin\Debug\net5.0\3. Matrix of Integers.dll
+C:\Users\hrist\source\repos\Mini Exam. Methods\3. Matrix of Integers\bin\Debug\net5.0\ref\3. Matrix of Integers.dll
+C:\Users\hrist\source\repos\Mini Exam. Methods\3. Matrix of Integers\bin\Debug\net5.0\3. Matrix of Integers.pdb
+C:\Users\hrist\source\repos\Mini Exam. Methods\3. Matrix of Integers\obj\Debug\net5.0\3. Matrix of Integers.csproj.AssemblyReference.cache
+C:\Users\hrist\source\repos\Mini Exam. Methods\3. Matrix of Integers\obj\Debug\net5.0\3. Matrix of Integers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hrist\source\repos\Mini Exam. Methods\3. Matrix of Integers\obj\Debug\net5.0\3. Matrix of Integers.AssemblyInfoInputs.cache
+C:\Users\hrist\source\repos\Mini Exam. Methods\3. Matrix of Integers\obj\Debug\net5.0\3. Matrix of Integers.AssemblyInfo.cs
+C:\Users\hrist\source\repos\Mini Exam. Methods\3. Matrix of Integers\obj\Debug\net5.0\3. Matrix of Integers.csproj.CoreCompileInputs.cache
+C:\Users\hrist\source\repos\Mini Exam. Methods\3. Matrix of Integers\obj\Debug\net5.0\3. Matrix of Integers.dll
+C:\Users\hrist\source\repos\Mini Exam. Methods\3. Matrix of Integers\obj\Debug\net5.0\ref\3. Matrix of Integers.dll
+C:\Users\hrist\source\repos\Mini Exam. Methods\3. Matrix of Integers\obj\Debug\net5.0\3. Matrix of Integers.pdb
+C:\Users\hrist\source\repos\Mini Exam. Methods\3. Matrix of Integers\obj\Debug\net5.0\3. Matrix of Integers.genruntimeconfig.cache

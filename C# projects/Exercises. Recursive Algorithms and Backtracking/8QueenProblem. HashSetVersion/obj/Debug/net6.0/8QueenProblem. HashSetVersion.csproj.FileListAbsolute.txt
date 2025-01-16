@@ -1,0 +1,14 @@
+D:\CS projects\Exercises. Recursive Algorithms and Backtracking\8QueenProblem. HashSetVersion\bin\Debug\net6.0\8QueenProblem. HashSetVersion.exe
+D:\CS projects\Exercises. Recursive Algorithms and Backtracking\8QueenProblem. HashSetVersion\bin\Debug\net6.0\8QueenProblem. HashSetVersion.deps.json
+D:\CS projects\Exercises. Recursive Algorithms and Backtracking\8QueenProblem. HashSetVersion\bin\Debug\net6.0\8QueenProblem. HashSetVersion.runtimeconfig.json
+D:\CS projects\Exercises. Recursive Algorithms and Backtracking\8QueenProblem. HashSetVersion\bin\Debug\net6.0\8QueenProblem. HashSetVersion.dll
+D:\CS projects\Exercises. Recursive Algorithms and Backtracking\8QueenProblem. HashSetVersion\bin\Debug\net6.0\8QueenProblem. HashSetVersion.pdb
+D:\CS projects\Exercises. Recursive Algorithms and Backtracking\8QueenProblem. HashSetVersion\obj\Debug\net6.0\8QueenProblem. HashSetVersion.GeneratedMSBuildEditorConfig.editorconfig
+D:\CS projects\Exercises. Recursive Algorithms and Backtracking\8QueenProblem. HashSetVersion\obj\Debug\net6.0\8QueenProblem. HashSetVersion.AssemblyInfoInputs.cache
+D:\CS projects\Exercises. Recursive Algorithms and Backtracking\8QueenProblem. HashSetVersion\obj\Debug\net6.0\8QueenProblem. HashSetVersion.AssemblyInfo.cs
+D:\CS projects\Exercises. Recursive Algorithms and Backtracking\8QueenProblem. HashSetVersion\obj\Debug\net6.0\8QueenProblem. HashSetVersion.csproj.CoreCompileInputs.cache
+D:\CS projects\Exercises. Recursive Algorithms and Backtracking\8QueenProblem. HashSetVersion\obj\Debug\net6.0\8QueenProblem. HashSetVersion.dll
+D:\CS projects\Exercises. Recursive Algorithms and Backtracking\8QueenProblem. HashSetVersion\obj\Debug\net6.0\refint\8QueenProblem. HashSetVersion.dll
+D:\CS projects\Exercises. Recursive Algorithms and Backtracking\8QueenProblem. HashSetVersion\obj\Debug\net6.0\8QueenProblem. HashSetVersion.pdb
+D:\CS projects\Exercises. Recursive Algorithms and Backtracking\8QueenProblem. HashSetVersion\obj\Debug\net6.0\8QueenProblem. HashSetVersion.genruntimeconfig.cache
+D:\CS projects\Exercises. Recursive Algorithms and Backtracking\8QueenProblem. HashSetVersion\obj\Debug\net6.0\ref\8QueenProblem. HashSetVersion.dll

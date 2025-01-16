@@ -1,0 +1,21 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "109703ef-3129-4cd3-9ea8-c6ce9330439e": {
+      "ProjectGuid": "109703ef-3129-4cd3-9ea8-c6ce9330439e",
+      "DisplayName": "1. Day of Week",
+      "ColorIndex": 0
+    },
+    "ee28be9c-ea4f-4852-840a-b27f073bb449": {
+      "ProjectGuid": "ee28be9c-ea4f-4852-840a-b27f073bb449",
+      "DisplayName": "4. Rectangle Class",
+      "ColorIndex": 1
+    },
+    "fbb9e3e4-915a-4ced-805d-b3eee4c2d5dc": {
+      "ProjectGuid": "fbb9e3e4-915a-4ced-805d-b3eee4c2d5dc",
+      "DisplayName": "2. Randomize Words",
+      "ColorIndex": 2
+    }
+  },
+  "NextColorIndex": 3
+}

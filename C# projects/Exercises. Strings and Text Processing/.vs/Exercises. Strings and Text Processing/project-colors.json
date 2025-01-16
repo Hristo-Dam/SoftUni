@@ -1,0 +1,16 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "002b3a46-506f-4489-99bc-a69d4b747b5a": {
+      "ProjectGuid": "002b3a46-506f-4489-99bc-a69d4b747b5a",
+      "DisplayName": "1. Valid Usernames",
+      "ColorIndex": 0
+    },
+    "218511e8-37f7-477b-a49e-5ea4f753ca47": {
+      "ProjectGuid": "218511e8-37f7-477b-a49e-5ea4f753ca47",
+      "DisplayName": "2. Extract File",
+      "ColorIndex": 1
+    }
+  },
+  "NextColorIndex": 2
+}

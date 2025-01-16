@@ -1,0 +1,55 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34728.123
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "recursion", "recursion\recursion.csproj", "{4C48BF09-D466-46EA-AB9F-76C09C427942}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "RecursiveArraySum", "RecursiveArraySum\RecursiveArraySum.csproj", "{2228EA50-4466-440A-938D-800D8794975B}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ReverseArray", "ReverseArray\ReverseArray.csproj", "{495C2542-5D18-4CBC-AFBD-A8C614509EF1}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "RecursiveFactorial", "RecursiveFactorial\RecursiveFactorial.csproj", "{CE183C83-5798-4961-8FF1-8799717A878A}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "RecursiveDrawing", "RecursiveDrawing\RecursiveDrawing.csproj", "{D2015D6A-E6A2-4909-9C91-75287E187A81}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NastedLoopToRecursion", "NastedLoopToRecursion\NastedLoopToRecursion.csproj", "{6D28B3DE-9099-4F30-B7EA-3C1710685358}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4C48BF09-D466-46EA-AB9F-76C09C427942}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4C48BF09-D466-46EA-AB9F-76C09C427942}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4C48BF09-D466-46EA-AB9F-76C09C427942}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4C48BF09-D466-46EA-AB9F-76C09C427942}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2228EA50-4466-440A-938D-800D8794975B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2228EA50-4466-440A-938D-800D8794975B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2228EA50-4466-440A-938D-800D8794975B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2228EA50-4466-440A-938D-800D8794975B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{495C2542-5D18-4CBC-AFBD-A8C614509EF1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{495C2542-5D18-4CBC-AFBD-A8C614509EF1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{495C2542-5D18-4CBC-AFBD-A8C614509EF1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{495C2542-5D18-4CBC-AFBD-A8C614509EF1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CE183C83-5798-4961-8FF1-8799717A878A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CE183C83-5798-4961-8FF1-8799717A878A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CE183C83-5798-4961-8FF1-8799717A878A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CE183C83-5798-4961-8FF1-8799717A878A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D2015D6A-E6A2-4909-9C91-75287E187A81}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D2015D6A-E6A2-4909-9C91-75287E187A81}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D2015D6A-E6A2-4909-9C91-75287E187A81}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D2015D6A-E6A2-4909-9C91-75287E187A81}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6D28B3DE-9099-4F30-B7EA-3C1710685358}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6D28B3DE-9099-4F30-B7EA-3C1710685358}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6D28B3DE-9099-4F30-B7EA-3C1710685358}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6D28B3DE-9099-4F30-B7EA-3C1710685358}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {34C04A8C-F52A-46AF-B2D0-23EEF9C94369}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,21 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "be2d8f77-8219-4db6-99b6-6605ea2b9e1f": {
+      "ProjectGuid": "be2d8f77-8219-4db6-99b6-6605ea2b9e1f",
+      "DisplayName": "5. Print an element by a zero-based index",
+      "ColorIndex": 0
+    },
+    "75b28566-d14f-4027-85d9-1a5fe03bdeb3": {
+      "ProjectGuid": "75b28566-d14f-4027-85d9-1a5fe03bdeb3",
+      "DisplayName": "6. Print an element, also check range",
+      "ColorIndex": 1
+    },
+    "74783359-21f7-4a1f-a98b-de8ad9e5b20d": {
+      "ProjectGuid": "74783359-21f7-4a1f-a98b-de8ad9e5b20d",
+      "DisplayName": "7. Print an element by natural indexing",
+      "ColorIndex": 2
+    }
+  },
+  "NextColorIndex": 3
+}

@@ -1,0 +1,16 @@
+C:\Users\hrist\source\repos\1. Rename key\1. Rename key\bin\Debug\net5.0\1. Rename key.exe
+C:\Users\hrist\source\repos\1. Rename key\1. Rename key\bin\Debug\net5.0\1. Rename key.deps.json
+C:\Users\hrist\source\repos\1. Rename key\1. Rename key\bin\Debug\net5.0\1. Rename key.runtimeconfig.json
+C:\Users\hrist\source\repos\1. Rename key\1. Rename key\bin\Debug\net5.0\1. Rename key.runtimeconfig.dev.json
+C:\Users\hrist\source\repos\1. Rename key\1. Rename key\bin\Debug\net5.0\1. Rename key.dll
+C:\Users\hrist\source\repos\1. Rename key\1. Rename key\bin\Debug\net5.0\ref\1. Rename key.dll
+C:\Users\hrist\source\repos\1. Rename key\1. Rename key\bin\Debug\net5.0\1. Rename key.pdb
+C:\Users\hrist\source\repos\1. Rename key\1. Rename key\obj\Debug\net5.0\1. Rename key.csproj.AssemblyReference.cache
+C:\Users\hrist\source\repos\1. Rename key\1. Rename key\obj\Debug\net5.0\1. Rename key.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hrist\source\repos\1. Rename key\1. Rename key\obj\Debug\net5.0\1. Rename key.AssemblyInfoInputs.cache
+C:\Users\hrist\source\repos\1. Rename key\1. Rename key\obj\Debug\net5.0\1. Rename key.AssemblyInfo.cs
+C:\Users\hrist\source\repos\1. Rename key\1. Rename key\obj\Debug\net5.0\1. Rename key.csproj.CoreCompileInputs.cache
+C:\Users\hrist\source\repos\1. Rename key\1. Rename key\obj\Debug\net5.0\1. Rename key.dll
+C:\Users\hrist\source\repos\1. Rename key\1. Rename key\obj\Debug\net5.0\ref\1. Rename key.dll
+C:\Users\hrist\source\repos\1. Rename key\1. Rename key\obj\Debug\net5.0\1. Rename key.pdb
+C:\Users\hrist\source\repos\1. Rename key\1. Rename key\obj\Debug\net5.0\1. Rename key.genruntimeconfig.cache

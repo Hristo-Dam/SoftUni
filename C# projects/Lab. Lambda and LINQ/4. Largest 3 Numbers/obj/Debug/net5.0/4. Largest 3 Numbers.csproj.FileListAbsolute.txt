@@ -1,0 +1,16 @@
+C:\Users\hrist\source\repos\Lab. Lambda and LINQ\4. Largest 3 Numbers\bin\Debug\net5.0\4. Largest 3 Numbers.exe
+C:\Users\hrist\source\repos\Lab. Lambda and LINQ\4. Largest 3 Numbers\bin\Debug\net5.0\4. Largest 3 Numbers.deps.json
+C:\Users\hrist\source\repos\Lab. Lambda and LINQ\4. Largest 3 Numbers\bin\Debug\net5.0\4. Largest 3 Numbers.runtimeconfig.json
+C:\Users\hrist\source\repos\Lab. Lambda and LINQ\4. Largest 3 Numbers\bin\Debug\net5.0\4. Largest 3 Numbers.runtimeconfig.dev.json
+C:\Users\hrist\source\repos\Lab. Lambda and LINQ\4. Largest 3 Numbers\bin\Debug\net5.0\4. Largest 3 Numbers.dll
+C:\Users\hrist\source\repos\Lab. Lambda and LINQ\4. Largest 3 Numbers\bin\Debug\net5.0\ref\4. Largest 3 Numbers.dll
+C:\Users\hrist\source\repos\Lab. Lambda and LINQ\4. Largest 3 Numbers\bin\Debug\net5.0\4. Largest 3 Numbers.pdb
+C:\Users\hrist\source\repos\Lab. Lambda and LINQ\4. Largest 3 Numbers\obj\Debug\net5.0\4. Largest 3 Numbers.csproj.AssemblyReference.cache
+C:\Users\hrist\source\repos\Lab. Lambda and LINQ\4. Largest 3 Numbers\obj\Debug\net5.0\4. Largest 3 Numbers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hrist\source\repos\Lab. Lambda and LINQ\4. Largest 3 Numbers\obj\Debug\net5.0\4. Largest 3 Numbers.AssemblyInfoInputs.cache
+C:\Users\hrist\source\repos\Lab. Lambda and LINQ\4. Largest 3 Numbers\obj\Debug\net5.0\4. Largest 3 Numbers.AssemblyInfo.cs
+C:\Users\hrist\source\repos\Lab. Lambda and LINQ\4. Largest 3 Numbers\obj\Debug\net5.0\4. Largest 3 Numbers.csproj.CoreCompileInputs.cache
+C:\Users\hrist\source\repos\Lab. Lambda and LINQ\4. Largest 3 Numbers\obj\Debug\net5.0\4. Largest 3 Numbers.dll
+C:\Users\hrist\source\repos\Lab. Lambda and LINQ\4. Largest 3 Numbers\obj\Debug\net5.0\ref\4. Largest 3 Numbers.dll
+C:\Users\hrist\source\repos\Lab. Lambda and LINQ\4. Largest 3 Numbers\obj\Debug\net5.0\4. Largest 3 Numbers.pdb
+C:\Users\hrist\source\repos\Lab. Lambda and LINQ\4. Largest 3 Numbers\obj\Debug\net5.0\4. Largest 3 Numbers.genruntimeconfig.cache

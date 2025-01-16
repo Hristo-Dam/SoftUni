@@ -1,0 +1,16 @@
+C:\Users\hrist\source\repos\Exercises. Functional Programming\1. Action Print\bin\Debug\net5.0\1. Action Print.exe
+C:\Users\hrist\source\repos\Exercises. Functional Programming\1. Action Print\bin\Debug\net5.0\1. Action Print.deps.json
+C:\Users\hrist\source\repos\Exercises. Functional Programming\1. Action Print\bin\Debug\net5.0\1. Action Print.runtimeconfig.json
+C:\Users\hrist\source\repos\Exercises. Functional Programming\1. Action Print\bin\Debug\net5.0\1. Action Print.runtimeconfig.dev.json
+C:\Users\hrist\source\repos\Exercises. Functional Programming\1. Action Print\bin\Debug\net5.0\1. Action Print.dll
+C:\Users\hrist\source\repos\Exercises. Functional Programming\1. Action Print\bin\Debug\net5.0\ref\1. Action Print.dll
+C:\Users\hrist\source\repos\Exercises. Functional Programming\1. Action Print\bin\Debug\net5.0\1. Action Print.pdb
+C:\Users\hrist\source\repos\Exercises. Functional Programming\1. Action Print\obj\Debug\net5.0\1. Action Print.csproj.AssemblyReference.cache
+C:\Users\hrist\source\repos\Exercises. Functional Programming\1. Action Print\obj\Debug\net5.0\1. Action Print.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hrist\source\repos\Exercises. Functional Programming\1. Action Print\obj\Debug\net5.0\1. Action Print.AssemblyInfoInputs.cache
+C:\Users\hrist\source\repos\Exercises. Functional Programming\1. Action Print\obj\Debug\net5.0\1. Action Print.AssemblyInfo.cs
+C:\Users\hrist\source\repos\Exercises. Functional Programming\1. Action Print\obj\Debug\net5.0\1. Action Print.csproj.CoreCompileInputs.cache
+C:\Users\hrist\source\repos\Exercises. Functional Programming\1. Action Print\obj\Debug\net5.0\1. Action Print.dll
+C:\Users\hrist\source\repos\Exercises. Functional Programming\1. Action Print\obj\Debug\net5.0\ref\1. Action Print.dll
+C:\Users\hrist\source\repos\Exercises. Functional Programming\1. Action Print\obj\Debug\net5.0\1. Action Print.pdb
+C:\Users\hrist\source\repos\Exercises. Functional Programming\1. Action Print\obj\Debug\net5.0\1. Action Print.genruntimeconfig.cache

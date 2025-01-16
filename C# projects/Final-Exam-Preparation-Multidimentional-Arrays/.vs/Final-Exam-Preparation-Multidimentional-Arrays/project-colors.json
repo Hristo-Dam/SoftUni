@@ -1,0 +1,21 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "9595bf07-5af1-4563-a45a-920a39d70d96": {
+      "ProjectGuid": "9595bf07-5af1-4563-a45a-920a39d70d96",
+      "DisplayName": "1. Symmetry",
+      "ColorIndex": 0
+    },
+    "54684248-1a1c-4e6e-bd3a-8d135499f496": {
+      "ProjectGuid": "54684248-1a1c-4e6e-bd3a-8d135499f496",
+      "DisplayName": "2. Word check",
+      "ColorIndex": 1
+    },
+    "7063e7cd-c9d2-4953-86d2-e578a798faa2": {
+      "ProjectGuid": "7063e7cd-c9d2-4953-86d2-e578a798faa2",
+      "DisplayName": "3. Word count",
+      "ColorIndex": 2
+    }
+  },
+  "NextColorIndex": 3
+}

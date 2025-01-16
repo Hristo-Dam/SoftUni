@@ -1,0 +1,17 @@
+D:\C# projects\Exercises. Intro to Data Structures\EventsInGivenDateRange\bin\Debug\net6.0\EventsInGivenDateRange.exe
+D:\C# projects\Exercises. Intro to Data Structures\EventsInGivenDateRange\bin\Debug\net6.0\EventsInGivenDateRange.deps.json
+D:\C# projects\Exercises. Intro to Data Structures\EventsInGivenDateRange\bin\Debug\net6.0\EventsInGivenDateRange.runtimeconfig.json
+D:\C# projects\Exercises. Intro to Data Structures\EventsInGivenDateRange\bin\Debug\net6.0\EventsInGivenDateRange.dll
+D:\C# projects\Exercises. Intro to Data Structures\EventsInGivenDateRange\bin\Debug\net6.0\EventsInGivenDateRange.pdb
+D:\C# projects\Exercises. Intro to Data Structures\EventsInGivenDateRange\bin\Debug\net6.0\Wintellect.PowerCollections.dll
+D:\C# projects\Exercises. Intro to Data Structures\EventsInGivenDateRange\obj\Debug\net6.0\EventsInGivenDateRange.csproj.AssemblyReference.cache
+D:\C# projects\Exercises. Intro to Data Structures\EventsInGivenDateRange\obj\Debug\net6.0\EventsInGivenDateRange.GeneratedMSBuildEditorConfig.editorconfig
+D:\C# projects\Exercises. Intro to Data Structures\EventsInGivenDateRange\obj\Debug\net6.0\EventsInGivenDateRange.AssemblyInfoInputs.cache
+D:\C# projects\Exercises. Intro to Data Structures\EventsInGivenDateRange\obj\Debug\net6.0\EventsInGivenDateRange.AssemblyInfo.cs
+D:\C# projects\Exercises. Intro to Data Structures\EventsInGivenDateRange\obj\Debug\net6.0\EventsInGivenDateRange.csproj.CoreCompileInputs.cache
+D:\C# projects\Exercises. Intro to Data Structures\EventsInGivenDateRange\obj\Debug\net6.0\EventsIn.ADB1052F.Up2Date
+D:\C# projects\Exercises. Intro to Data Structures\EventsInGivenDateRange\obj\Debug\net6.0\EventsInGivenDateRange.dll
+D:\C# projects\Exercises. Intro to Data Structures\EventsInGivenDateRange\obj\Debug\net6.0\refint\EventsInGivenDateRange.dll
+D:\C# projects\Exercises. Intro to Data Structures\EventsInGivenDateRange\obj\Debug\net6.0\EventsInGivenDateRange.pdb
+D:\C# projects\Exercises. Intro to Data Structures\EventsInGivenDateRange\obj\Debug\net6.0\EventsInGivenDateRange.genruntimeconfig.cache
+D:\C# projects\Exercises. Intro to Data Structures\EventsInGivenDateRange\obj\Debug\net6.0\ref\EventsInGivenDateRange.dll

@@ -1,0 +1,26 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "d599d940-15f5-4715-9d2f-db3d37a79338": {
+      "ProjectGuid": "d599d940-15f5-4715-9d2f-db3d37a79338",
+      "DisplayName": "1. Convert Meters to Kilometers",
+      "ColorIndex": 0
+    },
+    "a51e284f-93e8-4a51-8e8b-8a58068123ec": {
+      "ProjectGuid": "a51e284f-93e8-4a51-8e8b-8a58068123ec",
+      "DisplayName": "2. Pounds to Dollars",
+      "ColorIndex": 1
+    },
+    "fe3a1765-8726-4c66-8a44-dbf522cc3af4": {
+      "ProjectGuid": "fe3a1765-8726-4c66-8a44-dbf522cc3af4",
+      "DisplayName": "3. Exact Sum of Real Numbers",
+      "ColorIndex": 2
+    },
+    "5be7acd1-a27e-4053-b411-10ca32dd0606": {
+      "ProjectGuid": "5be7acd1-a27e-4053-b411-10ca32dd0606",
+      "DisplayName": "4. Centuries to Minutes",
+      "ColorIndex": 3
+    }
+  },
+  "NextColorIndex": 4
+}

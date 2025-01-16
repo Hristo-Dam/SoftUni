@@ -1,0 +1,16 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "b140e0ac-0a0f-4bfa-80bc-9fdae218659b": {
+      "ProjectGuid": "b140e0ac-0a0f-4bfa-80bc-9fdae218659b",
+      "DisplayName": "1. Car",
+      "ColorIndex": 0
+    },
+    "c8ba2ad7-abd2-494a-a5ab-b074700ac43e": {
+      "ProjectGuid": "c8ba2ad7-abd2-494a-a5ab-b074700ac43e",
+      "DisplayName": "2. Car. Add More Members",
+      "ColorIndex": 1
+    }
+  },
+  "NextColorIndex": 2
+}

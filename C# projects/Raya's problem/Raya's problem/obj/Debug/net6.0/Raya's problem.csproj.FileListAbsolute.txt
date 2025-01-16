@@ -1,0 +1,14 @@
+D:\CS projects\Raya's problem\Raya's problem\bin\Debug\net6.0\Raya's problem.exe
+D:\CS projects\Raya's problem\Raya's problem\bin\Debug\net6.0\Raya's problem.deps.json
+D:\CS projects\Raya's problem\Raya's problem\bin\Debug\net6.0\Raya's problem.runtimeconfig.json
+D:\CS projects\Raya's problem\Raya's problem\bin\Debug\net6.0\Raya's problem.dll
+D:\CS projects\Raya's problem\Raya's problem\bin\Debug\net6.0\Raya's problem.pdb
+D:\CS projects\Raya's problem\Raya's problem\obj\Debug\net6.0\Raya's problem.GeneratedMSBuildEditorConfig.editorconfig
+D:\CS projects\Raya's problem\Raya's problem\obj\Debug\net6.0\Raya's problem.AssemblyInfoInputs.cache
+D:\CS projects\Raya's problem\Raya's problem\obj\Debug\net6.0\Raya's problem.AssemblyInfo.cs
+D:\CS projects\Raya's problem\Raya's problem\obj\Debug\net6.0\Raya's problem.csproj.CoreCompileInputs.cache
+D:\CS projects\Raya's problem\Raya's problem\obj\Debug\net6.0\Raya's problem.dll
+D:\CS projects\Raya's problem\Raya's problem\obj\Debug\net6.0\refint\Raya's problem.dll
+D:\CS projects\Raya's problem\Raya's problem\obj\Debug\net6.0\Raya's problem.pdb
+D:\CS projects\Raya's problem\Raya's problem\obj\Debug\net6.0\Raya's problem.genruntimeconfig.cache
+D:\CS projects\Raya's problem\Raya's problem\obj\Debug\net6.0\ref\Raya's problem.dll

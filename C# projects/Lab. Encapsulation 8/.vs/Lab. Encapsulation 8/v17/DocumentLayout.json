@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\CS projects\\Lab. Encapsulation 8\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{BADE76B0-D874-47F2-A046-6B76523732CF}|PersonsInfo\\PersonsInfo.csproj|d:\\cs projects\\lab. encapsulation 8\\personsinfo\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BADE76B0-D874-47F2-A046-6B76523732CF}|PersonsInfo\\PersonsInfo.csproj|solutionrelative:personsinfo\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BADE76B0-D874-47F2-A046-6B76523732CF}|PersonsInfo\\PersonsInfo.csproj|d:\\cs projects\\lab. encapsulation 8\\personsinfo\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BADE76B0-D874-47F2-A046-6B76523732CF}|PersonsInfo\\PersonsInfo.csproj|solutionrelative:personsinfo\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Person.cs",
+              "DocumentMoniker": "D:\\CS projects\\Lab. Encapsulation 8\\PersonsInfo\\Person.cs",
+              "RelativeDocumentMoniker": "PersonsInfo\\Person.cs",
+              "ToolTip": "D:\\CS projects\\Lab. Encapsulation 8\\PersonsInfo\\Person.cs",
+              "RelativeToolTip": "PersonsInfo\\Person.cs",
+              "ViewState": "AQIAACUAAAAAAAAAAAAkwDoAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-06T12:55:35.117Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "StartUp.cs",
+              "DocumentMoniker": "D:\\CS projects\\Lab. Encapsulation 8\\PersonsInfo\\StartUp.cs",
+              "RelativeDocumentMoniker": "PersonsInfo\\StartUp.cs",
+              "ToolTip": "D:\\CS projects\\Lab. Encapsulation 8\\PersonsInfo\\StartUp.cs",
+              "RelativeToolTip": "PersonsInfo\\StartUp.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-06T12:54:33.701Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

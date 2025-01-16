@@ -1,0 +1,16 @@
+C:\Users\hrist\source\repos\Homework. Dictionaries and Sets\3. Swap keys with values\bin\Debug\net5.0\3. Swap keys with values.exe
+C:\Users\hrist\source\repos\Homework. Dictionaries and Sets\3. Swap keys with values\bin\Debug\net5.0\3. Swap keys with values.deps.json
+C:\Users\hrist\source\repos\Homework. Dictionaries and Sets\3. Swap keys with values\bin\Debug\net5.0\3. Swap keys with values.runtimeconfig.json
+C:\Users\hrist\source\repos\Homework. Dictionaries and Sets\3. Swap keys with values\bin\Debug\net5.0\3. Swap keys with values.runtimeconfig.dev.json
+C:\Users\hrist\source\repos\Homework. Dictionaries and Sets\3. Swap keys with values\bin\Debug\net5.0\3. Swap keys with values.dll
+C:\Users\hrist\source\repos\Homework. Dictionaries and Sets\3. Swap keys with values\bin\Debug\net5.0\ref\3. Swap keys with values.dll
+C:\Users\hrist\source\repos\Homework. Dictionaries and Sets\3. Swap keys with values\bin\Debug\net5.0\3. Swap keys with values.pdb
+C:\Users\hrist\source\repos\Homework. Dictionaries and Sets\3. Swap keys with values\obj\Debug\net5.0\3. Swap keys with values.csproj.AssemblyReference.cache
+C:\Users\hrist\source\repos\Homework. Dictionaries and Sets\3. Swap keys with values\obj\Debug\net5.0\3. Swap keys with values.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hrist\source\repos\Homework. Dictionaries and Sets\3. Swap keys with values\obj\Debug\net5.0\3. Swap keys with values.AssemblyInfoInputs.cache
+C:\Users\hrist\source\repos\Homework. Dictionaries and Sets\3. Swap keys with values\obj\Debug\net5.0\3. Swap keys with values.AssemblyInfo.cs
+C:\Users\hrist\source\repos\Homework. Dictionaries and Sets\3. Swap keys with values\obj\Debug\net5.0\3. Swap keys with values.csproj.CoreCompileInputs.cache
+C:\Users\hrist\source\repos\Homework. Dictionaries and Sets\3. Swap keys with values\obj\Debug\net5.0\3. Swap keys with values.dll
+C:\Users\hrist\source\repos\Homework. Dictionaries and Sets\3. Swap keys with values\obj\Debug\net5.0\ref\3. Swap keys with values.dll
+C:\Users\hrist\source\repos\Homework. Dictionaries and Sets\3. Swap keys with values\obj\Debug\net5.0\3. Swap keys with values.pdb
+C:\Users\hrist\source\repos\Homework. Dictionaries and Sets\3. Swap keys with values\obj\Debug\net5.0\3. Swap keys with values.genruntimeconfig.cache

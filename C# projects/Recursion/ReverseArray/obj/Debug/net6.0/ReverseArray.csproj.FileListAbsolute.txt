@@ -1,0 +1,14 @@
+D:\CS projects\Recursion\ReverseArray\bin\Debug\net6.0\ReverseArray.exe
+D:\CS projects\Recursion\ReverseArray\bin\Debug\net6.0\ReverseArray.deps.json
+D:\CS projects\Recursion\ReverseArray\bin\Debug\net6.0\ReverseArray.runtimeconfig.json
+D:\CS projects\Recursion\ReverseArray\bin\Debug\net6.0\ReverseArray.dll
+D:\CS projects\Recursion\ReverseArray\bin\Debug\net6.0\ReverseArray.pdb
+D:\CS projects\Recursion\ReverseArray\obj\Debug\net6.0\ReverseArray.GeneratedMSBuildEditorConfig.editorconfig
+D:\CS projects\Recursion\ReverseArray\obj\Debug\net6.0\ReverseArray.AssemblyInfoInputs.cache
+D:\CS projects\Recursion\ReverseArray\obj\Debug\net6.0\ReverseArray.AssemblyInfo.cs
+D:\CS projects\Recursion\ReverseArray\obj\Debug\net6.0\ReverseArray.csproj.CoreCompileInputs.cache
+D:\CS projects\Recursion\ReverseArray\obj\Debug\net6.0\ReverseArray.dll
+D:\CS projects\Recursion\ReverseArray\obj\Debug\net6.0\refint\ReverseArray.dll
+D:\CS projects\Recursion\ReverseArray\obj\Debug\net6.0\ReverseArray.pdb
+D:\CS projects\Recursion\ReverseArray\obj\Debug\net6.0\ReverseArray.genruntimeconfig.cache
+D:\CS projects\Recursion\ReverseArray\obj\Debug\net6.0\ref\ReverseArray.dll

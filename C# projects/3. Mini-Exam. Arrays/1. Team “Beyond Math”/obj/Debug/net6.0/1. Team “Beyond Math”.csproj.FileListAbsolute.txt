@@ -1,0 +1,15 @@
+C:\Users\hrist\source\repos\3. Mini-Exam. Arrays\1. Team “Beyond Math”\bin\Debug\net6.0\1. Team “Beyond Math”.exe
+C:\Users\hrist\source\repos\3. Mini-Exam. Arrays\1. Team “Beyond Math”\bin\Debug\net6.0\1. Team “Beyond Math”.deps.json
+C:\Users\hrist\source\repos\3. Mini-Exam. Arrays\1. Team “Beyond Math”\bin\Debug\net6.0\1. Team “Beyond Math”.runtimeconfig.json
+C:\Users\hrist\source\repos\3. Mini-Exam. Arrays\1. Team “Beyond Math”\bin\Debug\net6.0\1. Team “Beyond Math”.dll
+C:\Users\hrist\source\repos\3. Mini-Exam. Arrays\1. Team “Beyond Math”\bin\Debug\net6.0\ref\1. Team “Beyond Math”.dll
+C:\Users\hrist\source\repos\3. Mini-Exam. Arrays\1. Team “Beyond Math”\bin\Debug\net6.0\1. Team “Beyond Math”.pdb
+C:\Users\hrist\source\repos\3. Mini-Exam. Arrays\1. Team “Beyond Math”\obj\Debug\net6.0\1. Team “Beyond Math”.csproj.AssemblyReference.cache
+C:\Users\hrist\source\repos\3. Mini-Exam. Arrays\1. Team “Beyond Math”\obj\Debug\net6.0\1. Team “Beyond Math”.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hrist\source\repos\3. Mini-Exam. Arrays\1. Team “Beyond Math”\obj\Debug\net6.0\1. Team “Beyond Math”.AssemblyInfoInputs.cache
+C:\Users\hrist\source\repos\3. Mini-Exam. Arrays\1. Team “Beyond Math”\obj\Debug\net6.0\1. Team “Beyond Math”.AssemblyInfo.cs
+C:\Users\hrist\source\repos\3. Mini-Exam. Arrays\1. Team “Beyond Math”\obj\Debug\net6.0\1. Team “Beyond Math”.csproj.CoreCompileInputs.cache
+C:\Users\hrist\source\repos\3. Mini-Exam. Arrays\1. Team “Beyond Math”\obj\Debug\net6.0\1. Team “Beyond Math”.dll
+C:\Users\hrist\source\repos\3. Mini-Exam. Arrays\1. Team “Beyond Math”\obj\Debug\net6.0\ref\1. Team “Beyond Math”.dll
+C:\Users\hrist\source\repos\3. Mini-Exam. Arrays\1. Team “Beyond Math”\obj\Debug\net6.0\1. Team “Beyond Math”.pdb
+C:\Users\hrist\source\repos\3. Mini-Exam. Arrays\1. Team “Beyond Math”\obj\Debug\net6.0\1. Team “Beyond Math”.genruntimeconfig.cache

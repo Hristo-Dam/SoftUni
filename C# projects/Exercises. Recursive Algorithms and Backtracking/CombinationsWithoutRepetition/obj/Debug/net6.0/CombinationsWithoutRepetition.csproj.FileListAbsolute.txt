@@ -1,0 +1,14 @@
+D:\CS projects\Exercises. Recursive Algorithms and Backtracking\CombinationsWithoutRepetition\bin\Debug\net6.0\CombinationsWithoutRepetition.exe
+D:\CS projects\Exercises. Recursive Algorithms and Backtracking\CombinationsWithoutRepetition\bin\Debug\net6.0\CombinationsWithoutRepetition.deps.json
+D:\CS projects\Exercises. Recursive Algorithms and Backtracking\CombinationsWithoutRepetition\bin\Debug\net6.0\CombinationsWithoutRepetition.runtimeconfig.json
+D:\CS projects\Exercises. Recursive Algorithms and Backtracking\CombinationsWithoutRepetition\bin\Debug\net6.0\CombinationsWithoutRepetition.dll
+D:\CS projects\Exercises. Recursive Algorithms and Backtracking\CombinationsWithoutRepetition\bin\Debug\net6.0\CombinationsWithoutRepetition.pdb
+D:\CS projects\Exercises. Recursive Algorithms and Backtracking\CombinationsWithoutRepetition\obj\Debug\net6.0\CombinationsWithoutRepetition.GeneratedMSBuildEditorConfig.editorconfig
+D:\CS projects\Exercises. Recursive Algorithms and Backtracking\CombinationsWithoutRepetition\obj\Debug\net6.0\CombinationsWithoutRepetition.AssemblyInfoInputs.cache
+D:\CS projects\Exercises. Recursive Algorithms and Backtracking\CombinationsWithoutRepetition\obj\Debug\net6.0\CombinationsWithoutRepetition.AssemblyInfo.cs
+D:\CS projects\Exercises. Recursive Algorithms and Backtracking\CombinationsWithoutRepetition\obj\Debug\net6.0\CombinationsWithoutRepetition.csproj.CoreCompileInputs.cache
+D:\CS projects\Exercises. Recursive Algorithms and Backtracking\CombinationsWithoutRepetition\obj\Debug\net6.0\CombinationsWithoutRepetition.dll
+D:\CS projects\Exercises. Recursive Algorithms and Backtracking\CombinationsWithoutRepetition\obj\Debug\net6.0\refint\CombinationsWithoutRepetition.dll
+D:\CS projects\Exercises. Recursive Algorithms and Backtracking\CombinationsWithoutRepetition\obj\Debug\net6.0\CombinationsWithoutRepetition.pdb
+D:\CS projects\Exercises. Recursive Algorithms and Backtracking\CombinationsWithoutRepetition\obj\Debug\net6.0\CombinationsWithoutRepetition.genruntimeconfig.cache
+D:\CS projects\Exercises. Recursive Algorithms and Backtracking\CombinationsWithoutRepetition\obj\Debug\net6.0\ref\CombinationsWithoutRepetition.dll

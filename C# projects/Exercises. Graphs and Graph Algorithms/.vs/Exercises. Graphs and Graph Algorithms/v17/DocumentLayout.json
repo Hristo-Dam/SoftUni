@@ -1,0 +1,68 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\C# projects\\Exercises. Graphs and Graph Algorithms\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{50A8F843-87F2-4EEA-97F8-9F534DFF843E}|CyclesInGraph\\CyclesInGraph.csproj|d:\\c# projects\\exercises. graphs and graph algorithms\\cyclesingraph\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{50A8F843-87F2-4EEA-97F8-9F534DFF843E}|CyclesInGraph\\CyclesInGraph.csproj|solutionrelative:cyclesingraph\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{50A8F843-87F2-4EEA-97F8-9F534DFF843E}|CyclesInGraph\\CyclesInGraph.csproj|d:\\c# projects\\exercises. graphs and graph algorithms\\cyclesingraph\\graph.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{50A8F843-87F2-4EEA-97F8-9F534DFF843E}|CyclesInGraph\\CyclesInGraph.csproj|solutionrelative:cyclesingraph\\graph.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Graph.cs",
+              "DocumentMoniker": "D:\\C# projects\\Exercises. Graphs and Graph Algorithms\\CyclesInGraph\\Graph.cs",
+              "RelativeDocumentMoniker": "CyclesInGraph\\Graph.cs",
+              "ToolTip": "D:\\C# projects\\Exercises. Graphs and Graph Algorithms\\CyclesInGraph\\Graph.cs",
+              "RelativeToolTip": "CyclesInGraph\\Graph.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-11T08:17:45.774Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "StartUp.cs",
+              "DocumentMoniker": "D:\\C# projects\\Exercises. Graphs and Graph Algorithms\\CyclesInGraph\\StartUp.cs",
+              "RelativeDocumentMoniker": "CyclesInGraph\\StartUp.cs",
+              "ToolTip": "D:\\C# projects\\Exercises. Graphs and Graph Algorithms\\CyclesInGraph\\StartUp.cs",
+              "RelativeToolTip": "CyclesInGraph\\StartUp.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAIAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-11T08:15:22.124Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

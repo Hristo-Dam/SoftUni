@@ -1,0 +1,56 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "e7f68a79-47ca-4d16-8c7a-8c1ccde948f3": {
+      "ProjectGuid": "e7f68a79-47ca-4d16-8c7a-8c1ccde948f3",
+      "DisplayName": "2. Sign of Integer Numbers",
+      "ColorIndex": 0
+    },
+    "7afd3351-21c1-47c6-99c4-23a696017d56": {
+      "ProjectGuid": "7afd3351-21c1-47c6-99c4-23a696017d56",
+      "DisplayName": "1. Grades",
+      "ColorIndex": 1
+    },
+    "bde8f5ed-bdf3-4d03-a6af-ec0f866d2f44": {
+      "ProjectGuid": "bde8f5ed-bdf3-4d03-a6af-ec0f866d2f44",
+      "DisplayName": "3. Calculations",
+      "ColorIndex": 2
+    },
+    "4f231b17-299c-4a39-854c-151312098779": {
+      "ProjectGuid": "4f231b17-299c-4a39-854c-151312098779",
+      "DisplayName": "4. Printing Triangle",
+      "ColorIndex": 3
+    },
+    "3cb202e3-9fa3-4569-8ce4-fc62304a4171": {
+      "ProjectGuid": "3cb202e3-9fa3-4569-8ce4-fc62304a4171",
+      "DisplayName": "5. Calculate Rectangle Area",
+      "ColorIndex": 4
+    },
+    "3df976fe-7465-49e0-ac45-b6d5c20d8d47": {
+      "ProjectGuid": "3df976fe-7465-49e0-ac45-b6d5c20d8d47",
+      "DisplayName": "6. Repeat String",
+      "ColorIndex": 5
+    },
+    "594c9fe1-a99f-4cff-bbc2-b2779d7ec2d2": {
+      "ProjectGuid": "594c9fe1-a99f-4cff-bbc2-b2779d7ec2d2",
+      "DisplayName": "7. Math Power",
+      "ColorIndex": 6
+    },
+    "611fc3e5-4cf3-4988-9e0f-343d6e109258": {
+      "ProjectGuid": "611fc3e5-4cf3-4988-9e0f-343d6e109258",
+      "DisplayName": "8. Greater of Two Values",
+      "ColorIndex": 7
+    },
+    "32c6f3f5-c61d-4d9e-8193-10d990f7597b": {
+      "ProjectGuid": "32c6f3f5-c61d-4d9e-8193-10d990f7597b",
+      "DisplayName": "9. Multiply Evens by Odds",
+      "ColorIndex": 8
+    },
+    "41d0e583-ec54-4d5f-aa62-7c9e7f544c79": {
+      "ProjectGuid": "41d0e583-ec54-4d5f-aa62-7c9e7f544c79",
+      "DisplayName": "10. Math operations",
+      "ColorIndex": 9
+    }
+  },
+  "NextColorIndex": 10
+}

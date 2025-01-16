@@ -1,0 +1,16 @@
+C:\Users\hrist\source\repos\Final-Exam-Preparation\1. The Enigma Machine\bin\Debug\net5.0\1. The Enigma Machine.exe
+C:\Users\hrist\source\repos\Final-Exam-Preparation\1. The Enigma Machine\bin\Debug\net5.0\1. The Enigma Machine.deps.json
+C:\Users\hrist\source\repos\Final-Exam-Preparation\1. The Enigma Machine\bin\Debug\net5.0\1. The Enigma Machine.runtimeconfig.json
+C:\Users\hrist\source\repos\Final-Exam-Preparation\1. The Enigma Machine\bin\Debug\net5.0\1. The Enigma Machine.runtimeconfig.dev.json
+C:\Users\hrist\source\repos\Final-Exam-Preparation\1. The Enigma Machine\bin\Debug\net5.0\1. The Enigma Machine.dll
+C:\Users\hrist\source\repos\Final-Exam-Preparation\1. The Enigma Machine\bin\Debug\net5.0\ref\1. The Enigma Machine.dll
+C:\Users\hrist\source\repos\Final-Exam-Preparation\1. The Enigma Machine\bin\Debug\net5.0\1. The Enigma Machine.pdb
+C:\Users\hrist\source\repos\Final-Exam-Preparation\1. The Enigma Machine\obj\Debug\net5.0\1. The Enigma Machine.csproj.AssemblyReference.cache
+C:\Users\hrist\source\repos\Final-Exam-Preparation\1. The Enigma Machine\obj\Debug\net5.0\1. The Enigma Machine.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hrist\source\repos\Final-Exam-Preparation\1. The Enigma Machine\obj\Debug\net5.0\1. The Enigma Machine.AssemblyInfoInputs.cache
+C:\Users\hrist\source\repos\Final-Exam-Preparation\1. The Enigma Machine\obj\Debug\net5.0\1. The Enigma Machine.AssemblyInfo.cs
+C:\Users\hrist\source\repos\Final-Exam-Preparation\1. The Enigma Machine\obj\Debug\net5.0\1. The Enigma Machine.csproj.CoreCompileInputs.cache
+C:\Users\hrist\source\repos\Final-Exam-Preparation\1. The Enigma Machine\obj\Debug\net5.0\1. The Enigma Machine.dll
+C:\Users\hrist\source\repos\Final-Exam-Preparation\1. The Enigma Machine\obj\Debug\net5.0\ref\1. The Enigma Machine.dll
+C:\Users\hrist\source\repos\Final-Exam-Preparation\1. The Enigma Machine\obj\Debug\net5.0\1. The Enigma Machine.pdb
+C:\Users\hrist\source\repos\Final-Exam-Preparation\1. The Enigma Machine\obj\Debug\net5.0\1. The Enigma Machine.genruntimeconfig.cache

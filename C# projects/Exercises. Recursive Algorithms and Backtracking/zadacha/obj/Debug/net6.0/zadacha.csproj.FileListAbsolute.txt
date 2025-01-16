@@ -1,0 +1,14 @@
+D:\CS projects\Exercises. Recursive Algorithms and Backtracking\zadacha\bin\Debug\net6.0\zadacha.exe
+D:\CS projects\Exercises. Recursive Algorithms and Backtracking\zadacha\bin\Debug\net6.0\zadacha.deps.json
+D:\CS projects\Exercises. Recursive Algorithms and Backtracking\zadacha\bin\Debug\net6.0\zadacha.runtimeconfig.json
+D:\CS projects\Exercises. Recursive Algorithms and Backtracking\zadacha\bin\Debug\net6.0\zadacha.dll
+D:\CS projects\Exercises. Recursive Algorithms and Backtracking\zadacha\bin\Debug\net6.0\zadacha.pdb
+D:\CS projects\Exercises. Recursive Algorithms and Backtracking\zadacha\obj\Debug\net6.0\zadacha.GeneratedMSBuildEditorConfig.editorconfig
+D:\CS projects\Exercises. Recursive Algorithms and Backtracking\zadacha\obj\Debug\net6.0\zadacha.AssemblyInfoInputs.cache
+D:\CS projects\Exercises. Recursive Algorithms and Backtracking\zadacha\obj\Debug\net6.0\zadacha.AssemblyInfo.cs
+D:\CS projects\Exercises. Recursive Algorithms and Backtracking\zadacha\obj\Debug\net6.0\zadacha.csproj.CoreCompileInputs.cache
+D:\CS projects\Exercises. Recursive Algorithms and Backtracking\zadacha\obj\Debug\net6.0\zadacha.dll
+D:\CS projects\Exercises. Recursive Algorithms and Backtracking\zadacha\obj\Debug\net6.0\refint\zadacha.dll
+D:\CS projects\Exercises. Recursive Algorithms and Backtracking\zadacha\obj\Debug\net6.0\zadacha.pdb
+D:\CS projects\Exercises. Recursive Algorithms and Backtracking\zadacha\obj\Debug\net6.0\zadacha.genruntimeconfig.cache
+D:\CS projects\Exercises. Recursive Algorithms and Backtracking\zadacha\obj\Debug\net6.0\ref\zadacha.dll

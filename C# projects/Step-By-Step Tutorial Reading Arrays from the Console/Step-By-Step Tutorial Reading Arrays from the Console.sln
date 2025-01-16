@@ -1,0 +1,85 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.32112.339
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "1. Read a string array from multiple lines", "1. Read a string array from multiple lines\1. Read a string array from multiple lines.csproj", "{3D4EB19F-6C4E-4090-93FE-6844BA90E8E2}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "2. Array from multiple lines on a single line", "2. Array from multiple lines on a single line\2. Array from multiple lines on a single line.csproj", "{503F4D8E-84FC-42CB-8A76-DD5C0E9F7FE0}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "3. Read an integer array from multiple lines", "3. Read an integer array from multiple lines\3. Read an integer array from multiple lines.csproj", "{AF0C7871-369D-4263-9BA0-120493A4F64E}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "4. Floating point array from multiple lines", "4. Floating point array from multiple lines\4. Floating point array from multiple lines.csproj", "{78C21D69-F3B5-4436-B70C-D154F07358A7}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "5. Read a name, each letter on a line", "5. Read a name, each letter on a line\5. Read a name, each letter on a line.csproj", "{F91B8712-2E7F-44DA-8918-6DA2F68FA7F0}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "7. Read a string array from a single line", "7. Read a string array from a single line\7. Read a string array from a single line.csproj", "{54599489-A19F-4F68-8388-7700976A048B}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "6. Read a string array from a single line", "6. Read a string array from a single line\6. Read a string array from a single line.csproj", "{CDCD7D32-6E90-4A6D-92D0-CAF69598ED4E}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "8. Read a comma-separated string array", "8. Read a comma-separated string array\8. Read a comma-separated string array.csproj", "{36DE7E28-79ED-4E49-91E7-BD89678B279C}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "9. Integer array from a single line (long)", "9. Integer array from a single line (long)\9. Integer array from a single line (long).csproj", "{135F1884-B13A-497B-B147-BD958F1E663F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "11. Integer array and  incremented by 10", "11. Integer array and  incremented by 10\11. Integer array and  incremented by 10.csproj", "{DD9D265B-911C-41A2-ADA1-6DBC63D3F9CE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "12. Floating-point array from a single line", "12. Floating-point array from a single line\12. Floating-point array from a single line.csproj", "{5E7CEF41-AA7D-43E1-A1C5-7C107B508F77}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3D4EB19F-6C4E-4090-93FE-6844BA90E8E2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3D4EB19F-6C4E-4090-93FE-6844BA90E8E2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3D4EB19F-6C4E-4090-93FE-6844BA90E8E2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3D4EB19F-6C4E-4090-93FE-6844BA90E8E2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{503F4D8E-84FC-42CB-8A76-DD5C0E9F7FE0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{503F4D8E-84FC-42CB-8A76-DD5C0E9F7FE0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{503F4D8E-84FC-42CB-8A76-DD5C0E9F7FE0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{503F4D8E-84FC-42CB-8A76-DD5C0E9F7FE0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AF0C7871-369D-4263-9BA0-120493A4F64E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AF0C7871-369D-4263-9BA0-120493A4F64E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AF0C7871-369D-4263-9BA0-120493A4F64E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AF0C7871-369D-4263-9BA0-120493A4F64E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{78C21D69-F3B5-4436-B70C-D154F07358A7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{78C21D69-F3B5-4436-B70C-D154F07358A7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{78C21D69-F3B5-4436-B70C-D154F07358A7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{78C21D69-F3B5-4436-B70C-D154F07358A7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F91B8712-2E7F-44DA-8918-6DA2F68FA7F0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F91B8712-2E7F-44DA-8918-6DA2F68FA7F0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F91B8712-2E7F-44DA-8918-6DA2F68FA7F0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F91B8712-2E7F-44DA-8918-6DA2F68FA7F0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{54599489-A19F-4F68-8388-7700976A048B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{54599489-A19F-4F68-8388-7700976A048B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{54599489-A19F-4F68-8388-7700976A048B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{54599489-A19F-4F68-8388-7700976A048B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CDCD7D32-6E90-4A6D-92D0-CAF69598ED4E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CDCD7D32-6E90-4A6D-92D0-CAF69598ED4E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CDCD7D32-6E90-4A6D-92D0-CAF69598ED4E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CDCD7D32-6E90-4A6D-92D0-CAF69598ED4E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{36DE7E28-79ED-4E49-91E7-BD89678B279C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{36DE7E28-79ED-4E49-91E7-BD89678B279C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{36DE7E28-79ED-4E49-91E7-BD89678B279C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{36DE7E28-79ED-4E49-91E7-BD89678B279C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{135F1884-B13A-497B-B147-BD958F1E663F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{135F1884-B13A-497B-B147-BD958F1E663F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{135F1884-B13A-497B-B147-BD958F1E663F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{135F1884-B13A-497B-B147-BD958F1E663F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DD9D265B-911C-41A2-ADA1-6DBC63D3F9CE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DD9D265B-911C-41A2-ADA1-6DBC63D3F9CE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DD9D265B-911C-41A2-ADA1-6DBC63D3F9CE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DD9D265B-911C-41A2-ADA1-6DBC63D3F9CE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5E7CEF41-AA7D-43E1-A1C5-7C107B508F77}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5E7CEF41-AA7D-43E1-A1C5-7C107B508F77}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5E7CEF41-AA7D-43E1-A1C5-7C107B508F77}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5E7CEF41-AA7D-43E1-A1C5-7C107B508F77}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {94828D9C-78CC-42D8-A5C1-5942A627F146}
+	EndGlobalSection
+EndGlobal

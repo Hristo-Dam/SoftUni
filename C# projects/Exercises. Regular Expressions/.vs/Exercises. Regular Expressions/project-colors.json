@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "706df46e-de92-4b00-a6a8-c69994ce4bad": {
+      "ProjectGuid": "706df46e-de92-4b00-a6a8-c69994ce4bad",
+      "DisplayName": "1. Furniture",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}

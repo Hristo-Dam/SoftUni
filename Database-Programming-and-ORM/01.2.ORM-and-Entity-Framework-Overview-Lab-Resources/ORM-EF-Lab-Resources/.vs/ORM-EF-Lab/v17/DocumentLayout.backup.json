@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Database-Programming-and-ORM\\01.2.ORM-and-Entity-Framework-Overview-Lab-Resources\\ORM-EF-Lab-Resources\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{22017255-5D03-4993-A337-9741AF9C8E3E}|SoftUni\\SoftUni.csproj|d:\\database-programming-and-orm\\01.2.orm-and-entity-framework-overview-lab-resources\\orm-ef-lab-resources\\softuni\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{22017255-5D03-4993-A337-9741AF9C8E3E}|SoftUni\\SoftUni.csproj|solutionrelative:softuni\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "StartUp.cs",
+              "DocumentMoniker": "D:\\Database-Programming-and-ORM\\01.2.ORM-and-Entity-Framework-Overview-Lab-Resources\\ORM-EF-Lab-Resources\\SoftUni\\StartUp.cs",
+              "RelativeDocumentMoniker": "SoftUni\\StartUp.cs",
+              "ToolTip": "D:\\Database-Programming-and-ORM\\01.2.ORM-and-Entity-Framework-Overview-Lab-Resources\\ORM-EF-Lab-Resources\\SoftUni\\StartUp.cs",
+              "RelativeToolTip": "SoftUni\\StartUp.cs",
+              "ViewState": "AgIAAFUAAAAAAAAAAAAqwCYAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-21T09:20:45.353Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

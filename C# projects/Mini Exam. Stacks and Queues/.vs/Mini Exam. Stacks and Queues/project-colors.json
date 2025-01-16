@@ -1,0 +1,16 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "f7db0d58-e596-4dc2-ad98-e67843c7f76e": {
+      "ProjectGuid": "f7db0d58-e596-4dc2-ad98-e67843c7f76e",
+      "DisplayName": "2. Restaurant",
+      "ColorIndex": 0
+    },
+    "dbee765d-2375-4854-9bf7-711941851459": {
+      "ProjectGuid": "dbee765d-2375-4854-9bf7-711941851459",
+      "DisplayName": "3. Traffic Jam",
+      "ColorIndex": 1
+    }
+  },
+  "NextColorIndex": 2
+}

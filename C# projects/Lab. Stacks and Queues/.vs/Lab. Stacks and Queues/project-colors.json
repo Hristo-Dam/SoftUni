@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "05ee2e5c-cd71-482f-b33e-4ee2ddc63da5": {
+      "ProjectGuid": "05ee2e5c-cd71-482f-b33e-4ee2ddc63da5",
+      "DisplayName": "1. Reverse Strings",
+      "ColorIndex": 0
+    },
+    "e84932bc-719d-4f54-ad8a-b8a24432d0ba": {
+      "ProjectGuid": "e84932bc-719d-4f54-ad8a-b8a24432d0ba",
+      "DisplayName": "2. Stack Sum",
+      "ColorIndex": 1
+    },
+    "c39addb6-90a5-485b-8cb1-8cfdec643da2": {
+      "ProjectGuid": "c39addb6-90a5-485b-8cb1-8cfdec643da2",
+      "DisplayName": "3. Simple Calculator",
+      "ColorIndex": 2
+    },
+    "b46bcfc6-151f-45fe-ada2-d5f4f31e599a": {
+      "ProjectGuid": "b46bcfc6-151f-45fe-ada2-d5f4f31e599a",
+      "DisplayName": "4. Matching Brackets",
+      "ColorIndex": 3
+    },
+    "2af60f09-5612-404d-962c-3a951e851e5b": {
+      "ProjectGuid": "2af60f09-5612-404d-962c-3a951e851e5b",
+      "DisplayName": "5. Print Even Numbers",
+      "ColorIndex": 4
+    },
+    "f72f0248-2474-4beb-98ea-f1c79f77147d": {
+      "ProjectGuid": "f72f0248-2474-4beb-98ea-f1c79f77147d",
+      "DisplayName": "6. Supermarket",
+      "ColorIndex": 5
+    },
+    "3dd79666-0b5c-41c1-9610-182e2c6bf21e": {
+      "ProjectGuid": "3dd79666-0b5c-41c1-9610-182e2c6bf21e",
+      "DisplayName": "7. Hot Potato",
+      "ColorIndex": 6
+    }
+  },
+  "NextColorIndex": 7
+}

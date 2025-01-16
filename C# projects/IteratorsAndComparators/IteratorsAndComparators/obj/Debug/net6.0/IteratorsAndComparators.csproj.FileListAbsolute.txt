@@ -1,0 +1,14 @@
+D:\CS projects\IteratorsAndComparators\IteratorsAndComparators\bin\Debug\net6.0\IteratorsAndComparators.exe
+D:\CS projects\IteratorsAndComparators\IteratorsAndComparators\bin\Debug\net6.0\IteratorsAndComparators.deps.json
+D:\CS projects\IteratorsAndComparators\IteratorsAndComparators\bin\Debug\net6.0\IteratorsAndComparators.runtimeconfig.json
+D:\CS projects\IteratorsAndComparators\IteratorsAndComparators\bin\Debug\net6.0\IteratorsAndComparators.dll
+D:\CS projects\IteratorsAndComparators\IteratorsAndComparators\bin\Debug\net6.0\IteratorsAndComparators.pdb
+D:\CS projects\IteratorsAndComparators\IteratorsAndComparators\obj\Debug\net6.0\IteratorsAndComparators.GeneratedMSBuildEditorConfig.editorconfig
+D:\CS projects\IteratorsAndComparators\IteratorsAndComparators\obj\Debug\net6.0\IteratorsAndComparators.AssemblyInfoInputs.cache
+D:\CS projects\IteratorsAndComparators\IteratorsAndComparators\obj\Debug\net6.0\IteratorsAndComparators.AssemblyInfo.cs
+D:\CS projects\IteratorsAndComparators\IteratorsAndComparators\obj\Debug\net6.0\IteratorsAndComparators.csproj.CoreCompileInputs.cache
+D:\CS projects\IteratorsAndComparators\IteratorsAndComparators\obj\Debug\net6.0\IteratorsAndComparators.dll
+D:\CS projects\IteratorsAndComparators\IteratorsAndComparators\obj\Debug\net6.0\refint\IteratorsAndComparators.dll
+D:\CS projects\IteratorsAndComparators\IteratorsAndComparators\obj\Debug\net6.0\IteratorsAndComparators.pdb
+D:\CS projects\IteratorsAndComparators\IteratorsAndComparators\obj\Debug\net6.0\IteratorsAndComparators.genruntimeconfig.cache
+D:\CS projects\IteratorsAndComparators\IteratorsAndComparators\obj\Debug\net6.0\ref\IteratorsAndComparators.dll

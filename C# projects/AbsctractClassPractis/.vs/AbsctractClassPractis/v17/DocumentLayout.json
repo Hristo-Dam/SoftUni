@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\CS projects\\AbsctractClassPractis\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8B3E430C-D37E-463D-91ED-C86F7973BD3D}|AbcstractClass\\AbcstractClass.csproj|d:\\cs projects\\absctractclasspractis\\abcstractclass\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8B3E430C-D37E-463D-91ED-C86F7973BD3D}|AbcstractClass\\AbcstractClass.csproj|solutionrelative:abcstractclass\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8B3E430C-D37E-463D-91ED-C86F7973BD3D}|AbcstractClass\\AbcstractClass.csproj|d:\\cs projects\\absctractclasspractis\\abcstractclass\\derivedclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8B3E430C-D37E-463D-91ED-C86F7973BD3D}|AbcstractClass\\AbcstractClass.csproj|solutionrelative:abcstractclass\\derivedclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8B3E430C-D37E-463D-91ED-C86F7973BD3D}|AbcstractClass\\AbcstractClass.csproj|d:\\cs projects\\absctractclasspractis\\abcstractclass\\otherclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8B3E430C-D37E-463D-91ED-C86F7973BD3D}|AbcstractClass\\AbcstractClass.csproj|solutionrelative:abcstractclass\\otherclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8B3E430C-D37E-463D-91ED-C86F7973BD3D}|AbcstractClass\\AbcstractClass.csproj|d:\\cs projects\\absctractclasspractis\\abcstractclass\\abstractclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8B3E430C-D37E-463D-91ED-C86F7973BD3D}|AbcstractClass\\AbcstractClass.csproj|solutionrelative:abcstractclass\\abstractclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "OtherClass.cs",
+              "DocumentMoniker": "D:\\CS projects\\AbsctractClassPractis\\AbcstractClass\\OtherClass.cs",
+              "RelativeDocumentMoniker": "AbcstractClass\\OtherClass.cs",
+              "ToolTip": "D:\\CS projects\\AbsctractClassPractis\\AbcstractClass\\OtherClass.cs",
+              "RelativeToolTip": "AbcstractClass\\OtherClass.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-08T11:51:20.361Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "DerivedClass.cs",
+              "DocumentMoniker": "D:\\CS projects\\AbsctractClassPractis\\AbcstractClass\\DerivedClass.cs",
+              "RelativeDocumentMoniker": "AbcstractClass\\DerivedClass.cs",
+              "ToolTip": "D:\\CS projects\\AbsctractClassPractis\\AbcstractClass\\DerivedClass.cs",
+              "RelativeToolTip": "AbcstractClass\\DerivedClass.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-08T11:29:06.494Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AbstractClass.cs",
+              "DocumentMoniker": "D:\\CS projects\\AbsctractClassPractis\\AbcstractClass\\AbstractClass.cs",
+              "RelativeDocumentMoniker": "AbcstractClass\\AbstractClass.cs",
+              "ToolTip": "D:\\CS projects\\AbsctractClassPractis\\AbcstractClass\\AbstractClass.cs",
+              "RelativeToolTip": "AbcstractClass\\AbstractClass.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-08T11:27:00.664Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "StartUp.cs",
+              "DocumentMoniker": "D:\\CS projects\\AbsctractClassPractis\\AbcstractClass\\StartUp.cs",
+              "RelativeDocumentMoniker": "AbcstractClass\\StartUp.cs",
+              "ToolTip": "D:\\CS projects\\AbsctractClassPractis\\AbcstractClass\\StartUp.cs",
+              "RelativeToolTip": "AbcstractClass\\StartUp.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAA6AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-08T11:25:32.406Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

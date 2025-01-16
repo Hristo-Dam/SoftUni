@@ -1,0 +1,16 @@
+C:\Users\hrist\source\repos\Lab. Objects and Classes\4. Movies\bin\Debug\net5.0\4. Movies.exe
+C:\Users\hrist\source\repos\Lab. Objects and Classes\4. Movies\bin\Debug\net5.0\4. Movies.deps.json
+C:\Users\hrist\source\repos\Lab. Objects and Classes\4. Movies\bin\Debug\net5.0\4. Movies.runtimeconfig.json
+C:\Users\hrist\source\repos\Lab. Objects and Classes\4. Movies\bin\Debug\net5.0\4. Movies.runtimeconfig.dev.json
+C:\Users\hrist\source\repos\Lab. Objects and Classes\4. Movies\bin\Debug\net5.0\4. Movies.dll
+C:\Users\hrist\source\repos\Lab. Objects and Classes\4. Movies\bin\Debug\net5.0\ref\4. Movies.dll
+C:\Users\hrist\source\repos\Lab. Objects and Classes\4. Movies\bin\Debug\net5.0\4. Movies.pdb
+C:\Users\hrist\source\repos\Lab. Objects and Classes\4. Movies\obj\Debug\net5.0\4. Movies.csproj.AssemblyReference.cache
+C:\Users\hrist\source\repos\Lab. Objects and Classes\4. Movies\obj\Debug\net5.0\4. Movies.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hrist\source\repos\Lab. Objects and Classes\4. Movies\obj\Debug\net5.0\4. Movies.AssemblyInfoInputs.cache
+C:\Users\hrist\source\repos\Lab. Objects and Classes\4. Movies\obj\Debug\net5.0\4. Movies.AssemblyInfo.cs
+C:\Users\hrist\source\repos\Lab. Objects and Classes\4. Movies\obj\Debug\net5.0\4. Movies.csproj.CoreCompileInputs.cache
+C:\Users\hrist\source\repos\Lab. Objects and Classes\4. Movies\obj\Debug\net5.0\4. Movies.dll
+C:\Users\hrist\source\repos\Lab. Objects and Classes\4. Movies\obj\Debug\net5.0\ref\4. Movies.dll
+C:\Users\hrist\source\repos\Lab. Objects and Classes\4. Movies\obj\Debug\net5.0\4. Movies.pdb
+C:\Users\hrist\source\repos\Lab. Objects and Classes\4. Movies\obj\Debug\net5.0\4. Movies.genruntimeconfig.cache

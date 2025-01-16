@@ -1,0 +1,14 @@
+C:\Users\hrist\source\repos\Step-By-Step Tutorial Reading Arrays from the Console\9. Integer array from a single line (long)\bin\Debug\net6.0\9. Integer array from a single line (long).exe
+C:\Users\hrist\source\repos\Step-By-Step Tutorial Reading Arrays from the Console\9. Integer array from a single line (long)\bin\Debug\net6.0\9. Integer array from a single line (long).deps.json
+C:\Users\hrist\source\repos\Step-By-Step Tutorial Reading Arrays from the Console\9. Integer array from a single line (long)\bin\Debug\net6.0\9. Integer array from a single line (long).runtimeconfig.json
+C:\Users\hrist\source\repos\Step-By-Step Tutorial Reading Arrays from the Console\9. Integer array from a single line (long)\bin\Debug\net6.0\9. Integer array from a single line (long).dll
+C:\Users\hrist\source\repos\Step-By-Step Tutorial Reading Arrays from the Console\9. Integer array from a single line (long)\bin\Debug\net6.0\ref\9. Integer array from a single line (long).dll
+C:\Users\hrist\source\repos\Step-By-Step Tutorial Reading Arrays from the Console\9. Integer array from a single line (long)\bin\Debug\net6.0\9. Integer array from a single line (long).pdb
+C:\Users\hrist\source\repos\Step-By-Step Tutorial Reading Arrays from the Console\9. Integer array from a single line (long)\obj\Debug\net6.0\9. Integer array from a single line (long).GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hrist\source\repos\Step-By-Step Tutorial Reading Arrays from the Console\9. Integer array from a single line (long)\obj\Debug\net6.0\9. Integer array from a single line (long).AssemblyInfoInputs.cache
+C:\Users\hrist\source\repos\Step-By-Step Tutorial Reading Arrays from the Console\9. Integer array from a single line (long)\obj\Debug\net6.0\9. Integer array from a single line (long).AssemblyInfo.cs
+C:\Users\hrist\source\repos\Step-By-Step Tutorial Reading Arrays from the Console\9. Integer array from a single line (long)\obj\Debug\net6.0\9. Integer array from a single line (long).csproj.CoreCompileInputs.cache
+C:\Users\hrist\source\repos\Step-By-Step Tutorial Reading Arrays from the Console\9. Integer array from a single line (long)\obj\Debug\net6.0\9. Integer array from a single line (long).dll
+C:\Users\hrist\source\repos\Step-By-Step Tutorial Reading Arrays from the Console\9. Integer array from a single line (long)\obj\Debug\net6.0\ref\9. Integer array from a single line (long).dll
+C:\Users\hrist\source\repos\Step-By-Step Tutorial Reading Arrays from the Console\9. Integer array from a single line (long)\obj\Debug\net6.0\9. Integer array from a single line (long).pdb
+C:\Users\hrist\source\repos\Step-By-Step Tutorial Reading Arrays from the Console\9. Integer array from a single line (long)\obj\Debug\net6.0\9. Integer array from a single line (long).genruntimeconfig.cache

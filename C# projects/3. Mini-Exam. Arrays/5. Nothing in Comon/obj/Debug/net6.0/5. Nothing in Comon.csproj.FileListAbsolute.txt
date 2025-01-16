@@ -1,0 +1,15 @@
+C:\Users\hrist\source\repos\3. Mini-Exam. Arrays\5. Nothing in Comon\bin\Debug\net6.0\5. Nothing in Comon.exe
+C:\Users\hrist\source\repos\3. Mini-Exam. Arrays\5. Nothing in Comon\bin\Debug\net6.0\5. Nothing in Comon.deps.json
+C:\Users\hrist\source\repos\3. Mini-Exam. Arrays\5. Nothing in Comon\bin\Debug\net6.0\5. Nothing in Comon.runtimeconfig.json
+C:\Users\hrist\source\repos\3. Mini-Exam. Arrays\5. Nothing in Comon\bin\Debug\net6.0\5. Nothing in Comon.dll
+C:\Users\hrist\source\repos\3. Mini-Exam. Arrays\5. Nothing in Comon\bin\Debug\net6.0\ref\5. Nothing in Comon.dll
+C:\Users\hrist\source\repos\3. Mini-Exam. Arrays\5. Nothing in Comon\bin\Debug\net6.0\5. Nothing in Comon.pdb
+C:\Users\hrist\source\repos\3. Mini-Exam. Arrays\5. Nothing in Comon\obj\Debug\net6.0\5. Nothing in Comon.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hrist\source\repos\3. Mini-Exam. Arrays\5. Nothing in Comon\obj\Debug\net6.0\5. Nothing in Comon.AssemblyInfoInputs.cache
+C:\Users\hrist\source\repos\3. Mini-Exam. Arrays\5. Nothing in Comon\obj\Debug\net6.0\5. Nothing in Comon.AssemblyInfo.cs
+C:\Users\hrist\source\repos\3. Mini-Exam. Arrays\5. Nothing in Comon\obj\Debug\net6.0\5. Nothing in Comon.csproj.CoreCompileInputs.cache
+C:\Users\hrist\source\repos\3. Mini-Exam. Arrays\5. Nothing in Comon\obj\Debug\net6.0\5. Nothing in Comon.dll
+C:\Users\hrist\source\repos\3. Mini-Exam. Arrays\5. Nothing in Comon\obj\Debug\net6.0\ref\5. Nothing in Comon.dll
+C:\Users\hrist\source\repos\3. Mini-Exam. Arrays\5. Nothing in Comon\obj\Debug\net6.0\5. Nothing in Comon.pdb
+C:\Users\hrist\source\repos\3. Mini-Exam. Arrays\5. Nothing in Comon\obj\Debug\net6.0\5. Nothing in Comon.genruntimeconfig.cache
+C:\Users\hrist\source\repos\3. Mini-Exam. Arrays\5. Nothing in Comon\obj\Debug\net6.0\5. Nothing in Comon.csproj.AssemblyReference.cache

@@ -1,0 +1,16 @@
+C:\Users\hrist\source\repos\Entrance-Exam-10th-Grade\2. Value Seeker System\bin\Debug\net5.0\2. Value Seeker System.exe
+C:\Users\hrist\source\repos\Entrance-Exam-10th-Grade\2. Value Seeker System\bin\Debug\net5.0\2. Value Seeker System.deps.json
+C:\Users\hrist\source\repos\Entrance-Exam-10th-Grade\2. Value Seeker System\bin\Debug\net5.0\2. Value Seeker System.runtimeconfig.json
+C:\Users\hrist\source\repos\Entrance-Exam-10th-Grade\2. Value Seeker System\bin\Debug\net5.0\2. Value Seeker System.runtimeconfig.dev.json
+C:\Users\hrist\source\repos\Entrance-Exam-10th-Grade\2. Value Seeker System\bin\Debug\net5.0\2. Value Seeker System.dll
+C:\Users\hrist\source\repos\Entrance-Exam-10th-Grade\2. Value Seeker System\bin\Debug\net5.0\ref\2. Value Seeker System.dll
+C:\Users\hrist\source\repos\Entrance-Exam-10th-Grade\2. Value Seeker System\bin\Debug\net5.0\2. Value Seeker System.pdb
+C:\Users\hrist\source\repos\Entrance-Exam-10th-Grade\2. Value Seeker System\obj\Debug\net5.0\2. Value Seeker System.csproj.AssemblyReference.cache
+C:\Users\hrist\source\repos\Entrance-Exam-10th-Grade\2. Value Seeker System\obj\Debug\net5.0\2. Value Seeker System.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hrist\source\repos\Entrance-Exam-10th-Grade\2. Value Seeker System\obj\Debug\net5.0\2. Value Seeker System.AssemblyInfoInputs.cache
+C:\Users\hrist\source\repos\Entrance-Exam-10th-Grade\2. Value Seeker System\obj\Debug\net5.0\2. Value Seeker System.AssemblyInfo.cs
+C:\Users\hrist\source\repos\Entrance-Exam-10th-Grade\2. Value Seeker System\obj\Debug\net5.0\2. Value Seeker System.csproj.CoreCompileInputs.cache
+C:\Users\hrist\source\repos\Entrance-Exam-10th-Grade\2. Value Seeker System\obj\Debug\net5.0\2. Value Seeker System.dll
+C:\Users\hrist\source\repos\Entrance-Exam-10th-Grade\2. Value Seeker System\obj\Debug\net5.0\ref\2. Value Seeker System.dll
+C:\Users\hrist\source\repos\Entrance-Exam-10th-Grade\2. Value Seeker System\obj\Debug\net5.0\2. Value Seeker System.pdb
+C:\Users\hrist\source\repos\Entrance-Exam-10th-Grade\2. Value Seeker System\obj\Debug\net5.0\2. Value Seeker System.genruntimeconfig.cache

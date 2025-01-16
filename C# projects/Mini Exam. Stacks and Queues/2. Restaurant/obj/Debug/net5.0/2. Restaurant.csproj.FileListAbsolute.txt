@@ -1,0 +1,16 @@
+C:\Users\hrist\source\repos\Mini Exam. Stacks and Queues\2. Restaurant\bin\Debug\net5.0\2. Restaurant.exe
+C:\Users\hrist\source\repos\Mini Exam. Stacks and Queues\2. Restaurant\bin\Debug\net5.0\2. Restaurant.deps.json
+C:\Users\hrist\source\repos\Mini Exam. Stacks and Queues\2. Restaurant\bin\Debug\net5.0\2. Restaurant.runtimeconfig.json
+C:\Users\hrist\source\repos\Mini Exam. Stacks and Queues\2. Restaurant\bin\Debug\net5.0\2. Restaurant.runtimeconfig.dev.json
+C:\Users\hrist\source\repos\Mini Exam. Stacks and Queues\2. Restaurant\bin\Debug\net5.0\2. Restaurant.dll
+C:\Users\hrist\source\repos\Mini Exam. Stacks and Queues\2. Restaurant\bin\Debug\net5.0\ref\2. Restaurant.dll
+C:\Users\hrist\source\repos\Mini Exam. Stacks and Queues\2. Restaurant\bin\Debug\net5.0\2. Restaurant.pdb
+C:\Users\hrist\source\repos\Mini Exam. Stacks and Queues\2. Restaurant\obj\Debug\net5.0\2. Restaurant.csproj.AssemblyReference.cache
+C:\Users\hrist\source\repos\Mini Exam. Stacks and Queues\2. Restaurant\obj\Debug\net5.0\2. Restaurant.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hrist\source\repos\Mini Exam. Stacks and Queues\2. Restaurant\obj\Debug\net5.0\2. Restaurant.AssemblyInfoInputs.cache
+C:\Users\hrist\source\repos\Mini Exam. Stacks and Queues\2. Restaurant\obj\Debug\net5.0\2. Restaurant.AssemblyInfo.cs
+C:\Users\hrist\source\repos\Mini Exam. Stacks and Queues\2. Restaurant\obj\Debug\net5.0\2. Restaurant.csproj.CoreCompileInputs.cache
+C:\Users\hrist\source\repos\Mini Exam. Stacks and Queues\2. Restaurant\obj\Debug\net5.0\2. Restaurant.dll
+C:\Users\hrist\source\repos\Mini Exam. Stacks and Queues\2. Restaurant\obj\Debug\net5.0\ref\2. Restaurant.dll
+C:\Users\hrist\source\repos\Mini Exam. Stacks and Queues\2. Restaurant\obj\Debug\net5.0\2. Restaurant.pdb
+C:\Users\hrist\source\repos\Mini Exam. Stacks and Queues\2. Restaurant\obj\Debug\net5.0\2. Restaurant.genruntimeconfig.cache

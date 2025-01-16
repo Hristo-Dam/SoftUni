@@ -1,0 +1,85 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Database-Programming-and-ORM\\Exercises Entity Framework Code First\\02.Entity-Framework-Code-First-Exercises-Skeleton\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B962716E-C3DA-4567-91A5-5F9EA5411980}|SchoolDB\\SchoolDB.csproj|d:\\database-programming-and-orm\\exercises entity framework code first\\02.entity-framework-code-first-exercises-skeleton\\schooldb\\data\\schooldbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B962716E-C3DA-4567-91A5-5F9EA5411980}|SchoolDB\\SchoolDB.csproj|solutionrelative:schooldb\\data\\schooldbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B962716E-C3DA-4567-91A5-5F9EA5411980}|SchoolDB\\SchoolDB.csproj|d:\\database-programming-and-orm\\exercises entity framework code first\\02.entity-framework-code-first-exercises-skeleton\\schooldb\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B962716E-C3DA-4567-91A5-5F9EA5411980}|SchoolDB\\SchoolDB.csproj|solutionrelative:schooldb\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B962716E-C3DA-4567-91A5-5F9EA5411980}|SchoolDB\\SchoolDB.csproj|d:\\database-programming-and-orm\\exercises entity framework code first\\02.entity-framework-code-first-exercises-skeleton\\schooldb\\models\\class.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B962716E-C3DA-4567-91A5-5F9EA5411980}|SchoolDB\\SchoolDB.csproj|solutionrelative:schooldb\\models\\class.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B962716E-C3DA-4567-91A5-5F9EA5411980}|SchoolDB\\SchoolDB.csproj|d:\\database-programming-and-orm\\exercises entity framework code first\\02.entity-framework-code-first-exercises-skeleton\\schooldb\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B962716E-C3DA-4567-91A5-5F9EA5411980}|SchoolDB\\SchoolDB.csproj|solutionrelative:schooldb\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "SchoolDbContext.cs",
+              "DocumentMoniker": "D:\\Database-Programming-and-ORM\\Exercises Entity Framework Code First\\02.Entity-Framework-Code-First-Exercises-Skeleton\\SchoolDB\\Data\\SchoolDbContext.cs",
+              "RelativeDocumentMoniker": "SchoolDB\\Data\\SchoolDbContext.cs",
+              "ToolTip": "D:\\Database-Programming-and-ORM\\Exercises Entity Framework Code First\\02.Entity-Framework-Code-First-Exercises-Skeleton\\SchoolDB\\Data\\SchoolDbContext.cs",
+              "RelativeToolTip": "SchoolDB\\Data\\SchoolDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-05T08:19:58.722Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Class.cs",
+              "DocumentMoniker": "D:\\Database-Programming-and-ORM\\Exercises Entity Framework Code First\\02.Entity-Framework-Code-First-Exercises-Skeleton\\SchoolDB\\Models\\Class.cs",
+              "RelativeDocumentMoniker": "SchoolDB\\Models\\Class.cs",
+              "ToolTip": "D:\\Database-Programming-and-ORM\\Exercises Entity Framework Code First\\02.Entity-Framework-Code-First-Exercises-Skeleton\\SchoolDB\\Models\\Class.cs",
+              "RelativeToolTip": "SchoolDB\\Models\\Class.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-05T08:21:22.209Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Student.cs",
+              "DocumentMoniker": "D:\\Database-Programming-and-ORM\\Exercises Entity Framework Code First\\02.Entity-Framework-Code-First-Exercises-Skeleton\\SchoolDB\\Models\\Student.cs",
+              "RelativeDocumentMoniker": "SchoolDB\\Models\\Student.cs",
+              "ToolTip": "D:\\Database-Programming-and-ORM\\Exercises Entity Framework Code First\\02.Entity-Framework-Code-First-Exercises-Skeleton\\SchoolDB\\Models\\Student.cs",
+              "RelativeToolTip": "SchoolDB\\Models\\Student.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAAABgAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-05T08:21:01.502Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "StartUp.cs",
+              "DocumentMoniker": "D:\\Database-Programming-and-ORM\\Exercises Entity Framework Code First\\02.Entity-Framework-Code-First-Exercises-Skeleton\\SchoolDB\\StartUp.cs",
+              "RelativeDocumentMoniker": "SchoolDB\\StartUp.cs",
+              "ToolTip": "D:\\Database-Programming-and-ORM\\Exercises Entity Framework Code First\\02.Entity-Framework-Code-First-Exercises-Skeleton\\SchoolDB\\StartUp.cs",
+              "RelativeToolTip": "SchoolDB\\StartUp.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-05T08:15:24.712Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

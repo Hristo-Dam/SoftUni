@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\CS projects\\Nunit Exam\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F6936415-BE5B-46A7-9C48-53D956BA27BA}|ArrayListTests\\ArrayListTests.csproj|d:\\cs projects\\nunit exam\\arraylisttests\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F6936415-BE5B-46A7-9C48-53D956BA27BA}|ArrayListTests\\ArrayListTests.csproj|solutionrelative:arraylisttests\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\CS projects\\Nunit Exam\\ArrayListTests\\Program.cs",
+              "RelativeDocumentMoniker": "ArrayListTests\\Program.cs",
+              "ToolTip": "D:\\CS projects\\Nunit Exam\\ArrayListTests\\Program.cs",
+              "RelativeToolTip": "ArrayListTests\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-20T12:09:38.521Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

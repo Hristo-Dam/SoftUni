@@ -1,0 +1,14 @@
+D:\CS projects\Mini Exam. Recursion and Backtracking\SpecialSum\bin\Debug\net6.0\SpecialSum.exe
+D:\CS projects\Mini Exam. Recursion and Backtracking\SpecialSum\bin\Debug\net6.0\SpecialSum.deps.json
+D:\CS projects\Mini Exam. Recursion and Backtracking\SpecialSum\bin\Debug\net6.0\SpecialSum.runtimeconfig.json
+D:\CS projects\Mini Exam. Recursion and Backtracking\SpecialSum\bin\Debug\net6.0\SpecialSum.dll
+D:\CS projects\Mini Exam. Recursion and Backtracking\SpecialSum\bin\Debug\net6.0\SpecialSum.pdb
+D:\CS projects\Mini Exam. Recursion and Backtracking\SpecialSum\obj\Debug\net6.0\SpecialSum.GeneratedMSBuildEditorConfig.editorconfig
+D:\CS projects\Mini Exam. Recursion and Backtracking\SpecialSum\obj\Debug\net6.0\SpecialSum.AssemblyInfoInputs.cache
+D:\CS projects\Mini Exam. Recursion and Backtracking\SpecialSum\obj\Debug\net6.0\SpecialSum.AssemblyInfo.cs
+D:\CS projects\Mini Exam. Recursion and Backtracking\SpecialSum\obj\Debug\net6.0\SpecialSum.csproj.CoreCompileInputs.cache
+D:\CS projects\Mini Exam. Recursion and Backtracking\SpecialSum\obj\Debug\net6.0\SpecialSum.dll
+D:\CS projects\Mini Exam. Recursion and Backtracking\SpecialSum\obj\Debug\net6.0\refint\SpecialSum.dll
+D:\CS projects\Mini Exam. Recursion and Backtracking\SpecialSum\obj\Debug\net6.0\SpecialSum.pdb
+D:\CS projects\Mini Exam. Recursion and Backtracking\SpecialSum\obj\Debug\net6.0\SpecialSum.genruntimeconfig.cache
+D:\CS projects\Mini Exam. Recursion and Backtracking\SpecialSum\obj\Debug\net6.0\ref\SpecialSum.dll

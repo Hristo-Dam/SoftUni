@@ -1,0 +1,14 @@
+D:\CS projects\Lab. Inheritance\CustomStack\bin\Debug\net6.0\CustomStack.exe
+D:\CS projects\Lab. Inheritance\CustomStack\bin\Debug\net6.0\CustomStack.deps.json
+D:\CS projects\Lab. Inheritance\CustomStack\bin\Debug\net6.0\CustomStack.runtimeconfig.json
+D:\CS projects\Lab. Inheritance\CustomStack\bin\Debug\net6.0\CustomStack.dll
+D:\CS projects\Lab. Inheritance\CustomStack\bin\Debug\net6.0\CustomStack.pdb
+D:\CS projects\Lab. Inheritance\CustomStack\obj\Debug\net6.0\CustomStack.GeneratedMSBuildEditorConfig.editorconfig
+D:\CS projects\Lab. Inheritance\CustomStack\obj\Debug\net6.0\CustomStack.AssemblyInfoInputs.cache
+D:\CS projects\Lab. Inheritance\CustomStack\obj\Debug\net6.0\CustomStack.AssemblyInfo.cs
+D:\CS projects\Lab. Inheritance\CustomStack\obj\Debug\net6.0\CustomStack.csproj.CoreCompileInputs.cache
+D:\CS projects\Lab. Inheritance\CustomStack\obj\Debug\net6.0\CustomStack.dll
+D:\CS projects\Lab. Inheritance\CustomStack\obj\Debug\net6.0\refint\CustomStack.dll
+D:\CS projects\Lab. Inheritance\CustomStack\obj\Debug\net6.0\CustomStack.pdb
+D:\CS projects\Lab. Inheritance\CustomStack\obj\Debug\net6.0\CustomStack.genruntimeconfig.cache
+D:\CS projects\Lab. Inheritance\CustomStack\obj\Debug\net6.0\ref\CustomStack.dll

@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "b16b3310-1024-4093-8a39-af1efe0f491c": {
+      "ProjectGuid": "b16b3310-1024-4093-8a39-af1efe0f491c",
+      "DisplayName": "1. Email-validator",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}

@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Database-Programming-and-ORM\\Lab. ORM and Entity Framework Overview\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A1ECF123-CCEB-42B8-A285-67DDF421D48B}|ORMandEntityFrameworkProject.NET3.1\\ORMandEntityFrameworkProject.NET3.1.csproj|d:\\database-programming-and-orm\\lab. orm and entity framework overview\\ormandentityframeworkproject.net3.1\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1ECF123-CCEB-42B8-A285-67DDF421D48B}|ORMandEntityFrameworkProject.NET3.1\\ORMandEntityFrameworkProject.NET3.1.csproj|solutionrelative:ormandentityframeworkproject.net3.1\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "StartUp.cs",
+              "DocumentMoniker": "D:\\Database-Programming-and-ORM\\Lab. ORM and Entity Framework Overview\\ORMandEntityFrameworkProject.NET3.1\\StartUp.cs",
+              "RelativeDocumentMoniker": "ORMandEntityFrameworkProject.NET3.1\\StartUp.cs",
+              "ToolTip": "D:\\Database-Programming-and-ORM\\Lab. ORM and Entity Framework Overview\\ORMandEntityFrameworkProject.NET3.1\\StartUp.cs",
+              "RelativeToolTip": "ORMandEntityFrameworkProject.NET3.1\\StartUp.cs",
+              "ViewState": "AgIAADAAAAAAAAAAAAAYwEUAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-22T07:54:11.313Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

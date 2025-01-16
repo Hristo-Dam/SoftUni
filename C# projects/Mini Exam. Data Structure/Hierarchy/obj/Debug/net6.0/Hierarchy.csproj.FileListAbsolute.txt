@@ -1,0 +1,17 @@
+D:\C# projects\Mini Exam. Data Structure\Hierarchy\bin\Debug\net6.0\Hierarchy.exe
+D:\C# projects\Mini Exam. Data Structure\Hierarchy\bin\Debug\net6.0\Hierarchy.deps.json
+D:\C# projects\Mini Exam. Data Structure\Hierarchy\bin\Debug\net6.0\Hierarchy.runtimeconfig.json
+D:\C# projects\Mini Exam. Data Structure\Hierarchy\bin\Debug\net6.0\Hierarchy.dll
+D:\C# projects\Mini Exam. Data Structure\Hierarchy\bin\Debug\net6.0\Hierarchy.pdb
+D:\C# projects\Mini Exam. Data Structure\Hierarchy\bin\Debug\net6.0\SimpleTreeNode.dll
+D:\C# projects\Mini Exam. Data Structure\Hierarchy\obj\Debug\net6.0\Hierarchy.csproj.AssemblyReference.cache
+D:\C# projects\Mini Exam. Data Structure\Hierarchy\obj\Debug\net6.0\Hierarchy.GeneratedMSBuildEditorConfig.editorconfig
+D:\C# projects\Mini Exam. Data Structure\Hierarchy\obj\Debug\net6.0\Hierarchy.AssemblyInfoInputs.cache
+D:\C# projects\Mini Exam. Data Structure\Hierarchy\obj\Debug\net6.0\Hierarchy.AssemblyInfo.cs
+D:\C# projects\Mini Exam. Data Structure\Hierarchy\obj\Debug\net6.0\Hierarchy.csproj.CoreCompileInputs.cache
+D:\C# projects\Mini Exam. Data Structure\Hierarchy\obj\Debug\net6.0\Hierarchy.csproj.Up2Date
+D:\C# projects\Mini Exam. Data Structure\Hierarchy\obj\Debug\net6.0\Hierarchy.dll
+D:\C# projects\Mini Exam. Data Structure\Hierarchy\obj\Debug\net6.0\refint\Hierarchy.dll
+D:\C# projects\Mini Exam. Data Structure\Hierarchy\obj\Debug\net6.0\Hierarchy.pdb
+D:\C# projects\Mini Exam. Data Structure\Hierarchy\obj\Debug\net6.0\Hierarchy.genruntimeconfig.cache
+D:\C# projects\Mini Exam. Data Structure\Hierarchy\obj\Debug\net6.0\ref\Hierarchy.dll

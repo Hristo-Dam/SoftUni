@@ -1,0 +1,14 @@
+D:\CS projects\Lab. Generics\1. Box of T\bin\Debug\net6.0\1. Box of T.exe
+D:\CS projects\Lab. Generics\1. Box of T\bin\Debug\net6.0\1. Box of T.deps.json
+D:\CS projects\Lab. Generics\1. Box of T\bin\Debug\net6.0\1. Box of T.runtimeconfig.json
+D:\CS projects\Lab. Generics\1. Box of T\bin\Debug\net6.0\1. Box of T.dll
+D:\CS projects\Lab. Generics\1. Box of T\bin\Debug\net6.0\1. Box of T.pdb
+D:\CS projects\Lab. Generics\1. Box of T\obj\Debug\net6.0\1. Box of T.GeneratedMSBuildEditorConfig.editorconfig
+D:\CS projects\Lab. Generics\1. Box of T\obj\Debug\net6.0\1. Box of T.AssemblyInfoInputs.cache
+D:\CS projects\Lab. Generics\1. Box of T\obj\Debug\net6.0\1. Box of T.AssemblyInfo.cs
+D:\CS projects\Lab. Generics\1. Box of T\obj\Debug\net6.0\1. Box of T.csproj.CoreCompileInputs.cache
+D:\CS projects\Lab. Generics\1. Box of T\obj\Debug\net6.0\1. Box of T.dll
+D:\CS projects\Lab. Generics\1. Box of T\obj\Debug\net6.0\refint\1. Box of T.dll
+D:\CS projects\Lab. Generics\1. Box of T\obj\Debug\net6.0\1. Box of T.pdb
+D:\CS projects\Lab. Generics\1. Box of T\obj\Debug\net6.0\1. Box of T.genruntimeconfig.cache
+D:\CS projects\Lab. Generics\1. Box of T\obj\Debug\net6.0\ref\1. Box of T.dll

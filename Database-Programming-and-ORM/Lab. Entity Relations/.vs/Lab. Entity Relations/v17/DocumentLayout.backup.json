@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Database-Programming-and-ORM\\Lab. Entity Relations\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{92BDFA20-B4B6-44B9-AE1E-8478500137A3}|RelationsDatabase\\RelationsDatabase.csproj|d:\\database-programming-and-orm\\lab. entity relations\\relationsdatabase\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{92BDFA20-B4B6-44B9-AE1E-8478500137A3}|RelationsDatabase\\RelationsDatabase.csproj|solutionrelative:relationsdatabase\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Database-Programming-and-ORM\\Lab. Entity Relations\\RelationsDatabase\\Program.cs",
+              "RelativeDocumentMoniker": "RelationsDatabase\\Program.cs",
+              "ToolTip": "D:\\Database-Programming-and-ORM\\Lab. Entity Relations\\RelationsDatabase\\Program.cs",
+              "RelativeToolTip": "RelationsDatabase\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-06T07:56:22.637Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

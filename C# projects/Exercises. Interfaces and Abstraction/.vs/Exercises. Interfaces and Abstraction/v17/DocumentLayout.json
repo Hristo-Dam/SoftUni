@@ -1,0 +1,122 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\CS projects\\Exercises. Interfaces and Abstraction\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4ED6BA2B-D29C-4060-8F74-17CC3E6883B9}|PersonInfo\\PersonInfo.csproj|d:\\cs projects\\exercises. interfaces and abstraction\\personinfo\\citizen.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4ED6BA2B-D29C-4060-8F74-17CC3E6883B9}|PersonInfo\\PersonInfo.csproj|solutionrelative:personinfo\\citizen.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4ED6BA2B-D29C-4060-8F74-17CC3E6883B9}|PersonInfo\\PersonInfo.csproj|d:\\cs projects\\exercises. interfaces and abstraction\\personinfo\\ibirthable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4ED6BA2B-D29C-4060-8F74-17CC3E6883B9}|PersonInfo\\PersonInfo.csproj|solutionrelative:personinfo\\ibirthable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4ED6BA2B-D29C-4060-8F74-17CC3E6883B9}|PersonInfo\\PersonInfo.csproj|d:\\cs projects\\exercises. interfaces and abstraction\\personinfo\\iidentifiable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4ED6BA2B-D29C-4060-8F74-17CC3E6883B9}|PersonInfo\\PersonInfo.csproj|solutionrelative:personinfo\\iidentifiable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4ED6BA2B-D29C-4060-8F74-17CC3E6883B9}|PersonInfo\\PersonInfo.csproj|d:\\cs projects\\exercises. interfaces and abstraction\\personinfo\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4ED6BA2B-D29C-4060-8F74-17CC3E6883B9}|PersonInfo\\PersonInfo.csproj|solutionrelative:personinfo\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4ED6BA2B-D29C-4060-8F74-17CC3E6883B9}|PersonInfo\\PersonInfo.csproj|d:\\cs projects\\exercises. interfaces and abstraction\\personinfo\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4ED6BA2B-D29C-4060-8F74-17CC3E6883B9}|PersonInfo\\PersonInfo.csproj|solutionrelative:personinfo\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4ED6BA2B-D29C-4060-8F74-17CC3E6883B9}|PersonInfo\\PersonInfo.csproj|d:\\cs projects\\exercises. interfaces and abstraction\\personinfo\\iperson.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4ED6BA2B-D29C-4060-8F74-17CC3E6883B9}|PersonInfo\\PersonInfo.csproj|solutionrelative:personinfo\\iperson.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "IBirthable.cs",
+              "DocumentMoniker": "D:\\CS projects\\Exercises. Interfaces and Abstraction\\PersonInfo\\IBirthable.cs",
+              "RelativeDocumentMoniker": "PersonInfo\\IBirthable.cs",
+              "ToolTip": "D:\\CS projects\\Exercises. Interfaces and Abstraction\\PersonInfo\\IBirthable.cs",
+              "RelativeToolTip": "PersonInfo\\IBirthable.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-21T18:37:32.759Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "IIdentifiable.cs",
+              "DocumentMoniker": "D:\\CS projects\\Exercises. Interfaces and Abstraction\\PersonInfo\\IIdentifiable.cs",
+              "RelativeDocumentMoniker": "PersonInfo\\IIdentifiable.cs",
+              "ToolTip": "D:\\CS projects\\Exercises. Interfaces and Abstraction\\PersonInfo\\IIdentifiable.cs",
+              "RelativeToolTip": "PersonInfo\\IIdentifiable.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-21T18:36:43.465Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "IPerson.cs",
+              "DocumentMoniker": "D:\\CS projects\\Exercises. Interfaces and Abstraction\\PersonInfo\\IPerson.cs",
+              "RelativeDocumentMoniker": "PersonInfo\\IPerson.cs",
+              "ToolTip": "D:\\CS projects\\Exercises. Interfaces and Abstraction\\PersonInfo\\IPerson.cs",
+              "RelativeToolTip": "PersonInfo\\IPerson.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-21T18:32:27.833Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Citizen.cs",
+              "DocumentMoniker": "D:\\CS projects\\Exercises. Interfaces and Abstraction\\PersonInfo\\Citizen.cs",
+              "RelativeDocumentMoniker": "PersonInfo\\Citizen.cs",
+              "ToolTip": "D:\\CS projects\\Exercises. Interfaces and Abstraction\\PersonInfo\\Citizen.cs",
+              "RelativeToolTip": "PersonInfo\\Citizen.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-21T18:31:44.172Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "StartUp.cs",
+              "DocumentMoniker": "D:\\CS projects\\Exercises. Interfaces and Abstraction\\PersonInfo\\StartUp.cs",
+              "RelativeDocumentMoniker": "PersonInfo\\StartUp.cs",
+              "ToolTip": "D:\\CS projects\\Exercises. Interfaces and Abstraction\\PersonInfo\\StartUp.cs",
+              "RelativeToolTip": "PersonInfo\\StartUp.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-21T18:31:46.34Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Person.cs",
+              "DocumentMoniker": "D:\\CS projects\\Exercises. Interfaces and Abstraction\\PersonInfo\\Person.cs",
+              "RelativeDocumentMoniker": "PersonInfo\\Person.cs",
+              "ToolTip": "D:\\CS projects\\Exercises. Interfaces and Abstraction\\PersonInfo\\Person.cs",
+              "RelativeToolTip": "PersonInfo\\Person.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-21T18:31:45.3Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

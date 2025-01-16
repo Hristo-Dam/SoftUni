@@ -1,0 +1,15 @@
+C:\Users\hrist\source\repos\Exercises. Arrays\2. Zig-Zag Arrays\bin\Debug\net6.0\2. Zig-Zag Arrays.exe
+C:\Users\hrist\source\repos\Exercises. Arrays\2. Zig-Zag Arrays\bin\Debug\net6.0\2. Zig-Zag Arrays.deps.json
+C:\Users\hrist\source\repos\Exercises. Arrays\2. Zig-Zag Arrays\bin\Debug\net6.0\2. Zig-Zag Arrays.runtimeconfig.json
+C:\Users\hrist\source\repos\Exercises. Arrays\2. Zig-Zag Arrays\bin\Debug\net6.0\2. Zig-Zag Arrays.dll
+C:\Users\hrist\source\repos\Exercises. Arrays\2. Zig-Zag Arrays\bin\Debug\net6.0\ref\2. Zig-Zag Arrays.dll
+C:\Users\hrist\source\repos\Exercises. Arrays\2. Zig-Zag Arrays\bin\Debug\net6.0\2. Zig-Zag Arrays.pdb
+C:\Users\hrist\source\repos\Exercises. Arrays\2. Zig-Zag Arrays\obj\Debug\net6.0\2. Zig-Zag Arrays.csproj.AssemblyReference.cache
+C:\Users\hrist\source\repos\Exercises. Arrays\2. Zig-Zag Arrays\obj\Debug\net6.0\2. Zig-Zag Arrays.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hrist\source\repos\Exercises. Arrays\2. Zig-Zag Arrays\obj\Debug\net6.0\2. Zig-Zag Arrays.AssemblyInfoInputs.cache
+C:\Users\hrist\source\repos\Exercises. Arrays\2. Zig-Zag Arrays\obj\Debug\net6.0\2. Zig-Zag Arrays.AssemblyInfo.cs
+C:\Users\hrist\source\repos\Exercises. Arrays\2. Zig-Zag Arrays\obj\Debug\net6.0\2. Zig-Zag Arrays.csproj.CoreCompileInputs.cache
+C:\Users\hrist\source\repos\Exercises. Arrays\2. Zig-Zag Arrays\obj\Debug\net6.0\2. Zig-Zag Arrays.dll
+C:\Users\hrist\source\repos\Exercises. Arrays\2. Zig-Zag Arrays\obj\Debug\net6.0\ref\2. Zig-Zag Arrays.dll
+C:\Users\hrist\source\repos\Exercises. Arrays\2. Zig-Zag Arrays\obj\Debug\net6.0\2. Zig-Zag Arrays.pdb
+C:\Users\hrist\source\repos\Exercises. Arrays\2. Zig-Zag Arrays\obj\Debug\net6.0\2. Zig-Zag Arrays.genruntimeconfig.cache

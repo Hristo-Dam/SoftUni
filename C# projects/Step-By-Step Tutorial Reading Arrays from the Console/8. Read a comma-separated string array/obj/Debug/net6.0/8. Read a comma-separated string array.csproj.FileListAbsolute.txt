@@ -1,0 +1,15 @@
+C:\Users\hrist\source\repos\Step-By-Step Tutorial Reading Arrays from the Console\8. Read a comma-separated string array\bin\Debug\net6.0\8. Read a comma-separated string array.exe
+C:\Users\hrist\source\repos\Step-By-Step Tutorial Reading Arrays from the Console\8. Read a comma-separated string array\bin\Debug\net6.0\8. Read a comma-separated string array.deps.json
+C:\Users\hrist\source\repos\Step-By-Step Tutorial Reading Arrays from the Console\8. Read a comma-separated string array\bin\Debug\net6.0\8. Read a comma-separated string array.runtimeconfig.json
+C:\Users\hrist\source\repos\Step-By-Step Tutorial Reading Arrays from the Console\8. Read a comma-separated string array\bin\Debug\net6.0\8. Read a comma-separated string array.dll
+C:\Users\hrist\source\repos\Step-By-Step Tutorial Reading Arrays from the Console\8. Read a comma-separated string array\bin\Debug\net6.0\ref\8. Read a comma-separated string array.dll
+C:\Users\hrist\source\repos\Step-By-Step Tutorial Reading Arrays from the Console\8. Read a comma-separated string array\bin\Debug\net6.0\8. Read a comma-separated string array.pdb
+C:\Users\hrist\source\repos\Step-By-Step Tutorial Reading Arrays from the Console\8. Read a comma-separated string array\obj\Debug\net6.0\8. Read a comma-separated string array.csproj.AssemblyReference.cache
+C:\Users\hrist\source\repos\Step-By-Step Tutorial Reading Arrays from the Console\8. Read a comma-separated string array\obj\Debug\net6.0\8. Read a comma-separated string array.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hrist\source\repos\Step-By-Step Tutorial Reading Arrays from the Console\8. Read a comma-separated string array\obj\Debug\net6.0\8. Read a comma-separated string array.AssemblyInfoInputs.cache
+C:\Users\hrist\source\repos\Step-By-Step Tutorial Reading Arrays from the Console\8. Read a comma-separated string array\obj\Debug\net6.0\8. Read a comma-separated string array.AssemblyInfo.cs
+C:\Users\hrist\source\repos\Step-By-Step Tutorial Reading Arrays from the Console\8. Read a comma-separated string array\obj\Debug\net6.0\8. Read a comma-separated string array.csproj.CoreCompileInputs.cache
+C:\Users\hrist\source\repos\Step-By-Step Tutorial Reading Arrays from the Console\8. Read a comma-separated string array\obj\Debug\net6.0\8. Read a comma-separated string array.dll
+C:\Users\hrist\source\repos\Step-By-Step Tutorial Reading Arrays from the Console\8. Read a comma-separated string array\obj\Debug\net6.0\ref\8. Read a comma-separated string array.dll
+C:\Users\hrist\source\repos\Step-By-Step Tutorial Reading Arrays from the Console\8. Read a comma-separated string array\obj\Debug\net6.0\8. Read a comma-separated string array.pdb
+C:\Users\hrist\source\repos\Step-By-Step Tutorial Reading Arrays from the Console\8. Read a comma-separated string array\obj\Debug\net6.0\8. Read a comma-separated string array.genruntimeconfig.cache

@@ -1,0 +1,17 @@
+D:\CS projects\Lab. Trees Representation and Traversal (BFS, DFS)\BFSTraverseFolders\bin\Debug\net6.0\BFSTraverseFolders.exe
+D:\CS projects\Lab. Trees Representation and Traversal (BFS, DFS)\BFSTraverseFolders\bin\Debug\net6.0\BFSTraverseFolders.deps.json
+D:\CS projects\Lab. Trees Representation and Traversal (BFS, DFS)\BFSTraverseFolders\bin\Debug\net6.0\BFSTraverseFolders.runtimeconfig.json
+D:\CS projects\Lab. Trees Representation and Traversal (BFS, DFS)\BFSTraverseFolders\bin\Debug\net6.0\BFSTraverseFolders.dll
+D:\CS projects\Lab. Trees Representation and Traversal (BFS, DFS)\BFSTraverseFolders\bin\Debug\net6.0\BFSTraverseFolders.pdb
+D:\CS projects\Lab. Trees Representation and Traversal (BFS, DFS)\BFSTraverseFolders\obj\Debug\net6.0\BFSTraverseFolders.GeneratedMSBuildEditorConfig.editorconfig
+D:\CS projects\Lab. Trees Representation and Traversal (BFS, DFS)\BFSTraverseFolders\obj\Debug\net6.0\BFSTraverseFolders.AssemblyInfoInputs.cache
+D:\CS projects\Lab. Trees Representation and Traversal (BFS, DFS)\BFSTraverseFolders\obj\Debug\net6.0\BFSTraverseFolders.AssemblyInfo.cs
+D:\CS projects\Lab. Trees Representation and Traversal (BFS, DFS)\BFSTraverseFolders\obj\Debug\net6.0\BFSTraverseFolders.csproj.CoreCompileInputs.cache
+D:\CS projects\Lab. Trees Representation and Traversal (BFS, DFS)\BFSTraverseFolders\obj\Debug\net6.0\BFSTraverseFolders.dll
+D:\CS projects\Lab. Trees Representation and Traversal (BFS, DFS)\BFSTraverseFolders\obj\Debug\net6.0\refint\BFSTraverseFolders.dll
+D:\CS projects\Lab. Trees Representation and Traversal (BFS, DFS)\BFSTraverseFolders\obj\Debug\net6.0\BFSTraverseFolders.pdb
+D:\CS projects\Lab. Trees Representation and Traversal (BFS, DFS)\BFSTraverseFolders\obj\Debug\net6.0\BFSTraverseFolders.genruntimeconfig.cache
+D:\CS projects\Lab. Trees Representation and Traversal (BFS, DFS)\BFSTraverseFolders\obj\Debug\net6.0\ref\BFSTraverseFolders.dll
+D:\CS projects\Lab. Trees Representation and Traversal (BFS, DFS)\BFSTraverseFolders\bin\Debug\net6.0\SimpleTreeNode.dll
+D:\CS projects\Lab. Trees Representation and Traversal (BFS, DFS)\BFSTraverseFolders\obj\Debug\net6.0\BFSTraverseFolders.csproj.AssemblyReference.cache
+D:\CS projects\Lab. Trees Representation and Traversal (BFS, DFS)\BFSTraverseFolders\obj\Debug\net6.0\BFSTrave.4C4532D5.Up2Date

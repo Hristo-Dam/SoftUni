@@ -1,0 +1,116 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\C# projects\\Lab. Objects and Classes\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8569B3AC-3496-4479-AC8F-8A74944D85DE}|4. Movies\\4. Movies.csproj|d:\\c# projects\\lab. objects and classes\\4. movies\\program4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8569B3AC-3496-4479-AC8F-8A74944D85DE}|4. Movies\\4. Movies.csproj|solutionrelative:4. movies\\program4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B18ED2BC-03FB-4A8A-B725-748E70DA5578}|6. Customers. Extended\\6. Customers. Extended.csproj|d:\\c# projects\\lab. objects and classes\\6. customers. extended\\program6.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B18ED2BC-03FB-4A8A-B725-748E70DA5578}|6. Customers. Extended\\6. Customers. Extended.csproj|solutionrelative:6. customers. extended\\program6.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{016E1B78-5D7E-449D-8B53-39C3007126B6}|2. Randomize Numbers\\2. Randomize Numbers.csproj|d:\\c# projects\\lab. objects and classes\\2. randomize numbers\\program2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{016E1B78-5D7E-449D-8B53-39C3007126B6}|2. Randomize Numbers\\2. Randomize Numbers.csproj|solutionrelative:2. randomize numbers\\program2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E414DE18-6564-4AD7-915E-6AA1287B6E5D}|5. Customers\\5. Customers.csproj|d:\\c# projects\\lab. objects and classes\\5. customers\\program5.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E414DE18-6564-4AD7-915E-6AA1287B6E5D}|5. Customers\\5. Customers.csproj|solutionrelative:5. customers\\program5.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{789A4DB5-C807-4A6A-BAAB-ED978F36E8E7}|1. Same Weekday\\1. Same Weekday.csproj|d:\\c# projects\\lab. objects and classes\\1. same weekday\\program1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{789A4DB5-C807-4A6A-BAAB-ED978F36E8E7}|1. Same Weekday\\1. Same Weekday.csproj|solutionrelative:1. same weekday\\program1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program6.cs",
+              "DocumentMoniker": "D:\\C# projects\\Lab. Objects and Classes\\6. Customers. Extended\\Program6.cs",
+              "RelativeDocumentMoniker": "6. Customers. Extended\\Program6.cs",
+              "ToolTip": "D:\\C# projects\\Lab. Objects and Classes\\6. Customers. Extended\\Program6.cs",
+              "RelativeToolTip": "6. Customers. Extended\\Program6.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAuwCEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-16T07:24:34.942Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program5.cs",
+              "DocumentMoniker": "D:\\C# projects\\Lab. Objects and Classes\\5. Customers\\Program5.cs",
+              "RelativeDocumentMoniker": "5. Customers\\Program5.cs",
+              "ToolTip": "D:\\C# projects\\Lab. Objects and Classes\\5. Customers\\Program5.cs",
+              "RelativeToolTip": "5. Customers\\Program5.cs",
+              "ViewState": "AQIAABIAAAAAAAAAAAAAwCIAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-16T07:24:35.06Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program4.cs",
+              "DocumentMoniker": "D:\\C# projects\\Lab. Objects and Classes\\4. Movies\\Program4.cs",
+              "RelativeDocumentMoniker": "4. Movies\\Program4.cs",
+              "ToolTip": "D:\\C# projects\\Lab. Objects and Classes\\4. Movies\\Program4.cs",
+              "RelativeToolTip": "4. Movies\\Program4.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAAwCoAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-16T07:24:35.062Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program2.cs",
+              "DocumentMoniker": "D:\\C# projects\\Lab. Objects and Classes\\2. Randomize Numbers\\Program2.cs",
+              "RelativeDocumentMoniker": "2. Randomize Numbers\\Program2.cs",
+              "ToolTip": "D:\\C# projects\\Lab. Objects and Classes\\2. Randomize Numbers\\Program2.cs",
+              "RelativeToolTip": "2. Randomize Numbers\\Program2.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAzwBIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-16T07:24:35.064Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program1.cs",
+              "DocumentMoniker": "D:\\C# projects\\Lab. Objects and Classes\\1. Same Weekday\\Program1.cs",
+              "RelativeDocumentMoniker": "1. Same Weekday\\Program1.cs",
+              "ToolTip": "D:\\C# projects\\Lab. Objects and Classes\\1. Same Weekday\\Program1.cs",
+              "RelativeToolTip": "1. Same Weekday\\Program1.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAA1wAoAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-16T07:24:35.065Z"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

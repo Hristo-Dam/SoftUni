@@ -1,0 +1,16 @@
+C:\Users\hrist\source\repos\Mini Exam. Multidimensional Arrays\1. Difference of Diagonals\bin\Debug\net5.0\1. Difference of Diagonals.exe
+C:\Users\hrist\source\repos\Mini Exam. Multidimensional Arrays\1. Difference of Diagonals\bin\Debug\net5.0\1. Difference of Diagonals.deps.json
+C:\Users\hrist\source\repos\Mini Exam. Multidimensional Arrays\1. Difference of Diagonals\bin\Debug\net5.0\1. Difference of Diagonals.runtimeconfig.json
+C:\Users\hrist\source\repos\Mini Exam. Multidimensional Arrays\1. Difference of Diagonals\bin\Debug\net5.0\1. Difference of Diagonals.runtimeconfig.dev.json
+C:\Users\hrist\source\repos\Mini Exam. Multidimensional Arrays\1. Difference of Diagonals\bin\Debug\net5.0\1. Difference of Diagonals.dll
+C:\Users\hrist\source\repos\Mini Exam. Multidimensional Arrays\1. Difference of Diagonals\bin\Debug\net5.0\ref\1. Difference of Diagonals.dll
+C:\Users\hrist\source\repos\Mini Exam. Multidimensional Arrays\1. Difference of Diagonals\bin\Debug\net5.0\1. Difference of Diagonals.pdb
+C:\Users\hrist\source\repos\Mini Exam. Multidimensional Arrays\1. Difference of Diagonals\obj\Debug\net5.0\1. Difference of Diagonals.csproj.AssemblyReference.cache
+C:\Users\hrist\source\repos\Mini Exam. Multidimensional Arrays\1. Difference of Diagonals\obj\Debug\net5.0\1. Difference of Diagonals.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hrist\source\repos\Mini Exam. Multidimensional Arrays\1. Difference of Diagonals\obj\Debug\net5.0\1. Difference of Diagonals.AssemblyInfoInputs.cache
+C:\Users\hrist\source\repos\Mini Exam. Multidimensional Arrays\1. Difference of Diagonals\obj\Debug\net5.0\1. Difference of Diagonals.AssemblyInfo.cs
+C:\Users\hrist\source\repos\Mini Exam. Multidimensional Arrays\1. Difference of Diagonals\obj\Debug\net5.0\1. Difference of Diagonals.csproj.CoreCompileInputs.cache
+C:\Users\hrist\source\repos\Mini Exam. Multidimensional Arrays\1. Difference of Diagonals\obj\Debug\net5.0\1. Difference of Diagonals.dll
+C:\Users\hrist\source\repos\Mini Exam. Multidimensional Arrays\1. Difference of Diagonals\obj\Debug\net5.0\ref\1. Difference of Diagonals.dll
+C:\Users\hrist\source\repos\Mini Exam. Multidimensional Arrays\1. Difference of Diagonals\obj\Debug\net5.0\1. Difference of Diagonals.pdb
+C:\Users\hrist\source\repos\Mini Exam. Multidimensional Arrays\1. Difference of Diagonals\obj\Debug\net5.0\1. Difference of Diagonals.genruntimeconfig.cache

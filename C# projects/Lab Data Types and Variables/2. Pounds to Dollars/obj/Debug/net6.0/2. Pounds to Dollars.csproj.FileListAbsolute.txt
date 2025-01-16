@@ -1,0 +1,15 @@
+C:\Users\hrist\source\repos\Lab Data Types and Variables\2. Pounds to Dollars\bin\Debug\net6.0\2. Pounds to Dollars.exe
+C:\Users\hrist\source\repos\Lab Data Types and Variables\2. Pounds to Dollars\bin\Debug\net6.0\2. Pounds to Dollars.deps.json
+C:\Users\hrist\source\repos\Lab Data Types and Variables\2. Pounds to Dollars\bin\Debug\net6.0\2. Pounds to Dollars.runtimeconfig.json
+C:\Users\hrist\source\repos\Lab Data Types and Variables\2. Pounds to Dollars\bin\Debug\net6.0\2. Pounds to Dollars.dll
+C:\Users\hrist\source\repos\Lab Data Types and Variables\2. Pounds to Dollars\bin\Debug\net6.0\ref\2. Pounds to Dollars.dll
+C:\Users\hrist\source\repos\Lab Data Types and Variables\2. Pounds to Dollars\bin\Debug\net6.0\2. Pounds to Dollars.pdb
+C:\Users\hrist\source\repos\Lab Data Types and Variables\2. Pounds to Dollars\obj\Debug\net6.0\2. Pounds to Dollars.csproj.AssemblyReference.cache
+C:\Users\hrist\source\repos\Lab Data Types and Variables\2. Pounds to Dollars\obj\Debug\net6.0\2. Pounds to Dollars.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hrist\source\repos\Lab Data Types and Variables\2. Pounds to Dollars\obj\Debug\net6.0\2. Pounds to Dollars.AssemblyInfoInputs.cache
+C:\Users\hrist\source\repos\Lab Data Types and Variables\2. Pounds to Dollars\obj\Debug\net6.0\2. Pounds to Dollars.AssemblyInfo.cs
+C:\Users\hrist\source\repos\Lab Data Types and Variables\2. Pounds to Dollars\obj\Debug\net6.0\2. Pounds to Dollars.csproj.CoreCompileInputs.cache
+C:\Users\hrist\source\repos\Lab Data Types and Variables\2. Pounds to Dollars\obj\Debug\net6.0\2. Pounds to Dollars.dll
+C:\Users\hrist\source\repos\Lab Data Types and Variables\2. Pounds to Dollars\obj\Debug\net6.0\ref\2. Pounds to Dollars.dll
+C:\Users\hrist\source\repos\Lab Data Types and Variables\2. Pounds to Dollars\obj\Debug\net6.0\2. Pounds to Dollars.pdb
+C:\Users\hrist\source\repos\Lab Data Types and Variables\2. Pounds to Dollars\obj\Debug\net6.0\2. Pounds to Dollars.genruntimeconfig.cache

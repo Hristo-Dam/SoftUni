@@ -1,0 +1,61 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "3d4eb19f-6c4e-4090-93fe-6844ba90e8e2": {
+      "ProjectGuid": "3d4eb19f-6c4e-4090-93fe-6844ba90e8e2",
+      "DisplayName": "1. Read a string array from multiple lines",
+      "ColorIndex": 0
+    },
+    "503f4d8e-84fc-42cb-8a76-dd5c0e9f7fe0": {
+      "ProjectGuid": "503f4d8e-84fc-42cb-8a76-dd5c0e9f7fe0",
+      "DisplayName": "2. Array from multiple lines on a single line",
+      "ColorIndex": 1
+    },
+    "af0c7871-369d-4263-9ba0-120493a4f64e": {
+      "ProjectGuid": "af0c7871-369d-4263-9ba0-120493a4f64e",
+      "DisplayName": "3. Read an integer array from multiple lines",
+      "ColorIndex": 2
+    },
+    "78c21d69-f3b5-4436-b70c-d154f07358a7": {
+      "ProjectGuid": "78c21d69-f3b5-4436-b70c-d154f07358a7",
+      "DisplayName": "4. Floating point array from multiple lines",
+      "ColorIndex": 3
+    },
+    "f91b8712-2e7f-44da-8918-6da2f68fa7f0": {
+      "ProjectGuid": "f91b8712-2e7f-44da-8918-6da2f68fa7f0",
+      "DisplayName": "5. Read a name, each letter on a line",
+      "ColorIndex": 4
+    },
+    "54599489-a19f-4f68-8388-7700976a048b": {
+      "ProjectGuid": "54599489-a19f-4f68-8388-7700976a048b",
+      "DisplayName": "7. Read a string array from a single line",
+      "ColorIndex": 5
+    },
+    "cdcd7d32-6e90-4a6d-92d0-caf69598ed4e": {
+      "ProjectGuid": "cdcd7d32-6e90-4a6d-92d0-caf69598ed4e",
+      "DisplayName": "6. Read a string array from a single line",
+      "ColorIndex": 6
+    },
+    "36de7e28-79ed-4e49-91e7-bd89678b279c": {
+      "ProjectGuid": "36de7e28-79ed-4e49-91e7-bd89678b279c",
+      "DisplayName": "8. Read a comma-separated string array",
+      "ColorIndex": 7
+    },
+    "135f1884-b13a-497b-b147-bd958f1e663f": {
+      "ProjectGuid": "135f1884-b13a-497b-b147-bd958f1e663f",
+      "DisplayName": "9. Integer array from a single line (long)",
+      "ColorIndex": 8
+    },
+    "dd9d265b-911c-41a2-ada1-6dbc63d3f9ce": {
+      "ProjectGuid": "dd9d265b-911c-41a2-ada1-6dbc63d3f9ce",
+      "DisplayName": "11. Integer array and  incremented by 10",
+      "ColorIndex": 9
+    },
+    "5e7cef41-aa7d-43e1-a1c5-7c107b508f77": {
+      "ProjectGuid": "5e7cef41-aa7d-43e1-a1c5-7c107b508f77",
+      "DisplayName": "12. Floating-point array from a single line",
+      "ColorIndex": 10
+    }
+  },
+  "NextColorIndex": 11
+}

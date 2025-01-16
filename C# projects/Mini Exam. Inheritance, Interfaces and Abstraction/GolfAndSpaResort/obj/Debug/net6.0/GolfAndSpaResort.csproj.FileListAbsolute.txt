@@ -1,0 +1,14 @@
+D:\CS projects\Mini Exam. Inheritance, Interfaces and Abstraction\GolfAndSpaResort\bin\Debug\net6.0\GolfAndSpaResort.exe
+D:\CS projects\Mini Exam. Inheritance, Interfaces and Abstraction\GolfAndSpaResort\bin\Debug\net6.0\GolfAndSpaResort.deps.json
+D:\CS projects\Mini Exam. Inheritance, Interfaces and Abstraction\GolfAndSpaResort\bin\Debug\net6.0\GolfAndSpaResort.runtimeconfig.json
+D:\CS projects\Mini Exam. Inheritance, Interfaces and Abstraction\GolfAndSpaResort\bin\Debug\net6.0\GolfAndSpaResort.dll
+D:\CS projects\Mini Exam. Inheritance, Interfaces and Abstraction\GolfAndSpaResort\bin\Debug\net6.0\GolfAndSpaResort.pdb
+D:\CS projects\Mini Exam. Inheritance, Interfaces and Abstraction\GolfAndSpaResort\obj\Debug\net6.0\GolfAndSpaResort.GeneratedMSBuildEditorConfig.editorconfig
+D:\CS projects\Mini Exam. Inheritance, Interfaces and Abstraction\GolfAndSpaResort\obj\Debug\net6.0\GolfAndSpaResort.AssemblyInfoInputs.cache
+D:\CS projects\Mini Exam. Inheritance, Interfaces and Abstraction\GolfAndSpaResort\obj\Debug\net6.0\GolfAndSpaResort.AssemblyInfo.cs
+D:\CS projects\Mini Exam. Inheritance, Interfaces and Abstraction\GolfAndSpaResort\obj\Debug\net6.0\GolfAndSpaResort.csproj.CoreCompileInputs.cache
+D:\CS projects\Mini Exam. Inheritance, Interfaces and Abstraction\GolfAndSpaResort\obj\Debug\net6.0\GolfAndSpaResort.dll
+D:\CS projects\Mini Exam. Inheritance, Interfaces and Abstraction\GolfAndSpaResort\obj\Debug\net6.0\refint\GolfAndSpaResort.dll
+D:\CS projects\Mini Exam. Inheritance, Interfaces and Abstraction\GolfAndSpaResort\obj\Debug\net6.0\GolfAndSpaResort.pdb
+D:\CS projects\Mini Exam. Inheritance, Interfaces and Abstraction\GolfAndSpaResort\obj\Debug\net6.0\GolfAndSpaResort.genruntimeconfig.cache
+D:\CS projects\Mini Exam. Inheritance, Interfaces and Abstraction\GolfAndSpaResort\obj\Debug\net6.0\ref\GolfAndSpaResort.dll

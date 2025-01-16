@@ -1,0 +1,16 @@
+C:\Users\hrist\source\repos\Lab. Multidimensional Arrays\4. Symbol in Matrix\bin\Debug\net5.0\4. Symbol in Matrix.exe
+C:\Users\hrist\source\repos\Lab. Multidimensional Arrays\4. Symbol in Matrix\bin\Debug\net5.0\4. Symbol in Matrix.deps.json
+C:\Users\hrist\source\repos\Lab. Multidimensional Arrays\4. Symbol in Matrix\bin\Debug\net5.0\4. Symbol in Matrix.runtimeconfig.json
+C:\Users\hrist\source\repos\Lab. Multidimensional Arrays\4. Symbol in Matrix\bin\Debug\net5.0\4. Symbol in Matrix.runtimeconfig.dev.json
+C:\Users\hrist\source\repos\Lab. Multidimensional Arrays\4. Symbol in Matrix\bin\Debug\net5.0\4. Symbol in Matrix.dll
+C:\Users\hrist\source\repos\Lab. Multidimensional Arrays\4. Symbol in Matrix\bin\Debug\net5.0\ref\4. Symbol in Matrix.dll
+C:\Users\hrist\source\repos\Lab. Multidimensional Arrays\4. Symbol in Matrix\bin\Debug\net5.0\4. Symbol in Matrix.pdb
+C:\Users\hrist\source\repos\Lab. Multidimensional Arrays\4. Symbol in Matrix\obj\Debug\net5.0\4. Symbol in Matrix.csproj.AssemblyReference.cache
+C:\Users\hrist\source\repos\Lab. Multidimensional Arrays\4. Symbol in Matrix\obj\Debug\net5.0\4. Symbol in Matrix.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hrist\source\repos\Lab. Multidimensional Arrays\4. Symbol in Matrix\obj\Debug\net5.0\4. Symbol in Matrix.AssemblyInfoInputs.cache
+C:\Users\hrist\source\repos\Lab. Multidimensional Arrays\4. Symbol in Matrix\obj\Debug\net5.0\4. Symbol in Matrix.AssemblyInfo.cs
+C:\Users\hrist\source\repos\Lab. Multidimensional Arrays\4. Symbol in Matrix\obj\Debug\net5.0\4. Symbol in Matrix.csproj.CoreCompileInputs.cache
+C:\Users\hrist\source\repos\Lab. Multidimensional Arrays\4. Symbol in Matrix\obj\Debug\net5.0\4. Symbol in Matrix.dll
+C:\Users\hrist\source\repos\Lab. Multidimensional Arrays\4. Symbol in Matrix\obj\Debug\net5.0\ref\4. Symbol in Matrix.dll
+C:\Users\hrist\source\repos\Lab. Multidimensional Arrays\4. Symbol in Matrix\obj\Debug\net5.0\4. Symbol in Matrix.pdb
+C:\Users\hrist\source\repos\Lab. Multidimensional Arrays\4. Symbol in Matrix\obj\Debug\net5.0\4. Symbol in Matrix.genruntimeconfig.cache

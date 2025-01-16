@@ -1,0 +1,16 @@
+C:\Users\hrist\source\repos\Lab exercises. Exam Preparation (Stack and Queue)\3. Print Even Numbers\bin\Debug\net5.0\3. Print Even Numbers.exe
+C:\Users\hrist\source\repos\Lab exercises. Exam Preparation (Stack and Queue)\3. Print Even Numbers\bin\Debug\net5.0\3. Print Even Numbers.deps.json
+C:\Users\hrist\source\repos\Lab exercises. Exam Preparation (Stack and Queue)\3. Print Even Numbers\bin\Debug\net5.0\3. Print Even Numbers.runtimeconfig.json
+C:\Users\hrist\source\repos\Lab exercises. Exam Preparation (Stack and Queue)\3. Print Even Numbers\bin\Debug\net5.0\3. Print Even Numbers.runtimeconfig.dev.json
+C:\Users\hrist\source\repos\Lab exercises. Exam Preparation (Stack and Queue)\3. Print Even Numbers\bin\Debug\net5.0\3. Print Even Numbers.dll
+C:\Users\hrist\source\repos\Lab exercises. Exam Preparation (Stack and Queue)\3. Print Even Numbers\bin\Debug\net5.0\ref\3. Print Even Numbers.dll
+C:\Users\hrist\source\repos\Lab exercises. Exam Preparation (Stack and Queue)\3. Print Even Numbers\bin\Debug\net5.0\3. Print Even Numbers.pdb
+C:\Users\hrist\source\repos\Lab exercises. Exam Preparation (Stack and Queue)\3. Print Even Numbers\obj\Debug\net5.0\3. Print Even Numbers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hrist\source\repos\Lab exercises. Exam Preparation (Stack and Queue)\3. Print Even Numbers\obj\Debug\net5.0\3. Print Even Numbers.AssemblyInfoInputs.cache
+C:\Users\hrist\source\repos\Lab exercises. Exam Preparation (Stack and Queue)\3. Print Even Numbers\obj\Debug\net5.0\3. Print Even Numbers.AssemblyInfo.cs
+C:\Users\hrist\source\repos\Lab exercises. Exam Preparation (Stack and Queue)\3. Print Even Numbers\obj\Debug\net5.0\3. Print Even Numbers.csproj.CoreCompileInputs.cache
+C:\Users\hrist\source\repos\Lab exercises. Exam Preparation (Stack and Queue)\3. Print Even Numbers\obj\Debug\net5.0\3. Print Even Numbers.dll
+C:\Users\hrist\source\repos\Lab exercises. Exam Preparation (Stack and Queue)\3. Print Even Numbers\obj\Debug\net5.0\ref\3. Print Even Numbers.dll
+C:\Users\hrist\source\repos\Lab exercises. Exam Preparation (Stack and Queue)\3. Print Even Numbers\obj\Debug\net5.0\3. Print Even Numbers.pdb
+C:\Users\hrist\source\repos\Lab exercises. Exam Preparation (Stack and Queue)\3. Print Even Numbers\obj\Debug\net5.0\3. Print Even Numbers.genruntimeconfig.cache
+C:\Users\hrist\source\repos\Lab exercises. Exam Preparation (Stack and Queue)\3. Print Even Numbers\obj\Debug\net5.0\3. Print Even Numbers.csproj.AssemblyReference.cache

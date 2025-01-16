@@ -1,0 +1,14 @@
+D:\Database-Programming-and-ORM\Lab. Entity Framework Code First\ForumDatabase\bin\Debug\net8.0\ForumDatabase.exe
+D:\Database-Programming-and-ORM\Lab. Entity Framework Code First\ForumDatabase\bin\Debug\net8.0\ForumDatabase.deps.json
+D:\Database-Programming-and-ORM\Lab. Entity Framework Code First\ForumDatabase\bin\Debug\net8.0\ForumDatabase.runtimeconfig.json
+D:\Database-Programming-and-ORM\Lab. Entity Framework Code First\ForumDatabase\bin\Debug\net8.0\ForumDatabase.dll
+D:\Database-Programming-and-ORM\Lab. Entity Framework Code First\ForumDatabase\bin\Debug\net8.0\ForumDatabase.pdb
+D:\Database-Programming-and-ORM\Lab. Entity Framework Code First\ForumDatabase\obj\Debug\net8.0\ForumDatabase.GeneratedMSBuildEditorConfig.editorconfig
+D:\Database-Programming-and-ORM\Lab. Entity Framework Code First\ForumDatabase\obj\Debug\net8.0\ForumDatabase.AssemblyInfoInputs.cache
+D:\Database-Programming-and-ORM\Lab. Entity Framework Code First\ForumDatabase\obj\Debug\net8.0\ForumDatabase.AssemblyInfo.cs
+D:\Database-Programming-and-ORM\Lab. Entity Framework Code First\ForumDatabase\obj\Debug\net8.0\ForumDatabase.csproj.CoreCompileInputs.cache
+D:\Database-Programming-and-ORM\Lab. Entity Framework Code First\ForumDatabase\obj\Debug\net8.0\ForumDatabase.dll
+D:\Database-Programming-and-ORM\Lab. Entity Framework Code First\ForumDatabase\obj\Debug\net8.0\refint\ForumDatabase.dll
+D:\Database-Programming-and-ORM\Lab. Entity Framework Code First\ForumDatabase\obj\Debug\net8.0\ForumDatabase.pdb
+D:\Database-Programming-and-ORM\Lab. Entity Framework Code First\ForumDatabase\obj\Debug\net8.0\ForumDatabase.genruntimeconfig.cache
+D:\Database-Programming-and-ORM\Lab. Entity Framework Code First\ForumDatabase\obj\Debug\net8.0\ref\ForumDatabase.dll

@@ -1,0 +1,16 @@
+C:\Users\hrist\source\repos\Lab. Lists\5. Remove Negatives and Reverse\bin\Debug\net5.0\5. Remove Negatives and Reverse.exe
+C:\Users\hrist\source\repos\Lab. Lists\5. Remove Negatives and Reverse\bin\Debug\net5.0\5. Remove Negatives and Reverse.deps.json
+C:\Users\hrist\source\repos\Lab. Lists\5. Remove Negatives and Reverse\bin\Debug\net5.0\5. Remove Negatives and Reverse.runtimeconfig.json
+C:\Users\hrist\source\repos\Lab. Lists\5. Remove Negatives and Reverse\bin\Debug\net5.0\5. Remove Negatives and Reverse.runtimeconfig.dev.json
+C:\Users\hrist\source\repos\Lab. Lists\5. Remove Negatives and Reverse\bin\Debug\net5.0\5. Remove Negatives and Reverse.dll
+C:\Users\hrist\source\repos\Lab. Lists\5. Remove Negatives and Reverse\bin\Debug\net5.0\ref\5. Remove Negatives and Reverse.dll
+C:\Users\hrist\source\repos\Lab. Lists\5. Remove Negatives and Reverse\bin\Debug\net5.0\5. Remove Negatives and Reverse.pdb
+C:\Users\hrist\source\repos\Lab. Lists\5. Remove Negatives and Reverse\obj\Debug\net5.0\5. Remove Negatives and Reverse.csproj.AssemblyReference.cache
+C:\Users\hrist\source\repos\Lab. Lists\5. Remove Negatives and Reverse\obj\Debug\net5.0\5. Remove Negatives and Reverse.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hrist\source\repos\Lab. Lists\5. Remove Negatives and Reverse\obj\Debug\net5.0\5. Remove Negatives and Reverse.AssemblyInfoInputs.cache
+C:\Users\hrist\source\repos\Lab. Lists\5. Remove Negatives and Reverse\obj\Debug\net5.0\5. Remove Negatives and Reverse.AssemblyInfo.cs
+C:\Users\hrist\source\repos\Lab. Lists\5. Remove Negatives and Reverse\obj\Debug\net5.0\5. Remove Negatives and Reverse.csproj.CoreCompileInputs.cache
+C:\Users\hrist\source\repos\Lab. Lists\5. Remove Negatives and Reverse\obj\Debug\net5.0\5. Remove Negatives and Reverse.dll
+C:\Users\hrist\source\repos\Lab. Lists\5. Remove Negatives and Reverse\obj\Debug\net5.0\ref\5. Remove Negatives and Reverse.dll
+C:\Users\hrist\source\repos\Lab. Lists\5. Remove Negatives and Reverse\obj\Debug\net5.0\5. Remove Negatives and Reverse.pdb
+C:\Users\hrist\source\repos\Lab. Lists\5. Remove Negatives and Reverse\obj\Debug\net5.0\5. Remove Negatives and Reverse.genruntimeconfig.cache

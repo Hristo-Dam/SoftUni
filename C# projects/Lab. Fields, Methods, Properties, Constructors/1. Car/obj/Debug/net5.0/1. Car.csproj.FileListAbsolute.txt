@@ -1,0 +1,16 @@
+C:\Users\hrist\source\repos\Lab. Fields, Methods, Properties, Constructors\1. Car\bin\Debug\net5.0\1. Car.exe
+C:\Users\hrist\source\repos\Lab. Fields, Methods, Properties, Constructors\1. Car\bin\Debug\net5.0\1. Car.deps.json
+C:\Users\hrist\source\repos\Lab. Fields, Methods, Properties, Constructors\1. Car\bin\Debug\net5.0\1. Car.runtimeconfig.json
+C:\Users\hrist\source\repos\Lab. Fields, Methods, Properties, Constructors\1. Car\bin\Debug\net5.0\1. Car.runtimeconfig.dev.json
+C:\Users\hrist\source\repos\Lab. Fields, Methods, Properties, Constructors\1. Car\bin\Debug\net5.0\1. Car.dll
+C:\Users\hrist\source\repos\Lab. Fields, Methods, Properties, Constructors\1. Car\bin\Debug\net5.0\ref\1. Car.dll
+C:\Users\hrist\source\repos\Lab. Fields, Methods, Properties, Constructors\1. Car\bin\Debug\net5.0\1. Car.pdb
+C:\Users\hrist\source\repos\Lab. Fields, Methods, Properties, Constructors\1. Car\obj\Debug\net5.0\1. Car.csproj.AssemblyReference.cache
+C:\Users\hrist\source\repos\Lab. Fields, Methods, Properties, Constructors\1. Car\obj\Debug\net5.0\1. Car.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hrist\source\repos\Lab. Fields, Methods, Properties, Constructors\1. Car\obj\Debug\net5.0\1. Car.AssemblyInfoInputs.cache
+C:\Users\hrist\source\repos\Lab. Fields, Methods, Properties, Constructors\1. Car\obj\Debug\net5.0\1. Car.AssemblyInfo.cs
+C:\Users\hrist\source\repos\Lab. Fields, Methods, Properties, Constructors\1. Car\obj\Debug\net5.0\1. Car.csproj.CoreCompileInputs.cache
+C:\Users\hrist\source\repos\Lab. Fields, Methods, Properties, Constructors\1. Car\obj\Debug\net5.0\1. Car.dll
+C:\Users\hrist\source\repos\Lab. Fields, Methods, Properties, Constructors\1. Car\obj\Debug\net5.0\ref\1. Car.dll
+C:\Users\hrist\source\repos\Lab. Fields, Methods, Properties, Constructors\1. Car\obj\Debug\net5.0\1. Car.pdb
+C:\Users\hrist\source\repos\Lab. Fields, Methods, Properties, Constructors\1. Car\obj\Debug\net5.0\1. Car.genruntimeconfig.cache

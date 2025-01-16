@@ -1,0 +1,16 @@
+C:\Users\hrist\source\repos\ConsoleApp1\8. Greater of Two Values\bin\Debug\net5.0\8. Greater of Two Values.exe
+C:\Users\hrist\source\repos\ConsoleApp1\8. Greater of Two Values\bin\Debug\net5.0\8. Greater of Two Values.deps.json
+C:\Users\hrist\source\repos\ConsoleApp1\8. Greater of Two Values\bin\Debug\net5.0\8. Greater of Two Values.runtimeconfig.json
+C:\Users\hrist\source\repos\ConsoleApp1\8. Greater of Two Values\bin\Debug\net5.0\8. Greater of Two Values.runtimeconfig.dev.json
+C:\Users\hrist\source\repos\ConsoleApp1\8. Greater of Two Values\bin\Debug\net5.0\8. Greater of Two Values.dll
+C:\Users\hrist\source\repos\ConsoleApp1\8. Greater of Two Values\bin\Debug\net5.0\ref\8. Greater of Two Values.dll
+C:\Users\hrist\source\repos\ConsoleApp1\8. Greater of Two Values\bin\Debug\net5.0\8. Greater of Two Values.pdb
+C:\Users\hrist\source\repos\ConsoleApp1\8. Greater of Two Values\obj\Debug\net5.0\8. Greater of Two Values.csproj.AssemblyReference.cache
+C:\Users\hrist\source\repos\ConsoleApp1\8. Greater of Two Values\obj\Debug\net5.0\8. Greater of Two Values.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hrist\source\repos\ConsoleApp1\8. Greater of Two Values\obj\Debug\net5.0\8. Greater of Two Values.AssemblyInfoInputs.cache
+C:\Users\hrist\source\repos\ConsoleApp1\8. Greater of Two Values\obj\Debug\net5.0\8. Greater of Two Values.AssemblyInfo.cs
+C:\Users\hrist\source\repos\ConsoleApp1\8. Greater of Two Values\obj\Debug\net5.0\8. Greater of Two Values.csproj.CoreCompileInputs.cache
+C:\Users\hrist\source\repos\ConsoleApp1\8. Greater of Two Values\obj\Debug\net5.0\8. Greater of Two Values.dll
+C:\Users\hrist\source\repos\ConsoleApp1\8. Greater of Two Values\obj\Debug\net5.0\ref\8. Greater of Two Values.dll
+C:\Users\hrist\source\repos\ConsoleApp1\8. Greater of Two Values\obj\Debug\net5.0\8. Greater of Two Values.pdb
+C:\Users\hrist\source\repos\ConsoleApp1\8. Greater of Two Values\obj\Debug\net5.0\8. Greater of Two Values.genruntimeconfig.cache

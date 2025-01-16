@@ -1,0 +1,16 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "cc81f74b-2929-4dec-a013-457fc95b0a51": {
+      "ProjectGuid": "cc81f74b-2929-4dec-a013-457fc95b0a51",
+      "DisplayName": "1. Substring count",
+      "ColorIndex": 0
+    },
+    "2c916af8-6c35-4237-9ff6-fddaa4bccb05": {
+      "ProjectGuid": "2c916af8-6c35-4237-9ff6-fddaa4bccb05",
+      "DisplayName": "2. Parentheses",
+      "ColorIndex": 1
+    }
+  },
+  "NextColorIndex": 2
+}

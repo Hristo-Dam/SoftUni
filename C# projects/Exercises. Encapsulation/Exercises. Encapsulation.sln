@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34616.47
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BoxData", "BoxData\BoxData.csproj", "{F7DC1D03-3D03-4E49-9E54-3131134464FC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F7DC1D03-3D03-4E49-9E54-3131134464FC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F7DC1D03-3D03-4E49-9E54-3131134464FC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F7DC1D03-3D03-4E49-9E54-3131134464FC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F7DC1D03-3D03-4E49-9E54-3131134464FC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A2BE4285-0276-4405-B1DD-49C72C9DFC32}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,26 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "e69b8f85-7e6a-45e9-8b8e-a1b836718502": {
+      "ProjectGuid": "e69b8f85-7e6a-45e9-8b8e-a1b836718502",
+      "DisplayName": "3. Substring",
+      "ColorIndex": 0
+    },
+    "e3ac6ad2-2375-4e47-83d7-59096fca8fe4": {
+      "ProjectGuid": "e3ac6ad2-2375-4e47-83d7-59096fca8fe4",
+      "DisplayName": "2. Repeat Strings",
+      "ColorIndex": 1
+    },
+    "6777c550-2ebf-4aff-948f-31f9c8c0c7e5": {
+      "ProjectGuid": "6777c550-2ebf-4aff-948f-31f9c8c0c7e5",
+      "DisplayName": "1. Reverse Strings",
+      "ColorIndex": 2
+    },
+    "22614757-d2c9-429c-84fc-e44733d98509": {
+      "ProjectGuid": "22614757-d2c9-429c-84fc-e44733d98509",
+      "DisplayName": "4. Text Filter",
+      "ColorIndex": 3
+    }
+  },
+  "NextColorIndex": 4
+}

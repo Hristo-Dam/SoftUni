@@ -1,0 +1,16 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "ade026e2-9672-4a90-973a-1984e145b802": {
+      "ProjectGuid": "ade026e2-9672-4a90-973a-1984e145b802",
+      "DisplayName": "1. Secret Message",
+      "ColorIndex": 0
+    },
+    "4bc730b1-cc6a-4f8c-b14f-66ac729d7357": {
+      "ProjectGuid": "4bc730b1-cc6a-4f8c-b14f-66ac729d7357",
+      "DisplayName": "2. Reflections",
+      "ColorIndex": 1
+    }
+  },
+  "NextColorIndex": 2
+}

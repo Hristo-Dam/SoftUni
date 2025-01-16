@@ -1,0 +1,5 @@
+C:\Users\hrist\source\repos\Final Exam\Road Safety\obj\Debug\net5.0\Road Safety.csproj.AssemblyReference.cache
+C:\Users\hrist\source\repos\Final Exam\Road Safety\obj\Debug\net5.0\Road Safety.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hrist\source\repos\Final Exam\Road Safety\obj\Debug\net5.0\Road Safety.AssemblyInfoInputs.cache
+C:\Users\hrist\source\repos\Final Exam\Road Safety\obj\Debug\net5.0\Road Safety.AssemblyInfo.cs
+C:\Users\hrist\source\repos\Final Exam\Road Safety\obj\Debug\net5.0\Road Safety.csproj.CoreCompileInputs.cache

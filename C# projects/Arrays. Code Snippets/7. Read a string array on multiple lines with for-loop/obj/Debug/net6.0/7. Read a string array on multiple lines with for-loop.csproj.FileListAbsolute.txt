@@ -1,0 +1,15 @@
+C:\Users\hrist\source\repos\Arrays. Code Snippets\7. Read a string array on multiple lines with for-loop\bin\Debug\net6.0\7. Read a string array on multiple lines with for-loop.exe
+C:\Users\hrist\source\repos\Arrays. Code Snippets\7. Read a string array on multiple lines with for-loop\bin\Debug\net6.0\7. Read a string array on multiple lines with for-loop.deps.json
+C:\Users\hrist\source\repos\Arrays. Code Snippets\7. Read a string array on multiple lines with for-loop\bin\Debug\net6.0\7. Read a string array on multiple lines with for-loop.runtimeconfig.json
+C:\Users\hrist\source\repos\Arrays. Code Snippets\7. Read a string array on multiple lines with for-loop\bin\Debug\net6.0\7. Read a string array on multiple lines with for-loop.dll
+C:\Users\hrist\source\repos\Arrays. Code Snippets\7. Read a string array on multiple lines with for-loop\bin\Debug\net6.0\ref\7. Read a string array on multiple lines with for-loop.dll
+C:\Users\hrist\source\repos\Arrays. Code Snippets\7. Read a string array on multiple lines with for-loop\bin\Debug\net6.0\7. Read a string array on multiple lines with for-loop.pdb
+C:\Users\hrist\source\repos\Arrays. Code Snippets\7. Read a string array on multiple lines with for-loop\obj\Debug\net6.0\7. Read a string array on multiple lines with for-loop.csproj.AssemblyReference.cache
+C:\Users\hrist\source\repos\Arrays. Code Snippets\7. Read a string array on multiple lines with for-loop\obj\Debug\net6.0\7. Read a string array on multiple lines with for-loop.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hrist\source\repos\Arrays. Code Snippets\7. Read a string array on multiple lines with for-loop\obj\Debug\net6.0\7. Read a string array on multiple lines with for-loop.AssemblyInfoInputs.cache
+C:\Users\hrist\source\repos\Arrays. Code Snippets\7. Read a string array on multiple lines with for-loop\obj\Debug\net6.0\7. Read a string array on multiple lines with for-loop.AssemblyInfo.cs
+C:\Users\hrist\source\repos\Arrays. Code Snippets\7. Read a string array on multiple lines with for-loop\obj\Debug\net6.0\7. Read a string array on multiple lines with for-loop.csproj.CoreCompileInputs.cache
+C:\Users\hrist\source\repos\Arrays. Code Snippets\7. Read a string array on multiple lines with for-loop\obj\Debug\net6.0\7. Read a string array on multiple lines with for-loop.dll
+C:\Users\hrist\source\repos\Arrays. Code Snippets\7. Read a string array on multiple lines with for-loop\obj\Debug\net6.0\ref\7. Read a string array on multiple lines with for-loop.dll
+C:\Users\hrist\source\repos\Arrays. Code Snippets\7. Read a string array on multiple lines with for-loop\obj\Debug\net6.0\7. Read a string array on multiple lines with for-loop.pdb
+C:\Users\hrist\source\repos\Arrays. Code Snippets\7. Read a string array on multiple lines with for-loop\obj\Debug\net6.0\7. Read a string array on multiple lines with for-loop.genruntimeconfig.cache

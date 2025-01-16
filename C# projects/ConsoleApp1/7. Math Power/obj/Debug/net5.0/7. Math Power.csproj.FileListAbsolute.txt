@@ -1,0 +1,16 @@
+C:\Users\hrist\source\repos\ConsoleApp1\7. Math Power\bin\Debug\net5.0\7. Math Power.exe
+C:\Users\hrist\source\repos\ConsoleApp1\7. Math Power\bin\Debug\net5.0\7. Math Power.deps.json
+C:\Users\hrist\source\repos\ConsoleApp1\7. Math Power\bin\Debug\net5.0\7. Math Power.runtimeconfig.json
+C:\Users\hrist\source\repos\ConsoleApp1\7. Math Power\bin\Debug\net5.0\7. Math Power.runtimeconfig.dev.json
+C:\Users\hrist\source\repos\ConsoleApp1\7. Math Power\bin\Debug\net5.0\7. Math Power.dll
+C:\Users\hrist\source\repos\ConsoleApp1\7. Math Power\bin\Debug\net5.0\ref\7. Math Power.dll
+C:\Users\hrist\source\repos\ConsoleApp1\7. Math Power\bin\Debug\net5.0\7. Math Power.pdb
+C:\Users\hrist\source\repos\ConsoleApp1\7. Math Power\obj\Debug\net5.0\7. Math Power.csproj.AssemblyReference.cache
+C:\Users\hrist\source\repos\ConsoleApp1\7. Math Power\obj\Debug\net5.0\7. Math Power.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hrist\source\repos\ConsoleApp1\7. Math Power\obj\Debug\net5.0\7. Math Power.AssemblyInfoInputs.cache
+C:\Users\hrist\source\repos\ConsoleApp1\7. Math Power\obj\Debug\net5.0\7. Math Power.AssemblyInfo.cs
+C:\Users\hrist\source\repos\ConsoleApp1\7. Math Power\obj\Debug\net5.0\7. Math Power.csproj.CoreCompileInputs.cache
+C:\Users\hrist\source\repos\ConsoleApp1\7. Math Power\obj\Debug\net5.0\7. Math Power.dll
+C:\Users\hrist\source\repos\ConsoleApp1\7. Math Power\obj\Debug\net5.0\ref\7. Math Power.dll
+C:\Users\hrist\source\repos\ConsoleApp1\7. Math Power\obj\Debug\net5.0\7. Math Power.pdb
+C:\Users\hrist\source\repos\ConsoleApp1\7. Math Power\obj\Debug\net5.0\7. Math Power.genruntimeconfig.cache

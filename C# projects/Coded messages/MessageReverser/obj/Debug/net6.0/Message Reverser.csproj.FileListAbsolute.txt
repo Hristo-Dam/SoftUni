@@ -1,0 +1,15 @@
+C:\Users\hrist\source\repos\Coded messages\MessageReverser\obj\Debug\net6.0\Message Reverser.csproj.AssemblyReference.cache
+C:\Users\hrist\source\repos\Coded messages\MessageReverser\obj\Debug\net6.0\Message Reverser.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hrist\source\repos\Coded messages\MessageReverser\obj\Debug\net6.0\Message Reverser.AssemblyInfoInputs.cache
+C:\Users\hrist\source\repos\Coded messages\MessageReverser\obj\Debug\net6.0\Message Reverser.AssemblyInfo.cs
+C:\Users\hrist\source\repos\Coded messages\MessageReverser\obj\Debug\net6.0\Message Reverser.csproj.CoreCompileInputs.cache
+C:\Users\hrist\source\repos\Coded messages\MessageReverser\bin\Debug\net6.0\Message Reverser.exe
+C:\Users\hrist\source\repos\Coded messages\MessageReverser\bin\Debug\net6.0\Message Reverser.deps.json
+C:\Users\hrist\source\repos\Coded messages\MessageReverser\bin\Debug\net6.0\Message Reverser.runtimeconfig.json
+C:\Users\hrist\source\repos\Coded messages\MessageReverser\bin\Debug\net6.0\Message Reverser.dll
+C:\Users\hrist\source\repos\Coded messages\MessageReverser\bin\Debug\net6.0\ref\Message Reverser.dll
+C:\Users\hrist\source\repos\Coded messages\MessageReverser\bin\Debug\net6.0\Message Reverser.pdb
+C:\Users\hrist\source\repos\Coded messages\MessageReverser\obj\Debug\net6.0\Message Reverser.dll
+C:\Users\hrist\source\repos\Coded messages\MessageReverser\obj\Debug\net6.0\ref\Message Reverser.dll
+C:\Users\hrist\source\repos\Coded messages\MessageReverser\obj\Debug\net6.0\Message Reverser.pdb
+C:\Users\hrist\source\repos\Coded messages\MessageReverser\obj\Debug\net6.0\Message Reverser.genruntimeconfig.cache

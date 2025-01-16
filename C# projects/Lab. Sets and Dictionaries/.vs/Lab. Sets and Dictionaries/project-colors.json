@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "a0a8d3ae-ae88-426e-9a99-d1d3fd8f27a8": {
+      "ProjectGuid": "a0a8d3ae-ae88-426e-9a99-d1d3fd8f27a8",
+      "DisplayName": "1. Count Real Numbers",
+      "ColorIndex": 0
+    },
+    "b4dec80d-313f-4aec-8d21-9c808d3442a4": {
+      "ProjectGuid": "b4dec80d-313f-4aec-8d21-9c808d3442a4",
+      "DisplayName": "2. Odd Occurrences",
+      "ColorIndex": 1
+    },
+    "9c484ade-4cab-4406-9c96-2c44d4e734b7": {
+      "ProjectGuid": "9c484ade-4cab-4406-9c96-2c44d4e734b7",
+      "DisplayName": "9. Record Unique Names",
+      "ColorIndex": 2
+    },
+    "6cdb127b-f069-4456-a855-029611b7e3e5": {
+      "ProjectGuid": "6cdb127b-f069-4456-a855-029611b7e3e5",
+      "DisplayName": "8. Parking Lot",
+      "ColorIndex": 3
+    },
+    "c9659e3f-fe1e-4f0d-9658-5190f8e01bc2": {
+      "ProjectGuid": "c9659e3f-fe1e-4f0d-9658-5190f8e01bc2",
+      "DisplayName": "10. SoftUni Party",
+      "ColorIndex": 4
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Miscellaneous Files",
+      "ColorIndex": -1
+    },
+    "7570d439-70d7-4d81-b8c2-096f036050ba": {
+      "ProjectGuid": "7570d439-70d7-4d81-b8c2-096f036050ba",
+      "DisplayName": "5. Average Student Grades",
+      "ColorIndex": 5
+    }
+  },
+  "NextColorIndex": 6
+}

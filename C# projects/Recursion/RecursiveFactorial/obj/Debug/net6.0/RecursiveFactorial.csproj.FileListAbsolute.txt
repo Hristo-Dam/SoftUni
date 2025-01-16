@@ -1,0 +1,14 @@
+D:\CS projects\Recursion\RecursiveFactorial\bin\Debug\net6.0\RecursiveFactorial.exe
+D:\CS projects\Recursion\RecursiveFactorial\bin\Debug\net6.0\RecursiveFactorial.deps.json
+D:\CS projects\Recursion\RecursiveFactorial\bin\Debug\net6.0\RecursiveFactorial.runtimeconfig.json
+D:\CS projects\Recursion\RecursiveFactorial\bin\Debug\net6.0\RecursiveFactorial.dll
+D:\CS projects\Recursion\RecursiveFactorial\bin\Debug\net6.0\RecursiveFactorial.pdb
+D:\CS projects\Recursion\RecursiveFactorial\obj\Debug\net6.0\RecursiveFactorial.GeneratedMSBuildEditorConfig.editorconfig
+D:\CS projects\Recursion\RecursiveFactorial\obj\Debug\net6.0\RecursiveFactorial.AssemblyInfoInputs.cache
+D:\CS projects\Recursion\RecursiveFactorial\obj\Debug\net6.0\RecursiveFactorial.AssemblyInfo.cs
+D:\CS projects\Recursion\RecursiveFactorial\obj\Debug\net6.0\RecursiveFactorial.csproj.CoreCompileInputs.cache
+D:\CS projects\Recursion\RecursiveFactorial\obj\Debug\net6.0\RecursiveFactorial.dll
+D:\CS projects\Recursion\RecursiveFactorial\obj\Debug\net6.0\refint\RecursiveFactorial.dll
+D:\CS projects\Recursion\RecursiveFactorial\obj\Debug\net6.0\RecursiveFactorial.pdb
+D:\CS projects\Recursion\RecursiveFactorial\obj\Debug\net6.0\RecursiveFactorial.genruntimeconfig.cache
+D:\CS projects\Recursion\RecursiveFactorial\obj\Debug\net6.0\ref\RecursiveFactorial.dll

@@ -1,0 +1,1 @@
+﻿string[] words = Console.ReadLine().Split(' ');

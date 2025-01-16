@@ -1,0 +1,14 @@
+C:\Users\hrist\source\repos\Exercises Data Types and Variables\4. Sum of Chars\bin\Debug\net6.0\4. Sum of Chars.exe
+C:\Users\hrist\source\repos\Exercises Data Types and Variables\4. Sum of Chars\bin\Debug\net6.0\4. Sum of Chars.deps.json
+C:\Users\hrist\source\repos\Exercises Data Types and Variables\4. Sum of Chars\bin\Debug\net6.0\4. Sum of Chars.runtimeconfig.json
+C:\Users\hrist\source\repos\Exercises Data Types and Variables\4. Sum of Chars\bin\Debug\net6.0\4. Sum of Chars.dll
+C:\Users\hrist\source\repos\Exercises Data Types and Variables\4. Sum of Chars\bin\Debug\net6.0\ref\4. Sum of Chars.dll
+C:\Users\hrist\source\repos\Exercises Data Types and Variables\4. Sum of Chars\bin\Debug\net6.0\4. Sum of Chars.pdb
+C:\Users\hrist\source\repos\Exercises Data Types and Variables\4. Sum of Chars\obj\Debug\net6.0\4. Sum of Chars.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hrist\source\repos\Exercises Data Types and Variables\4. Sum of Chars\obj\Debug\net6.0\4. Sum of Chars.AssemblyInfoInputs.cache
+C:\Users\hrist\source\repos\Exercises Data Types and Variables\4. Sum of Chars\obj\Debug\net6.0\4. Sum of Chars.AssemblyInfo.cs
+C:\Users\hrist\source\repos\Exercises Data Types and Variables\4. Sum of Chars\obj\Debug\net6.0\4. Sum of Chars.csproj.CoreCompileInputs.cache
+C:\Users\hrist\source\repos\Exercises Data Types and Variables\4. Sum of Chars\obj\Debug\net6.0\4. Sum of Chars.dll
+C:\Users\hrist\source\repos\Exercises Data Types and Variables\4. Sum of Chars\obj\Debug\net6.0\ref\4. Sum of Chars.dll
+C:\Users\hrist\source\repos\Exercises Data Types and Variables\4. Sum of Chars\obj\Debug\net6.0\4. Sum of Chars.pdb
+C:\Users\hrist\source\repos\Exercises Data Types and Variables\4. Sum of Chars\obj\Debug\net6.0\4. Sum of Chars.genruntimeconfig.cache

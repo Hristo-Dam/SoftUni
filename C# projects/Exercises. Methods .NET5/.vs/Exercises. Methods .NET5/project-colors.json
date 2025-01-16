@@ -1,0 +1,51 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "39b0b22e-9c5a-4542-a6e1-8181f5e9decb": {
+      "ProjectGuid": "39b0b22e-9c5a-4542-a6e1-8181f5e9decb",
+      "DisplayName": "1. Smallest of Three Numbers",
+      "ColorIndex": 0
+    },
+    "8f51952e-f4e6-4f83-a734-2eb8fff928e1": {
+      "ProjectGuid": "8f51952e-f4e6-4f83-a734-2eb8fff928e1",
+      "DisplayName": "2. Vowels Count",
+      "ColorIndex": 1
+    },
+    "af33af68-7cb1-430f-99bc-59bc40a04d66": {
+      "ProjectGuid": "af33af68-7cb1-430f-99bc-59bc40a04d66",
+      "DisplayName": "3. Characters in Range",
+      "ColorIndex": 2
+    },
+    "8e9c8988-4926-41bd-9b72-e3c9d5cc910f": {
+      "ProjectGuid": "8e9c8988-4926-41bd-9b72-e3c9d5cc910f",
+      "DisplayName": "4. Password Validator",
+      "ColorIndex": 3
+    },
+    "b04bd2cf-6f73-4d4e-95dd-9972d49e5490": {
+      "ProjectGuid": "b04bd2cf-6f73-4d4e-95dd-9972d49e5490",
+      "DisplayName": "5. Middle Characters",
+      "ColorIndex": 4
+    },
+    "72d3a339-00f9-4823-9c8a-815c7ee20a3d": {
+      "ProjectGuid": "72d3a339-00f9-4823-9c8a-815c7ee20a3d",
+      "DisplayName": "6. Factorial Division",
+      "ColorIndex": 5
+    },
+    "1c3aa151-7152-4dc8-8c34-e69b6ab0ddf3": {
+      "ProjectGuid": "1c3aa151-7152-4dc8-8c34-e69b6ab0ddf3",
+      "DisplayName": "7. Palindrome Integers",
+      "ColorIndex": 6
+    },
+    "c7359a2b-7b6e-4c6e-a438-88e6404d7b51": {
+      "ProjectGuid": "c7359a2b-7b6e-4c6e-a438-88e6404d7b51",
+      "DisplayName": "8. Top Number",
+      "ColorIndex": 7
+    },
+    "1d32b2fd-030b-4291-af05-dc968e0dac84": {
+      "ProjectGuid": "1d32b2fd-030b-4291-af05-dc968e0dac84",
+      "DisplayName": "9. Array Manipulator",
+      "ColorIndex": 8
+    }
+  },
+  "NextColorIndex": 9
+}

@@ -1,0 +1,17 @@
+D:\CS projects\Lab. Trees Representation and Traversal (BFS, DFS)\BuildTree\bin\Debug\net6.0\BuildTree.exe
+D:\CS projects\Lab. Trees Representation and Traversal (BFS, DFS)\BuildTree\bin\Debug\net6.0\BuildTree.deps.json
+D:\CS projects\Lab. Trees Representation and Traversal (BFS, DFS)\BuildTree\bin\Debug\net6.0\BuildTree.runtimeconfig.json
+D:\CS projects\Lab. Trees Representation and Traversal (BFS, DFS)\BuildTree\bin\Debug\net6.0\BuildTree.dll
+D:\CS projects\Lab. Trees Representation and Traversal (BFS, DFS)\BuildTree\bin\Debug\net6.0\BuildTree.pdb
+D:\CS projects\Lab. Trees Representation and Traversal (BFS, DFS)\BuildTree\bin\Debug\net6.0\SimpleTreeNode.dll
+D:\CS projects\Lab. Trees Representation and Traversal (BFS, DFS)\BuildTree\obj\Debug\net6.0\BuildTree.csproj.AssemblyReference.cache
+D:\CS projects\Lab. Trees Representation and Traversal (BFS, DFS)\BuildTree\obj\Debug\net6.0\BuildTree.GeneratedMSBuildEditorConfig.editorconfig
+D:\CS projects\Lab. Trees Representation and Traversal (BFS, DFS)\BuildTree\obj\Debug\net6.0\BuildTree.AssemblyInfoInputs.cache
+D:\CS projects\Lab. Trees Representation and Traversal (BFS, DFS)\BuildTree\obj\Debug\net6.0\BuildTree.AssemblyInfo.cs
+D:\CS projects\Lab. Trees Representation and Traversal (BFS, DFS)\BuildTree\obj\Debug\net6.0\BuildTree.csproj.CoreCompileInputs.cache
+D:\CS projects\Lab. Trees Representation and Traversal (BFS, DFS)\BuildTree\obj\Debug\net6.0\BuildTree.csproj.Up2Date
+D:\CS projects\Lab. Trees Representation and Traversal (BFS, DFS)\BuildTree\obj\Debug\net6.0\BuildTree.dll
+D:\CS projects\Lab. Trees Representation and Traversal (BFS, DFS)\BuildTree\obj\Debug\net6.0\refint\BuildTree.dll
+D:\CS projects\Lab. Trees Representation and Traversal (BFS, DFS)\BuildTree\obj\Debug\net6.0\BuildTree.pdb
+D:\CS projects\Lab. Trees Representation and Traversal (BFS, DFS)\BuildTree\obj\Debug\net6.0\BuildTree.genruntimeconfig.cache
+D:\CS projects\Lab. Trees Representation and Traversal (BFS, DFS)\BuildTree\obj\Debug\net6.0\ref\BuildTree.dll

@@ -1,0 +1,15 @@
+C:\Users\hrist\source\repos\Lab. Objects and Classes\2. Randomize Numbers\bin\Debug\net5.0\2. Randomize Numbers.exe
+C:\Users\hrist\source\repos\Lab. Objects and Classes\2. Randomize Numbers\bin\Debug\net5.0\2. Randomize Numbers.deps.json
+C:\Users\hrist\source\repos\Lab. Objects and Classes\2. Randomize Numbers\bin\Debug\net5.0\2. Randomize Numbers.runtimeconfig.json
+C:\Users\hrist\source\repos\Lab. Objects and Classes\2. Randomize Numbers\bin\Debug\net5.0\2. Randomize Numbers.runtimeconfig.dev.json
+C:\Users\hrist\source\repos\Lab. Objects and Classes\2. Randomize Numbers\bin\Debug\net5.0\2. Randomize Numbers.dll
+C:\Users\hrist\source\repos\Lab. Objects and Classes\2. Randomize Numbers\bin\Debug\net5.0\ref\2. Randomize Numbers.dll
+C:\Users\hrist\source\repos\Lab. Objects and Classes\2. Randomize Numbers\bin\Debug\net5.0\2. Randomize Numbers.pdb
+C:\Users\hrist\source\repos\Lab. Objects and Classes\2. Randomize Numbers\obj\Debug\net5.0\2. Randomize Numbers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hrist\source\repos\Lab. Objects and Classes\2. Randomize Numbers\obj\Debug\net5.0\2. Randomize Numbers.AssemblyInfoInputs.cache
+C:\Users\hrist\source\repos\Lab. Objects and Classes\2. Randomize Numbers\obj\Debug\net5.0\2. Randomize Numbers.AssemblyInfo.cs
+C:\Users\hrist\source\repos\Lab. Objects and Classes\2. Randomize Numbers\obj\Debug\net5.0\2. Randomize Numbers.csproj.CoreCompileInputs.cache
+C:\Users\hrist\source\repos\Lab. Objects and Classes\2. Randomize Numbers\obj\Debug\net5.0\2. Randomize Numbers.dll
+C:\Users\hrist\source\repos\Lab. Objects and Classes\2. Randomize Numbers\obj\Debug\net5.0\ref\2. Randomize Numbers.dll
+C:\Users\hrist\source\repos\Lab. Objects and Classes\2. Randomize Numbers\obj\Debug\net5.0\2. Randomize Numbers.pdb
+C:\Users\hrist\source\repos\Lab. Objects and Classes\2. Randomize Numbers\obj\Debug\net5.0\2. Randomize Numbers.genruntimeconfig.cache

@@ -1,0 +1,14 @@
+D:\CS projects\sandbox\sandbox\bin\Debug\net6.0\sandbox.exe
+D:\CS projects\sandbox\sandbox\bin\Debug\net6.0\sandbox.deps.json
+D:\CS projects\sandbox\sandbox\bin\Debug\net6.0\sandbox.runtimeconfig.json
+D:\CS projects\sandbox\sandbox\bin\Debug\net6.0\sandbox.dll
+D:\CS projects\sandbox\sandbox\bin\Debug\net6.0\sandbox.pdb
+D:\CS projects\sandbox\sandbox\obj\Debug\net6.0\sandbox.GeneratedMSBuildEditorConfig.editorconfig
+D:\CS projects\sandbox\sandbox\obj\Debug\net6.0\sandbox.AssemblyInfoInputs.cache
+D:\CS projects\sandbox\sandbox\obj\Debug\net6.0\sandbox.AssemblyInfo.cs
+D:\CS projects\sandbox\sandbox\obj\Debug\net6.0\sandbox.csproj.CoreCompileInputs.cache
+D:\CS projects\sandbox\sandbox\obj\Debug\net6.0\sandbox.dll
+D:\CS projects\sandbox\sandbox\obj\Debug\net6.0\refint\sandbox.dll
+D:\CS projects\sandbox\sandbox\obj\Debug\net6.0\sandbox.pdb
+D:\CS projects\sandbox\sandbox\obj\Debug\net6.0\sandbox.genruntimeconfig.cache
+D:\CS projects\sandbox\sandbox\obj\Debug\net6.0\ref\sandbox.dll

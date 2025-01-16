@@ -1,0 +1,21 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "998720ae-ed30-4d39-99f7-55f316ca616c": {
+      "ProjectGuid": "998720ae-ed30-4d39-99f7-55f316ca616c",
+      "DisplayName": "1. Train",
+      "ColorIndex": 0
+    },
+    "2f6be028-02e7-4efb-b276-9e207b57ae9f": {
+      "ProjectGuid": "2f6be028-02e7-4efb-b276-9e207b57ae9f",
+      "DisplayName": "2. Change List",
+      "ColorIndex": 1
+    },
+    "0f69735a-c8fb-4355-8f35-9b8163ca6b62": {
+      "ProjectGuid": "0f69735a-c8fb-4355-8f35-9b8163ca6b62",
+      "DisplayName": "3. List Operations",
+      "ColorIndex": 2
+    }
+  },
+  "NextColorIndex": 3
+}

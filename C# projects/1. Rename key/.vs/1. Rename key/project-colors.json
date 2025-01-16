@@ -1,0 +1,21 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "b3a67d91-44ac-4022-b4ff-9d065551ea16": {
+      "ProjectGuid": "b3a67d91-44ac-4022-b4ff-9d065551ea16",
+      "DisplayName": "1. Rename key",
+      "ColorIndex": 0
+    },
+    "7e82cc6c-cef5-4b61-ac63-4c1835fbb277": {
+      "ProjectGuid": "7e82cc6c-cef5-4b61-ac63-4c1835fbb277",
+      "DisplayName": "2. Remove duplicates",
+      "ColorIndex": 1
+    },
+    "389ac3b9-cc25-4161-b329-59a368cb5206": {
+      "ProjectGuid": "389ac3b9-cc25-4161-b329-59a368cb5206",
+      "DisplayName": "3. ASCII dict",
+      "ColorIndex": 2
+    }
+  },
+  "NextColorIndex": 3
+}

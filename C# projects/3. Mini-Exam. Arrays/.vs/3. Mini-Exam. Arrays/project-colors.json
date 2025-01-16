@@ -1,0 +1,31 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "5959c7c4-438a-44bb-ab78-7bd288e67593": {
+      "ProjectGuid": "5959c7c4-438a-44bb-ab78-7bd288e67593",
+      "DisplayName": "1. Team “Beyond Math”",
+      "ColorIndex": 0
+    },
+    "d13e9497-2017-42e0-b71d-3694c5c24249": {
+      "ProjectGuid": "d13e9497-2017-42e0-b71d-3694c5c24249",
+      "DisplayName": "2. Team “Beyond Science”",
+      "ColorIndex": 1
+    },
+    "6b44067d-2635-43ca-ab02-d2afacd9faf8": {
+      "ProjectGuid": "6b44067d-2635-43ca-ab02-d2afacd9faf8",
+      "DisplayName": "3. Team “Beyond Reason”",
+      "ColorIndex": 2
+    },
+    "df33f7c6-7eb7-40b3-ab13-2daf15a9701a": {
+      "ProjectGuid": "df33f7c6-7eb7-40b3-ab13-2daf15a9701a",
+      "DisplayName": "4. Everything in Common",
+      "ColorIndex": 3
+    },
+    "70dccad7-0b3f-4333-a8fc-756a90e647be": {
+      "ProjectGuid": "70dccad7-0b3f-4333-a8fc-756a90e647be",
+      "DisplayName": "5. Nothing in Comon",
+      "ColorIndex": 4
+    }
+  },
+  "NextColorIndex": 5
+}

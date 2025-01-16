@@ -1,0 +1,16 @@
+C:\Users\hrist\source\repos\ConsoleApp1\6. Repeat String\bin\Debug\net5.0\6. Repeat String.exe
+C:\Users\hrist\source\repos\ConsoleApp1\6. Repeat String\bin\Debug\net5.0\6. Repeat String.deps.json
+C:\Users\hrist\source\repos\ConsoleApp1\6. Repeat String\bin\Debug\net5.0\6. Repeat String.runtimeconfig.json
+C:\Users\hrist\source\repos\ConsoleApp1\6. Repeat String\bin\Debug\net5.0\6. Repeat String.runtimeconfig.dev.json
+C:\Users\hrist\source\repos\ConsoleApp1\6. Repeat String\bin\Debug\net5.0\6. Repeat String.dll
+C:\Users\hrist\source\repos\ConsoleApp1\6. Repeat String\bin\Debug\net5.0\ref\6. Repeat String.dll
+C:\Users\hrist\source\repos\ConsoleApp1\6. Repeat String\bin\Debug\net5.0\6. Repeat String.pdb
+C:\Users\hrist\source\repos\ConsoleApp1\6. Repeat String\obj\Debug\net5.0\6. Repeat String.csproj.AssemblyReference.cache
+C:\Users\hrist\source\repos\ConsoleApp1\6. Repeat String\obj\Debug\net5.0\6. Repeat String.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hrist\source\repos\ConsoleApp1\6. Repeat String\obj\Debug\net5.0\6. Repeat String.AssemblyInfoInputs.cache
+C:\Users\hrist\source\repos\ConsoleApp1\6. Repeat String\obj\Debug\net5.0\6. Repeat String.AssemblyInfo.cs
+C:\Users\hrist\source\repos\ConsoleApp1\6. Repeat String\obj\Debug\net5.0\6. Repeat String.csproj.CoreCompileInputs.cache
+C:\Users\hrist\source\repos\ConsoleApp1\6. Repeat String\obj\Debug\net5.0\6. Repeat String.dll
+C:\Users\hrist\source\repos\ConsoleApp1\6. Repeat String\obj\Debug\net5.0\ref\6. Repeat String.dll
+C:\Users\hrist\source\repos\ConsoleApp1\6. Repeat String\obj\Debug\net5.0\6. Repeat String.pdb
+C:\Users\hrist\source\repos\ConsoleApp1\6. Repeat String\obj\Debug\net5.0\6. Repeat String.genruntimeconfig.cache

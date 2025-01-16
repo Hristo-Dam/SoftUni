@@ -1,0 +1,5 @@
+C:\Users\hrist\source\repos\1. Grades\1. Grades\obj\Debug\net6.0\1. Grades.csproj.AssemblyReference.cache
+C:\Users\hrist\source\repos\1. Grades\1. Grades\obj\Debug\net6.0\1. Grades.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hrist\source\repos\1. Grades\1. Grades\obj\Debug\net6.0\1. Grades.AssemblyInfoInputs.cache
+C:\Users\hrist\source\repos\1. Grades\1. Grades\obj\Debug\net6.0\1. Grades.AssemblyInfo.cs
+C:\Users\hrist\source\repos\1. Grades\1. Grades\obj\Debug\net6.0\1. Grades.csproj.CoreCompileInputs.cache

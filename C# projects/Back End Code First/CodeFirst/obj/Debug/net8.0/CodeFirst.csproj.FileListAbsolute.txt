@@ -1,0 +1,14 @@
+D:\CS projects\Back End Code First\CodeFirst\bin\Debug\net8.0\CodeFirst.exe
+D:\CS projects\Back End Code First\CodeFirst\bin\Debug\net8.0\CodeFirst.deps.json
+D:\CS projects\Back End Code First\CodeFirst\bin\Debug\net8.0\CodeFirst.runtimeconfig.json
+D:\CS projects\Back End Code First\CodeFirst\bin\Debug\net8.0\CodeFirst.dll
+D:\CS projects\Back End Code First\CodeFirst\bin\Debug\net8.0\CodeFirst.pdb
+D:\CS projects\Back End Code First\CodeFirst\obj\Debug\net8.0\CodeFirst.GeneratedMSBuildEditorConfig.editorconfig
+D:\CS projects\Back End Code First\CodeFirst\obj\Debug\net8.0\CodeFirst.AssemblyInfoInputs.cache
+D:\CS projects\Back End Code First\CodeFirst\obj\Debug\net8.0\CodeFirst.AssemblyInfo.cs
+D:\CS projects\Back End Code First\CodeFirst\obj\Debug\net8.0\CodeFirst.csproj.CoreCompileInputs.cache
+D:\CS projects\Back End Code First\CodeFirst\obj\Debug\net8.0\CodeFirst.dll
+D:\CS projects\Back End Code First\CodeFirst\obj\Debug\net8.0\refint\CodeFirst.dll
+D:\CS projects\Back End Code First\CodeFirst\obj\Debug\net8.0\CodeFirst.pdb
+D:\CS projects\Back End Code First\CodeFirst\obj\Debug\net8.0\CodeFirst.genruntimeconfig.cache
+D:\CS projects\Back End Code First\CodeFirst\obj\Debug\net8.0\ref\CodeFirst.dll

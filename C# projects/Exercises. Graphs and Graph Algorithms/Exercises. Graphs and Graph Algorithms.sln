@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.12.35521.163 d17.12
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConnectedComponents", "ConnectedComponents\ConnectedComponents.csproj", "{6605A116-A564-49A1-AF12-A09303214895}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CyclesInGraph", "CyclesInGraph\CyclesInGraph.csproj", "{50A8F843-87F2-4EEA-97F8-9F534DFF843E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6605A116-A564-49A1-AF12-A09303214895}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6605A116-A564-49A1-AF12-A09303214895}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6605A116-A564-49A1-AF12-A09303214895}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6605A116-A564-49A1-AF12-A09303214895}.Release|Any CPU.Build.0 = Release|Any CPU
+		{50A8F843-87F2-4EEA-97F8-9F534DFF843E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{50A8F843-87F2-4EEA-97F8-9F534DFF843E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{50A8F843-87F2-4EEA-97F8-9F534DFF843E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{50A8F843-87F2-4EEA-97F8-9F534DFF843E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

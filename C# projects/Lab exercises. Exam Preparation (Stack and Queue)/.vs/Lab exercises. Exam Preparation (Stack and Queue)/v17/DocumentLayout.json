@@ -1,0 +1,84 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\C# projects\\Lab exercises. Exam Preparation (Stack and Queue)\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{26AF2D1F-D5C2-4758-B019-5C9B09AA6CDA}|3. Print Even Numbers\\3. Print Even Numbers.csproj|d:\\c# projects\\lab exercises. exam preparation (stack and queue)\\3. print even numbers\\program3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{26AF2D1F-D5C2-4758-B019-5C9B09AA6CDA}|3. Print Even Numbers\\3. Print Even Numbers.csproj|solutionrelative:3. print even numbers\\program3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{78CA590B-0580-4D11-A71E-30776E7F2027}|2. Simple Calculator\\2. Simple Calculator.csproj|d:\\c# projects\\lab exercises. exam preparation (stack and queue)\\2. simple calculator\\program2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{78CA590B-0580-4D11-A71E-30776E7F2027}|2. Simple Calculator\\2. Simple Calculator.csproj|solutionrelative:2. simple calculator\\program2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F9A1F1F5-D1A4-4C6B-9825-6947CFFAEF7B}|1. Basic Stack Operations\\1. Basic Stack Operations.csproj|d:\\c# projects\\lab exercises. exam preparation (stack and queue)\\1. basic stack operations\\program1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F9A1F1F5-D1A4-4C6B-9825-6947CFFAEF7B}|1. Basic Stack Operations\\1. Basic Stack Operations.csproj|solutionrelative:1. basic stack operations\\program1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program3.cs",
+              "DocumentMoniker": "D:\\C# projects\\Lab exercises. Exam Preparation (Stack and Queue)\\3. Print Even Numbers\\Program3.cs",
+              "RelativeDocumentMoniker": "3. Print Even Numbers\\Program3.cs",
+              "ToolTip": "D:\\C# projects\\Lab exercises. Exam Preparation (Stack and Queue)\\3. Print Even Numbers\\Program3.cs",
+              "RelativeToolTip": "3. Print Even Numbers\\Program3.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAoAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-16T07:25:05.25Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program2.cs",
+              "DocumentMoniker": "D:\\C# projects\\Lab exercises. Exam Preparation (Stack and Queue)\\2. Simple Calculator\\Program2.cs",
+              "RelativeDocumentMoniker": "2. Simple Calculator\\Program2.cs",
+              "ToolTip": "D:\\C# projects\\Lab exercises. Exam Preparation (Stack and Queue)\\2. Simple Calculator\\Program2.cs",
+              "RelativeToolTip": "2. Simple Calculator\\Program2.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-16T07:25:05.271Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program1.cs",
+              "DocumentMoniker": "D:\\C# projects\\Lab exercises. Exam Preparation (Stack and Queue)\\1. Basic Stack Operations\\Program1.cs",
+              "RelativeDocumentMoniker": "1. Basic Stack Operations\\Program1.cs",
+              "ToolTip": "D:\\C# projects\\Lab exercises. Exam Preparation (Stack and Queue)\\1. Basic Stack Operations\\Program1.cs",
+              "RelativeToolTip": "1. Basic Stack Operations\\Program1.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAQwAsAAAACAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-16T07:25:05.318Z"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

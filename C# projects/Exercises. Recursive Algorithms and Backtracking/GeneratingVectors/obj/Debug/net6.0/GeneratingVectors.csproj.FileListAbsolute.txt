@@ -1,0 +1,14 @@
+D:\CS projects\Exercises. Recursive Algorithms and Backtracking\GeneratingVectors\bin\Debug\net6.0\GeneratingVectors.exe
+D:\CS projects\Exercises. Recursive Algorithms and Backtracking\GeneratingVectors\bin\Debug\net6.0\GeneratingVectors.deps.json
+D:\CS projects\Exercises. Recursive Algorithms and Backtracking\GeneratingVectors\bin\Debug\net6.0\GeneratingVectors.runtimeconfig.json
+D:\CS projects\Exercises. Recursive Algorithms and Backtracking\GeneratingVectors\bin\Debug\net6.0\GeneratingVectors.dll
+D:\CS projects\Exercises. Recursive Algorithms and Backtracking\GeneratingVectors\bin\Debug\net6.0\GeneratingVectors.pdb
+D:\CS projects\Exercises. Recursive Algorithms and Backtracking\GeneratingVectors\obj\Debug\net6.0\GeneratingVectors.GeneratedMSBuildEditorConfig.editorconfig
+D:\CS projects\Exercises. Recursive Algorithms and Backtracking\GeneratingVectors\obj\Debug\net6.0\GeneratingVectors.AssemblyInfoInputs.cache
+D:\CS projects\Exercises. Recursive Algorithms and Backtracking\GeneratingVectors\obj\Debug\net6.0\GeneratingVectors.AssemblyInfo.cs
+D:\CS projects\Exercises. Recursive Algorithms and Backtracking\GeneratingVectors\obj\Debug\net6.0\GeneratingVectors.csproj.CoreCompileInputs.cache
+D:\CS projects\Exercises. Recursive Algorithms and Backtracking\GeneratingVectors\obj\Debug\net6.0\GeneratingVectors.dll
+D:\CS projects\Exercises. Recursive Algorithms and Backtracking\GeneratingVectors\obj\Debug\net6.0\refint\GeneratingVectors.dll
+D:\CS projects\Exercises. Recursive Algorithms and Backtracking\GeneratingVectors\obj\Debug\net6.0\GeneratingVectors.pdb
+D:\CS projects\Exercises. Recursive Algorithms and Backtracking\GeneratingVectors\obj\Debug\net6.0\GeneratingVectors.genruntimeconfig.cache
+D:\CS projects\Exercises. Recursive Algorithms and Backtracking\GeneratingVectors\obj\Debug\net6.0\ref\GeneratingVectors.dll

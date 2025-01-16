@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "zYG8XessJzD3KTd275rol65u5sCwUm+jgQ5a6+PYTJhG47M0a7Dl71Xu62wtfzIXR5tCuaCOO11k8XWpxKOTnw==",
+  "success": true,
+  "projectFilePath": "D:\\CS projects\\Lab. Intro to Data Structures\\PhoneBook\\PhoneBook.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\hrist\\.nuget\\packages\\softuni.wintellect.powercollections\\2.0.0\\softuni.wintellect.powercollections.2.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

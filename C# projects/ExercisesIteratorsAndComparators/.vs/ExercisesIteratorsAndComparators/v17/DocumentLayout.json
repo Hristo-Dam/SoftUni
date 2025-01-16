@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\C# projects\\ExercisesIteratorsAndComparators\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{26805847-BCED-40D2-88F1-904FBBE587C7}|ExercisesIteratorsAndComparators\\ExercisesIteratorsAndComparators.csproj|d:\\c# projects\\exercisesiteratorsandcomparators\\exercisesiteratorsandcomparators\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{26805847-BCED-40D2-88F1-904FBBE587C7}|ExercisesIteratorsAndComparators\\ExercisesIteratorsAndComparators.csproj|solutionrelative:exercisesiteratorsandcomparators\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "StartUp.cs",
+              "DocumentMoniker": "D:\\C# projects\\ExercisesIteratorsAndComparators\\ExercisesIteratorsAndComparators\\StartUp.cs",
+              "RelativeDocumentMoniker": "ExercisesIteratorsAndComparators\\StartUp.cs",
+              "ToolTip": "D:\\C# projects\\ExercisesIteratorsAndComparators\\ExercisesIteratorsAndComparators\\StartUp.cs",
+              "RelativeToolTip": "ExercisesIteratorsAndComparators\\StartUp.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-21T08:15:01.098Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

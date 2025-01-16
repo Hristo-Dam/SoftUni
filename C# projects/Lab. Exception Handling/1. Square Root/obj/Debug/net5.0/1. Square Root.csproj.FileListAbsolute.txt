@@ -1,0 +1,16 @@
+C:\Users\hrist\source\repos\Lab. Exception Handling\1. Square Root\bin\Debug\net5.0\1. Square Root.exe
+C:\Users\hrist\source\repos\Lab. Exception Handling\1. Square Root\bin\Debug\net5.0\1. Square Root.deps.json
+C:\Users\hrist\source\repos\Lab. Exception Handling\1. Square Root\bin\Debug\net5.0\1. Square Root.runtimeconfig.json
+C:\Users\hrist\source\repos\Lab. Exception Handling\1. Square Root\bin\Debug\net5.0\1. Square Root.runtimeconfig.dev.json
+C:\Users\hrist\source\repos\Lab. Exception Handling\1. Square Root\bin\Debug\net5.0\1. Square Root.dll
+C:\Users\hrist\source\repos\Lab. Exception Handling\1. Square Root\bin\Debug\net5.0\ref\1. Square Root.dll
+C:\Users\hrist\source\repos\Lab. Exception Handling\1. Square Root\bin\Debug\net5.0\1. Square Root.pdb
+C:\Users\hrist\source\repos\Lab. Exception Handling\1. Square Root\obj\Debug\net5.0\1. Square Root.csproj.AssemblyReference.cache
+C:\Users\hrist\source\repos\Lab. Exception Handling\1. Square Root\obj\Debug\net5.0\1. Square Root.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hrist\source\repos\Lab. Exception Handling\1. Square Root\obj\Debug\net5.0\1. Square Root.AssemblyInfoInputs.cache
+C:\Users\hrist\source\repos\Lab. Exception Handling\1. Square Root\obj\Debug\net5.0\1. Square Root.AssemblyInfo.cs
+C:\Users\hrist\source\repos\Lab. Exception Handling\1. Square Root\obj\Debug\net5.0\1. Square Root.csproj.CoreCompileInputs.cache
+C:\Users\hrist\source\repos\Lab. Exception Handling\1. Square Root\obj\Debug\net5.0\1. Square Root.dll
+C:\Users\hrist\source\repos\Lab. Exception Handling\1. Square Root\obj\Debug\net5.0\ref\1. Square Root.dll
+C:\Users\hrist\source\repos\Lab. Exception Handling\1. Square Root\obj\Debug\net5.0\1. Square Root.pdb
+C:\Users\hrist\source\repos\Lab. Exception Handling\1. Square Root\obj\Debug\net5.0\1. Square Root.genruntimeconfig.cache

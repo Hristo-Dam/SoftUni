@@ -1,0 +1,16 @@
+C:\Users\hrist\source\repos\Lab. Sets and Dictionaries\10. SoftUni Party\bin\Debug\net5.0\10. SoftUni Party.exe
+C:\Users\hrist\source\repos\Lab. Sets and Dictionaries\10. SoftUni Party\bin\Debug\net5.0\10. SoftUni Party.deps.json
+C:\Users\hrist\source\repos\Lab. Sets and Dictionaries\10. SoftUni Party\bin\Debug\net5.0\10. SoftUni Party.runtimeconfig.json
+C:\Users\hrist\source\repos\Lab. Sets and Dictionaries\10. SoftUni Party\bin\Debug\net5.0\10. SoftUni Party.runtimeconfig.dev.json
+C:\Users\hrist\source\repos\Lab. Sets and Dictionaries\10. SoftUni Party\bin\Debug\net5.0\10. SoftUni Party.dll
+C:\Users\hrist\source\repos\Lab. Sets and Dictionaries\10. SoftUni Party\bin\Debug\net5.0\ref\10. SoftUni Party.dll
+C:\Users\hrist\source\repos\Lab. Sets and Dictionaries\10. SoftUni Party\bin\Debug\net5.0\10. SoftUni Party.pdb
+C:\Users\hrist\source\repos\Lab. Sets and Dictionaries\10. SoftUni Party\obj\Debug\net5.0\10. SoftUni Party.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hrist\source\repos\Lab. Sets and Dictionaries\10. SoftUni Party\obj\Debug\net5.0\10. SoftUni Party.AssemblyInfoInputs.cache
+C:\Users\hrist\source\repos\Lab. Sets and Dictionaries\10. SoftUni Party\obj\Debug\net5.0\10. SoftUni Party.AssemblyInfo.cs
+C:\Users\hrist\source\repos\Lab. Sets and Dictionaries\10. SoftUni Party\obj\Debug\net5.0\10. SoftUni Party.csproj.CoreCompileInputs.cache
+C:\Users\hrist\source\repos\Lab. Sets and Dictionaries\10. SoftUni Party\obj\Debug\net5.0\10. SoftUni Party.dll
+C:\Users\hrist\source\repos\Lab. Sets and Dictionaries\10. SoftUni Party\obj\Debug\net5.0\ref\10. SoftUni Party.dll
+C:\Users\hrist\source\repos\Lab. Sets and Dictionaries\10. SoftUni Party\obj\Debug\net5.0\10. SoftUni Party.pdb
+C:\Users\hrist\source\repos\Lab. Sets and Dictionaries\10. SoftUni Party\obj\Debug\net5.0\10. SoftUni Party.genruntimeconfig.cache
+C:\Users\hrist\source\repos\Lab. Sets and Dictionaries\10. SoftUni Party\obj\Debug\net5.0\10. SoftUni Party.csproj.AssemblyReference.cache

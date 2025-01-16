@@ -1,0 +1,105 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\CS projects\\DemoASPNProject\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{FBBA4B56-4E83-43FC-9CFC-FA8C6D3373A1}|DemoASPNProject\\DemoASPNProject.csproj|d:\\cs projects\\demoaspnproject\\demoaspnproject\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FBBA4B56-4E83-43FC-9CFC-FA8C6D3373A1}|DemoASPNProject\\DemoASPNProject.csproj|solutionrelative:demoaspnproject\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FBBA4B56-4E83-43FC-9CFC-FA8C6D3373A1}|DemoASPNProject\\DemoASPNProject.csproj|d:\\cs projects\\demoaspnproject\\demoaspnproject\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FBBA4B56-4E83-43FC-9CFC-FA8C6D3373A1}|DemoASPNProject\\DemoASPNProject.csproj|solutionrelative:demoaspnproject\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FBBA4B56-4E83-43FC-9CFC-FA8C6D3373A1}|DemoASPNProject\\DemoASPNProject.csproj|d:\\cs projects\\demoaspnproject\\demoaspnproject\\views\\calculator\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FBBA4B56-4E83-43FC-9CFC-FA8C6D3373A1}|DemoASPNProject\\DemoASPNProject.csproj|solutionrelative:demoaspnproject\\views\\calculator\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FBBA4B56-4E83-43FC-9CFC-FA8C6D3373A1}|DemoASPNProject\\DemoASPNProject.csproj|d:\\cs projects\\demoaspnproject\\demoaspnproject\\models\\calculator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FBBA4B56-4E83-43FC-9CFC-FA8C6D3373A1}|DemoASPNProject\\DemoASPNProject.csproj|solutionrelative:demoaspnproject\\models\\calculator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FBBA4B56-4E83-43FC-9CFC-FA8C6D3373A1}|DemoASPNProject\\DemoASPNProject.csproj|d:\\cs projects\\demoaspnproject\\demoaspnproject\\controllers\\calculatorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FBBA4B56-4E83-43FC-9CFC-FA8C6D3373A1}|DemoASPNProject\\DemoASPNProject.csproj|solutionrelative:demoaspnproject\\controllers\\calculatorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\CS projects\\DemoASPNProject\\DemoASPNProject\\Program.cs",
+              "RelativeDocumentMoniker": "DemoASPNProject\\Program.cs",
+              "ToolTip": "D:\\CS projects\\DemoASPNProject\\DemoASPNProject\\Program.cs",
+              "RelativeToolTip": "DemoASPNProject\\Program.cs",
+              "ViewState": "AQIAAAcAAAAAAAAAAAAQwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-04T10:15:43.151Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "D:\\CS projects\\DemoASPNProject\\DemoASPNProject\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "DemoASPNProject\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "D:\\CS projects\\DemoASPNProject\\DemoASPNProject\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "DemoASPNProject\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAB4AAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-04T10:13:39.485Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\CS projects\\DemoASPNProject\\DemoASPNProject\\Views\\Calculator\\Index.cshtml",
+              "RelativeDocumentMoniker": "DemoASPNProject\\Views\\Calculator\\Index.cshtml",
+              "ToolTip": "D:\\CS projects\\DemoASPNProject\\DemoASPNProject\\Views\\Calculator\\Index.cshtml",
+              "RelativeToolTip": "DemoASPNProject\\Views\\Calculator\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAA/AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-03T08:05:23.077Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "CalculatorController.cs",
+              "DocumentMoniker": "D:\\CS projects\\DemoASPNProject\\DemoASPNProject\\Controllers\\CalculatorController.cs",
+              "RelativeDocumentMoniker": "DemoASPNProject\\Controllers\\CalculatorController.cs",
+              "ToolTip": "D:\\CS projects\\DemoASPNProject\\DemoASPNProject\\Controllers\\CalculatorController.cs",
+              "RelativeToolTip": "DemoASPNProject\\Controllers\\CalculatorController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-03T08:00:39.674Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Calculator.cs",
+              "DocumentMoniker": "D:\\CS projects\\DemoASPNProject\\DemoASPNProject\\Models\\Calculator.cs",
+              "RelativeDocumentMoniker": "DemoASPNProject\\Models\\Calculator.cs",
+              "ToolTip": "D:\\CS projects\\DemoASPNProject\\DemoASPNProject\\Models\\Calculator.cs",
+              "RelativeToolTip": "DemoASPNProject\\Models\\Calculator.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-28T09:14:32.564Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

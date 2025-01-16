@@ -1,0 +1,16 @@
+C:\Users\hrist\source\repos\Lab exercises. Exam Preparation (Stack and Queue)\2. Simple Calculator\bin\Debug\net5.0\2. Simple Calculator.exe
+C:\Users\hrist\source\repos\Lab exercises. Exam Preparation (Stack and Queue)\2. Simple Calculator\bin\Debug\net5.0\2. Simple Calculator.deps.json
+C:\Users\hrist\source\repos\Lab exercises. Exam Preparation (Stack and Queue)\2. Simple Calculator\bin\Debug\net5.0\2. Simple Calculator.runtimeconfig.json
+C:\Users\hrist\source\repos\Lab exercises. Exam Preparation (Stack and Queue)\2. Simple Calculator\bin\Debug\net5.0\2. Simple Calculator.runtimeconfig.dev.json
+C:\Users\hrist\source\repos\Lab exercises. Exam Preparation (Stack and Queue)\2. Simple Calculator\bin\Debug\net5.0\2. Simple Calculator.dll
+C:\Users\hrist\source\repos\Lab exercises. Exam Preparation (Stack and Queue)\2. Simple Calculator\bin\Debug\net5.0\ref\2. Simple Calculator.dll
+C:\Users\hrist\source\repos\Lab exercises. Exam Preparation (Stack and Queue)\2. Simple Calculator\bin\Debug\net5.0\2. Simple Calculator.pdb
+C:\Users\hrist\source\repos\Lab exercises. Exam Preparation (Stack and Queue)\2. Simple Calculator\obj\Debug\net5.0\2. Simple Calculator.csproj.AssemblyReference.cache
+C:\Users\hrist\source\repos\Lab exercises. Exam Preparation (Stack and Queue)\2. Simple Calculator\obj\Debug\net5.0\2. Simple Calculator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hrist\source\repos\Lab exercises. Exam Preparation (Stack and Queue)\2. Simple Calculator\obj\Debug\net5.0\2. Simple Calculator.AssemblyInfoInputs.cache
+C:\Users\hrist\source\repos\Lab exercises. Exam Preparation (Stack and Queue)\2. Simple Calculator\obj\Debug\net5.0\2. Simple Calculator.AssemblyInfo.cs
+C:\Users\hrist\source\repos\Lab exercises. Exam Preparation (Stack and Queue)\2. Simple Calculator\obj\Debug\net5.0\2. Simple Calculator.csproj.CoreCompileInputs.cache
+C:\Users\hrist\source\repos\Lab exercises. Exam Preparation (Stack and Queue)\2. Simple Calculator\obj\Debug\net5.0\2. Simple Calculator.dll
+C:\Users\hrist\source\repos\Lab exercises. Exam Preparation (Stack and Queue)\2. Simple Calculator\obj\Debug\net5.0\ref\2. Simple Calculator.dll
+C:\Users\hrist\source\repos\Lab exercises. Exam Preparation (Stack and Queue)\2. Simple Calculator\obj\Debug\net5.0\2. Simple Calculator.pdb
+C:\Users\hrist\source\repos\Lab exercises. Exam Preparation (Stack and Queue)\2. Simple Calculator\obj\Debug\net5.0\2. Simple Calculator.genruntimeconfig.cache

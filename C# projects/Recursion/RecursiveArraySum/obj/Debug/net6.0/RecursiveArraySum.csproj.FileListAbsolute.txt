@@ -1,0 +1,14 @@
+D:\CS projects\Recursion\RecursiveArraySum\bin\Debug\net6.0\RecursiveArraySum.exe
+D:\CS projects\Recursion\RecursiveArraySum\bin\Debug\net6.0\RecursiveArraySum.deps.json
+D:\CS projects\Recursion\RecursiveArraySum\bin\Debug\net6.0\RecursiveArraySum.runtimeconfig.json
+D:\CS projects\Recursion\RecursiveArraySum\bin\Debug\net6.0\RecursiveArraySum.dll
+D:\CS projects\Recursion\RecursiveArraySum\bin\Debug\net6.0\RecursiveArraySum.pdb
+D:\CS projects\Recursion\RecursiveArraySum\obj\Debug\net6.0\RecursiveArraySum.GeneratedMSBuildEditorConfig.editorconfig
+D:\CS projects\Recursion\RecursiveArraySum\obj\Debug\net6.0\RecursiveArraySum.AssemblyInfoInputs.cache
+D:\CS projects\Recursion\RecursiveArraySum\obj\Debug\net6.0\RecursiveArraySum.AssemblyInfo.cs
+D:\CS projects\Recursion\RecursiveArraySum\obj\Debug\net6.0\RecursiveArraySum.csproj.CoreCompileInputs.cache
+D:\CS projects\Recursion\RecursiveArraySum\obj\Debug\net6.0\RecursiveArraySum.dll
+D:\CS projects\Recursion\RecursiveArraySum\obj\Debug\net6.0\refint\RecursiveArraySum.dll
+D:\CS projects\Recursion\RecursiveArraySum\obj\Debug\net6.0\RecursiveArraySum.pdb
+D:\CS projects\Recursion\RecursiveArraySum\obj\Debug\net6.0\RecursiveArraySum.genruntimeconfig.cache
+D:\CS projects\Recursion\RecursiveArraySum\obj\Debug\net6.0\ref\RecursiveArraySum.dll

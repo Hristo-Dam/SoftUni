@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "Zgw2hlVIq7E=",
+  "success": true,
+  "projectFilePath": "D:\\C# projects\\Lab. Trees Representation and Traversal (BFS, DFS)\\BuildTree\\BuildTree.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\hrist\\.nuget\\packages\\simpletreenode\\1.0.0\\simpletreenode.1.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,14 @@
+D:\CS projects\Lab. Intro to Data Structures\LinkedStrings\bin\Debug\net6.0\LinkedStrings.exe
+D:\CS projects\Lab. Intro to Data Structures\LinkedStrings\bin\Debug\net6.0\LinkedStrings.deps.json
+D:\CS projects\Lab. Intro to Data Structures\LinkedStrings\bin\Debug\net6.0\LinkedStrings.runtimeconfig.json
+D:\CS projects\Lab. Intro to Data Structures\LinkedStrings\bin\Debug\net6.0\LinkedStrings.dll
+D:\CS projects\Lab. Intro to Data Structures\LinkedStrings\bin\Debug\net6.0\LinkedStrings.pdb
+D:\CS projects\Lab. Intro to Data Structures\LinkedStrings\obj\Debug\net6.0\LinkedStrings.GeneratedMSBuildEditorConfig.editorconfig
+D:\CS projects\Lab. Intro to Data Structures\LinkedStrings\obj\Debug\net6.0\LinkedStrings.AssemblyInfoInputs.cache
+D:\CS projects\Lab. Intro to Data Structures\LinkedStrings\obj\Debug\net6.0\LinkedStrings.AssemblyInfo.cs
+D:\CS projects\Lab. Intro to Data Structures\LinkedStrings\obj\Debug\net6.0\LinkedStrings.csproj.CoreCompileInputs.cache
+D:\CS projects\Lab. Intro to Data Structures\LinkedStrings\obj\Debug\net6.0\LinkedStrings.dll
+D:\CS projects\Lab. Intro to Data Structures\LinkedStrings\obj\Debug\net6.0\refint\LinkedStrings.dll
+D:\CS projects\Lab. Intro to Data Structures\LinkedStrings\obj\Debug\net6.0\LinkedStrings.pdb
+D:\CS projects\Lab. Intro to Data Structures\LinkedStrings\obj\Debug\net6.0\LinkedStrings.genruntimeconfig.cache
+D:\CS projects\Lab. Intro to Data Structures\LinkedStrings\obj\Debug\net6.0\ref\LinkedStrings.dll

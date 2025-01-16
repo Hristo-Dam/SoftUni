@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.32112.339
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "2. Restaurant", "2. Restaurant\2. Restaurant.csproj", "{F7DB0D58-E596-4DC2-AD98-E67843C7F76E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "3. Traffic Jam", "3. Traffic Jam\3. Traffic Jam.csproj", "{DBEE765D-2375-4854-9BF7-711941851459}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F7DB0D58-E596-4DC2-AD98-E67843C7F76E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F7DB0D58-E596-4DC2-AD98-E67843C7F76E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F7DB0D58-E596-4DC2-AD98-E67843C7F76E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F7DB0D58-E596-4DC2-AD98-E67843C7F76E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DBEE765D-2375-4854-9BF7-711941851459}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DBEE765D-2375-4854-9BF7-711941851459}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DBEE765D-2375-4854-9BF7-711941851459}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DBEE765D-2375-4854-9BF7-711941851459}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9F69EDEE-49EA-4FEB-8B75-841504E160C7}
+	EndGlobalSection
+EndGlobal

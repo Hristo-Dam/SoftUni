@@ -1,0 +1,16 @@
+D:\C# projects\06.Trees-BFS-DFS-Exercises-Skeleton\Nearest-Exit\bin\Debug\netcoreapp3.1\Nearest-Exit.exe
+D:\C# projects\06.Trees-BFS-DFS-Exercises-Skeleton\Nearest-Exit\bin\Debug\netcoreapp3.1\Nearest-Exit.deps.json
+D:\C# projects\06.Trees-BFS-DFS-Exercises-Skeleton\Nearest-Exit\bin\Debug\netcoreapp3.1\Nearest-Exit.runtimeconfig.json
+D:\C# projects\06.Trees-BFS-DFS-Exercises-Skeleton\Nearest-Exit\bin\Debug\netcoreapp3.1\Nearest-Exit.runtimeconfig.dev.json
+D:\C# projects\06.Trees-BFS-DFS-Exercises-Skeleton\Nearest-Exit\bin\Debug\netcoreapp3.1\Nearest-Exit.dll
+D:\C# projects\06.Trees-BFS-DFS-Exercises-Skeleton\Nearest-Exit\bin\Debug\netcoreapp3.1\Nearest-Exit.pdb
+D:\C# projects\06.Trees-BFS-DFS-Exercises-Skeleton\Nearest-Exit\bin\Debug\netcoreapp3.1\SimpleTreeNode.dll
+D:\C# projects\06.Trees-BFS-DFS-Exercises-Skeleton\Nearest-Exit\obj\Debug\netcoreapp3.1\Nearest-Exit.csproj.AssemblyReference.cache
+D:\C# projects\06.Trees-BFS-DFS-Exercises-Skeleton\Nearest-Exit\obj\Debug\netcoreapp3.1\Nearest-Exit.GeneratedMSBuildEditorConfig.editorconfig
+D:\C# projects\06.Trees-BFS-DFS-Exercises-Skeleton\Nearest-Exit\obj\Debug\netcoreapp3.1\Nearest-Exit.AssemblyInfoInputs.cache
+D:\C# projects\06.Trees-BFS-DFS-Exercises-Skeleton\Nearest-Exit\obj\Debug\netcoreapp3.1\Nearest-Exit.AssemblyInfo.cs
+D:\C# projects\06.Trees-BFS-DFS-Exercises-Skeleton\Nearest-Exit\obj\Debug\netcoreapp3.1\Nearest-Exit.csproj.CoreCompileInputs.cache
+D:\C# projects\06.Trees-BFS-DFS-Exercises-Skeleton\Nearest-Exit\obj\Debug\netcoreapp3.1\Nearest-.1C800BF8.Up2Date
+D:\C# projects\06.Trees-BFS-DFS-Exercises-Skeleton\Nearest-Exit\obj\Debug\netcoreapp3.1\Nearest-Exit.dll
+D:\C# projects\06.Trees-BFS-DFS-Exercises-Skeleton\Nearest-Exit\obj\Debug\netcoreapp3.1\Nearest-Exit.pdb
+D:\C# projects\06.Trees-BFS-DFS-Exercises-Skeleton\Nearest-Exit\obj\Debug\netcoreapp3.1\Nearest-Exit.genruntimeconfig.cache

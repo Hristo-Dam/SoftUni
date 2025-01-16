@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\CS projects\\Recursion\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D2015D6A-E6A2-4909-9C91-75287E187A81}|RecursiveDrawing\\RecursiveDrawing.csproj|d:\\cs projects\\recursion\\recursivedrawing\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D2015D6A-E6A2-4909-9C91-75287E187A81}|RecursiveDrawing\\RecursiveDrawing.csproj|solutionrelative:recursivedrawing\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "StartUp.cs",
+              "DocumentMoniker": "D:\\CS projects\\Recursion\\RecursiveDrawing\\StartUp.cs",
+              "RelativeDocumentMoniker": "RecursiveDrawing\\StartUp.cs",
+              "ToolTip": "D:\\CS projects\\Recursion\\RecursiveDrawing\\StartUp.cs",
+              "RelativeToolTip": "RecursiveDrawing\\StartUp.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAmwBYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-30T07:03:32.183Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+C:\Users\hrist\source\repos\External Exam 8th - 9th Grade\1. Bowling\bin\Debug\net5.0\1. Bowling.exe
+C:\Users\hrist\source\repos\External Exam 8th - 9th Grade\1. Bowling\bin\Debug\net5.0\1. Bowling.deps.json
+C:\Users\hrist\source\repos\External Exam 8th - 9th Grade\1. Bowling\bin\Debug\net5.0\1. Bowling.runtimeconfig.json
+C:\Users\hrist\source\repos\External Exam 8th - 9th Grade\1. Bowling\bin\Debug\net5.0\1. Bowling.runtimeconfig.dev.json
+C:\Users\hrist\source\repos\External Exam 8th - 9th Grade\1. Bowling\bin\Debug\net5.0\1. Bowling.dll
+C:\Users\hrist\source\repos\External Exam 8th - 9th Grade\1. Bowling\bin\Debug\net5.0\ref\1. Bowling.dll
+C:\Users\hrist\source\repos\External Exam 8th - 9th Grade\1. Bowling\bin\Debug\net5.0\1. Bowling.pdb
+C:\Users\hrist\source\repos\External Exam 8th - 9th Grade\1. Bowling\obj\Debug\net5.0\1. Bowling.csproj.AssemblyReference.cache
+C:\Users\hrist\source\repos\External Exam 8th - 9th Grade\1. Bowling\obj\Debug\net5.0\1. Bowling.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hrist\source\repos\External Exam 8th - 9th Grade\1. Bowling\obj\Debug\net5.0\1. Bowling.AssemblyInfoInputs.cache
+C:\Users\hrist\source\repos\External Exam 8th - 9th Grade\1. Bowling\obj\Debug\net5.0\1. Bowling.AssemblyInfo.cs
+C:\Users\hrist\source\repos\External Exam 8th - 9th Grade\1. Bowling\obj\Debug\net5.0\1. Bowling.csproj.CoreCompileInputs.cache
+C:\Users\hrist\source\repos\External Exam 8th - 9th Grade\1. Bowling\obj\Debug\net5.0\1. Bowling.dll
+C:\Users\hrist\source\repos\External Exam 8th - 9th Grade\1. Bowling\obj\Debug\net5.0\ref\1. Bowling.dll
+C:\Users\hrist\source\repos\External Exam 8th - 9th Grade\1. Bowling\obj\Debug\net5.0\1. Bowling.pdb
+C:\Users\hrist\source\repos\External Exam 8th - 9th Grade\1. Bowling\obj\Debug\net5.0\1. Bowling.genruntimeconfig.cache

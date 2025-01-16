@@ -1,0 +1,26 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "e3ed55c8-d3ad-4ced-80be-d6f4ff51ce99": {
+      "ProjectGuid": "e3ed55c8-d3ad-4ced-80be-d6f4ff51ce99",
+      "DisplayName": "1. Integer Operations",
+      "ColorIndex": 0
+    },
+    "b8a7d1b8-f3cb-4da7-94a4-b53738825525": {
+      "ProjectGuid": "b8a7d1b8-f3cb-4da7-94a4-b53738825525",
+      "DisplayName": "2. Sum Digits",
+      "ColorIndex": 1
+    },
+    "4baadb6b-9bea-4e59-b415-8e7bdb60cbcf": {
+      "ProjectGuid": "4baadb6b-9bea-4e59-b415-8e7bdb60cbcf",
+      "DisplayName": "3. Elevator",
+      "ColorIndex": 2
+    },
+    "56ea9213-43f7-4818-ac5c-dbc7f6362914": {
+      "ProjectGuid": "56ea9213-43f7-4818-ac5c-dbc7f6362914",
+      "DisplayName": "4. Sum of Chars",
+      "ColorIndex": 3
+    }
+  },
+  "NextColorIndex": 4
+}

@@ -1,0 +1,122 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Database-Programming-and-ORM\\Exercises. ORM and Entity Framework Overview\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D96DD028-66A4-4E97-BFC2-CCD84D22D9F4}|Diablo\\Diablo.csproj|d:\\database-programming-and-orm\\exercises. orm and entity framework overview\\diablo\\models\\item.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D96DD028-66A4-4E97-BFC2-CCD84D22D9F4}|Diablo\\Diablo.csproj|solutionrelative:diablo\\models\\item.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D96DD028-66A4-4E97-BFC2-CCD84D22D9F4}|Diablo\\Diablo.csproj|d:\\database-programming-and-orm\\exercises. orm and entity framework overview\\diablo\\models\\character.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D96DD028-66A4-4E97-BFC2-CCD84D22D9F4}|Diablo\\Diablo.csproj|solutionrelative:diablo\\models\\character.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D96DD028-66A4-4E97-BFC2-CCD84D22D9F4}|Diablo\\Diablo.csproj|d:\\database-programming-and-orm\\exercises. orm and entity framework overview\\diablo\\models\\gametype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D96DD028-66A4-4E97-BFC2-CCD84D22D9F4}|Diablo\\Diablo.csproj|solutionrelative:diablo\\models\\gametype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D96DD028-66A4-4E97-BFC2-CCD84D22D9F4}|Diablo\\Diablo.csproj|d:\\database-programming-and-orm\\exercises. orm and entity framework overview\\diablo\\models\\game.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D96DD028-66A4-4E97-BFC2-CCD84D22D9F4}|Diablo\\Diablo.csproj|solutionrelative:diablo\\models\\game.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D96DD028-66A4-4E97-BFC2-CCD84D22D9F4}|Diablo\\Diablo.csproj|d:\\database-programming-and-orm\\exercises. orm and entity framework overview\\diablo\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D96DD028-66A4-4E97-BFC2-CCD84D22D9F4}|Diablo\\Diablo.csproj|solutionrelative:diablo\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D96DD028-66A4-4E97-BFC2-CCD84D22D9F4}|Diablo\\Diablo.csproj|d:\\database-programming-and-orm\\exercises. orm and entity framework overview\\diablo\\models\\usersgame.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D96DD028-66A4-4E97-BFC2-CCD84D22D9F4}|Diablo\\Diablo.csproj|solutionrelative:diablo\\models\\usersgame.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Item.cs",
+              "DocumentMoniker": "D:\\Database-Programming-and-ORM\\Exercises. ORM and Entity Framework Overview\\Diablo\\Models\\Item.cs",
+              "RelativeDocumentMoniker": "Diablo\\Models\\Item.cs",
+              "ToolTip": "D:\\Database-Programming-and-ORM\\Exercises. ORM and Entity Framework Overview\\Diablo\\Models\\Item.cs",
+              "RelativeToolTip": "Diablo\\Models\\Item.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-13T08:37:43.86Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "GameType.cs",
+              "DocumentMoniker": "D:\\Database-Programming-and-ORM\\Exercises. ORM and Entity Framework Overview\\Diablo\\Models\\GameType.cs",
+              "RelativeDocumentMoniker": "Diablo\\Models\\GameType.cs",
+              "ToolTip": "D:\\Database-Programming-and-ORM\\Exercises. ORM and Entity Framework Overview\\Diablo\\Models\\GameType.cs",
+              "RelativeToolTip": "Diablo\\Models\\GameType.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-13T08:37:40.428Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Character.cs",
+              "DocumentMoniker": "D:\\Database-Programming-and-ORM\\Exercises. ORM and Entity Framework Overview\\Diablo\\Models\\Character.cs",
+              "RelativeDocumentMoniker": "Diablo\\Models\\Character.cs",
+              "ToolTip": "D:\\Database-Programming-and-ORM\\Exercises. ORM and Entity Framework Overview\\Diablo\\Models\\Character.cs",
+              "RelativeToolTip": "Diablo\\Models\\Character.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-07T12:53:13.838Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Game.cs",
+              "DocumentMoniker": "D:\\Database-Programming-and-ORM\\Exercises. ORM and Entity Framework Overview\\Diablo\\Models\\Game.cs",
+              "RelativeDocumentMoniker": "Diablo\\Models\\Game.cs",
+              "ToolTip": "D:\\Database-Programming-and-ORM\\Exercises. ORM and Entity Framework Overview\\Diablo\\Models\\Game.cs",
+              "RelativeToolTip": "Diablo\\Models\\Game.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-06T08:33:06.906Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "UsersGame.cs",
+              "DocumentMoniker": "D:\\Database-Programming-and-ORM\\Exercises. ORM and Entity Framework Overview\\Diablo\\Models\\UsersGame.cs",
+              "RelativeDocumentMoniker": "Diablo\\Models\\UsersGame.cs",
+              "ToolTip": "D:\\Database-Programming-and-ORM\\Exercises. ORM and Entity Framework Overview\\Diablo\\Models\\UsersGame.cs",
+              "RelativeToolTip": "Diablo\\Models\\UsersGame.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAAwBcAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-06T08:32:59.049Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "StartUp.cs",
+              "DocumentMoniker": "D:\\Database-Programming-and-ORM\\Exercises. ORM and Entity Framework Overview\\Diablo\\StartUp.cs",
+              "RelativeDocumentMoniker": "Diablo\\StartUp.cs",
+              "ToolTip": "D:\\Database-Programming-and-ORM\\Exercises. ORM and Entity Framework Overview\\Diablo\\StartUp.cs",
+              "RelativeToolTip": "Diablo\\StartUp.cs",
+              "ViewState": "AgIAALoAAAAAAAAAAAAgwNIAAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-30T11:47:28.084Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

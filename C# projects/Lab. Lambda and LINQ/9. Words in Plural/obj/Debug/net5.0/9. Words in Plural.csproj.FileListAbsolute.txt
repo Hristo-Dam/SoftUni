@@ -1,0 +1,15 @@
+C:\Users\hrist\source\repos\Lab. Lambda and LINQ\9. Words in Plural\bin\Debug\net5.0\9. Words in Plural.exe
+C:\Users\hrist\source\repos\Lab. Lambda and LINQ\9. Words in Plural\bin\Debug\net5.0\9. Words in Plural.deps.json
+C:\Users\hrist\source\repos\Lab. Lambda and LINQ\9. Words in Plural\bin\Debug\net5.0\9. Words in Plural.runtimeconfig.json
+C:\Users\hrist\source\repos\Lab. Lambda and LINQ\9. Words in Plural\bin\Debug\net5.0\9. Words in Plural.runtimeconfig.dev.json
+C:\Users\hrist\source\repos\Lab. Lambda and LINQ\9. Words in Plural\bin\Debug\net5.0\9. Words in Plural.dll
+C:\Users\hrist\source\repos\Lab. Lambda and LINQ\9. Words in Plural\bin\Debug\net5.0\ref\9. Words in Plural.dll
+C:\Users\hrist\source\repos\Lab. Lambda and LINQ\9. Words in Plural\bin\Debug\net5.0\9. Words in Plural.pdb
+C:\Users\hrist\source\repos\Lab. Lambda and LINQ\9. Words in Plural\obj\Debug\net5.0\9. Words in Plural.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hrist\source\repos\Lab. Lambda and LINQ\9. Words in Plural\obj\Debug\net5.0\9. Words in Plural.AssemblyInfoInputs.cache
+C:\Users\hrist\source\repos\Lab. Lambda and LINQ\9. Words in Plural\obj\Debug\net5.0\9. Words in Plural.AssemblyInfo.cs
+C:\Users\hrist\source\repos\Lab. Lambda and LINQ\9. Words in Plural\obj\Debug\net5.0\9. Words in Plural.csproj.CoreCompileInputs.cache
+C:\Users\hrist\source\repos\Lab. Lambda and LINQ\9. Words in Plural\obj\Debug\net5.0\9. Words in Plural.dll
+C:\Users\hrist\source\repos\Lab. Lambda and LINQ\9. Words in Plural\obj\Debug\net5.0\ref\9. Words in Plural.dll
+C:\Users\hrist\source\repos\Lab. Lambda and LINQ\9. Words in Plural\obj\Debug\net5.0\9. Words in Plural.pdb
+C:\Users\hrist\source\repos\Lab. Lambda and LINQ\9. Words in Plural\obj\Debug\net5.0\9. Words in Plural.genruntimeconfig.cache

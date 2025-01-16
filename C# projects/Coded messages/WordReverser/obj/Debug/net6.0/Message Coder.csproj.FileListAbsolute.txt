@@ -1,0 +1,15 @@
+C:\Users\hrist\source\repos\Coded messages\WordReverser\bin\Debug\net6.0\Message Coder.exe
+C:\Users\hrist\source\repos\Coded messages\WordReverser\bin\Debug\net6.0\Message Coder.deps.json
+C:\Users\hrist\source\repos\Coded messages\WordReverser\bin\Debug\net6.0\Message Coder.runtimeconfig.json
+C:\Users\hrist\source\repos\Coded messages\WordReverser\bin\Debug\net6.0\Message Coder.dll
+C:\Users\hrist\source\repos\Coded messages\WordReverser\bin\Debug\net6.0\ref\Message Coder.dll
+C:\Users\hrist\source\repos\Coded messages\WordReverser\bin\Debug\net6.0\Message Coder.pdb
+C:\Users\hrist\source\repos\Coded messages\WordReverser\obj\Debug\net6.0\Message Coder.csproj.AssemblyReference.cache
+C:\Users\hrist\source\repos\Coded messages\WordReverser\obj\Debug\net6.0\Message Coder.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hrist\source\repos\Coded messages\WordReverser\obj\Debug\net6.0\Message Coder.AssemblyInfoInputs.cache
+C:\Users\hrist\source\repos\Coded messages\WordReverser\obj\Debug\net6.0\Message Coder.AssemblyInfo.cs
+C:\Users\hrist\source\repos\Coded messages\WordReverser\obj\Debug\net6.0\Message Coder.csproj.CoreCompileInputs.cache
+C:\Users\hrist\source\repos\Coded messages\WordReverser\obj\Debug\net6.0\Message Coder.dll
+C:\Users\hrist\source\repos\Coded messages\WordReverser\obj\Debug\net6.0\ref\Message Coder.dll
+C:\Users\hrist\source\repos\Coded messages\WordReverser\obj\Debug\net6.0\Message Coder.pdb
+C:\Users\hrist\source\repos\Coded messages\WordReverser\obj\Debug\net6.0\Message Coder.genruntimeconfig.cache

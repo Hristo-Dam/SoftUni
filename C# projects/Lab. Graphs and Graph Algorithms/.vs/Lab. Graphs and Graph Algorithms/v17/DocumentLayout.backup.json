@@ -1,0 +1,68 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\C# projects\\Lab. Graphs and Graph Algorithms\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D0F575F7-74A0-4B75-AA21-8DE85ACF473B}|TraverseGraphWithDFS\\TraverseGraphWithDFS.csproj|d:\\c# projects\\lab. graphs and graph algorithms\\traversegraphwithdfs\\graph.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D0F575F7-74A0-4B75-AA21-8DE85ACF473B}|TraverseGraphWithDFS\\TraverseGraphWithDFS.csproj|solutionrelative:traversegraphwithdfs\\graph.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{98BFCCF9-4D49-40A9-849B-CD4CF6E9774F}|TraverseGraphWithBFS\\TraverseGraphWithBFS.csproj|d:\\c# projects\\lab. graphs and graph algorithms\\traversegraphwithbfs\\graph.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{98BFCCF9-4D49-40A9-849B-CD4CF6E9774F}|TraverseGraphWithBFS\\TraverseGraphWithBFS.csproj|solutionrelative:traversegraphwithbfs\\graph.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Graph.cs",
+              "DocumentMoniker": "D:\\C# projects\\Lab. Graphs and Graph Algorithms\\TraverseGraphWithBFS\\Graph.cs",
+              "RelativeDocumentMoniker": "TraverseGraphWithBFS\\Graph.cs",
+              "ToolTip": "D:\\C# projects\\Lab. Graphs and Graph Algorithms\\TraverseGraphWithBFS\\Graph.cs",
+              "RelativeToolTip": "TraverseGraphWithBFS\\Graph.cs",
+              "ViewState": "AgIAADEAAAAAAAAAAAAkwEgAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-15T20:11:47.871Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Graph.cs",
+              "DocumentMoniker": "D:\\C# projects\\Lab. Graphs and Graph Algorithms\\TraverseGraphWithDFS\\Graph.cs",
+              "RelativeDocumentMoniker": "TraverseGraphWithDFS\\Graph.cs",
+              "ToolTip": "D:\\C# projects\\Lab. Graphs and Graph Algorithms\\TraverseGraphWithDFS\\Graph.cs",
+              "RelativeToolTip": "TraverseGraphWithDFS\\Graph.cs",
+              "ViewState": "AgIAACAAAAAAAAAAAAAlwCoAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-04T08:27:25.722Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

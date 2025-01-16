@@ -1,0 +1,70 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Database-Programming-and-ORM\\Lab. Entity Framework Code First\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5F870930-E8AB-47E7-84C9-0295537322CA}|ForumDatabase\\ForumDatabase.csproj|d:\\database-programming-and-orm\\lab. entity framework code first\\forumdatabase\\data\\models\\postawnser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5F870930-E8AB-47E7-84C9-0295537322CA}|ForumDatabase\\ForumDatabase.csproj|solutionrelative:forumdatabase\\data\\models\\postawnser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F870930-E8AB-47E7-84C9-0295537322CA}|ForumDatabase\\ForumDatabase.csproj|d:\\database-programming-and-orm\\lab. entity framework code first\\forumdatabase\\data\\models\\post.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5F870930-E8AB-47E7-84C9-0295537322CA}|ForumDatabase\\ForumDatabase.csproj|solutionrelative:forumdatabase\\data\\models\\post.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F870930-E8AB-47E7-84C9-0295537322CA}|ForumDatabase\\ForumDatabase.csproj|d:\\database-programming-and-orm\\lab. entity framework code first\\forumdatabase\\data\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5F870930-E8AB-47E7-84C9-0295537322CA}|ForumDatabase\\ForumDatabase.csproj|solutionrelative:forumdatabase\\data\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "User.cs",
+              "DocumentMoniker": "D:\\Database-Programming-and-ORM\\Lab. Entity Framework Code First\\ForumDatabase\\Data\\Models\\User.cs",
+              "RelativeDocumentMoniker": "ForumDatabase\\Data\\Models\\User.cs",
+              "ToolTip": "D:\\Database-Programming-and-ORM\\Lab. Entity Framework Code First\\ForumDatabase\\Data\\Models\\User.cs",
+              "RelativeToolTip": "ForumDatabase\\Data\\Models\\User.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-28T09:22:32.531Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Post.cs",
+              "DocumentMoniker": "D:\\Database-Programming-and-ORM\\Lab. Entity Framework Code First\\ForumDatabase\\Data\\Models\\Post.cs",
+              "RelativeDocumentMoniker": "ForumDatabase\\Data\\Models\\Post.cs",
+              "ToolTip": "D:\\Database-Programming-and-ORM\\Lab. Entity Framework Code First\\ForumDatabase\\Data\\Models\\Post.cs",
+              "RelativeToolTip": "ForumDatabase\\Data\\Models\\Post.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAAABUAAABaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-28T09:26:59.007Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "PostAwnser.cs",
+              "DocumentMoniker": "D:\\Database-Programming-and-ORM\\Lab. Entity Framework Code First\\ForumDatabase\\Data\\Models\\PostAwnser.cs",
+              "RelativeDocumentMoniker": "ForumDatabase\\Data\\Models\\PostAwnser.cs",
+              "ToolTip": "D:\\Database-Programming-and-ORM\\Lab. Entity Framework Code First\\ForumDatabase\\Data\\Models\\PostAwnser.cs",
+              "RelativeToolTip": "ForumDatabase\\Data\\Models\\PostAwnser.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAAABMAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-28T09:29:33.395Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

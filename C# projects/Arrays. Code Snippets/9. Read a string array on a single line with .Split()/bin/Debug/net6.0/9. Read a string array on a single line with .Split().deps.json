@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "9. Read a string array on a single line with .Split()/1.0.0": {
+        "runtime": {
+          "9. Read a string array on a single line with .Split().dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "9. Read a string array on a single line with .Split()/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

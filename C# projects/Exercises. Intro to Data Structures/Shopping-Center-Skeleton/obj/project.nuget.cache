@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "B7uGnVpOf8QtLctQvo3bMh9DwkWNckcX593NnPN50CjrLfFeRYJ3eftm6uOohdBLxmrHhyH/y5XXr8M/7mWYKg==",
+  "success": true,
+  "projectFilePath": "D:\\C# projects\\Exercises. Intro to Data Structures\\Shopping-Center-Skeleton\\Shopping-Center.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\hrist\\.nuget\\packages\\softuni.wintellect.powercollections\\2.0.0\\softuni.wintellect.powercollections.2.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

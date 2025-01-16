@@ -1,0 +1,16 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "3f5a2760-6fbb-4c26-93f8-6e58f55981de": {
+      "ProjectGuid": "3f5a2760-6fbb-4c26-93f8-6e58f55981de",
+      "DisplayName": "1. Grades",
+      "ColorIndex": 0
+    },
+    "d02d16f6-ece6-46af-ba70-83f34a0c8022": {
+      "ProjectGuid": "d02d16f6-ece6-46af-ba70-83f34a0c8022",
+      "DisplayName": "2. Sign of Integer Numbers",
+      "ColorIndex": 1
+    }
+  },
+  "NextColorIndex": 2
+}

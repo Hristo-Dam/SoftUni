@@ -1,0 +1,31 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "41a3481f-ac5b-4588-8b57-81c3524e9fa7": {
+      "ProjectGuid": "41a3481f-ac5b-4588-8b57-81c3524e9fa7",
+      "DisplayName": "7. Read a string array on multiple lines with for-loop",
+      "ColorIndex": 0
+    },
+    "5da5e96f-2fdc-4a53-9f18-c4ede85cbf2e": {
+      "ProjectGuid": "5da5e96f-2fdc-4a53-9f18-c4ede85cbf2e",
+      "DisplayName": "1. Define an empty string array with N elements",
+      "ColorIndex": 1
+    },
+    "b0c185cf-692f-4838-b71d-3460397dad72": {
+      "ProjectGuid": "b0c185cf-692f-4838-b71d-3460397dad72",
+      "DisplayName": "8. Read an integer array on multiple lines with for-loop",
+      "ColorIndex": 2
+    },
+    "3447545a-d537-4973-ae5f-a98d6b9c642d": {
+      "ProjectGuid": "3447545a-d537-4973-ae5f-a98d6b9c642d",
+      "DisplayName": "9. Read a string array on a single line with .Split()",
+      "ColorIndex": 3
+    },
+    "51dc421d-cd28-4dc6-a761-02f09f2cd570": {
+      "ProjectGuid": "51dc421d-cd28-4dc6-a761-02f09f2cd570",
+      "DisplayName": "10. Read an integer array on a single line",
+      "ColorIndex": 4
+    }
+  },
+  "NextColorIndex": 5
+}

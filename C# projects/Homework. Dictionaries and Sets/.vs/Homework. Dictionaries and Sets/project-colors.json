@@ -1,0 +1,21 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "c1d72d46-26c3-46d9-aaac-ffe1996f27f0": {
+      "ProjectGuid": "c1d72d46-26c3-46d9-aaac-ffe1996f27f0",
+      "DisplayName": "2. Dictionary to array",
+      "ColorIndex": 0
+    },
+    "b8b7d0c7-b35e-44d3-9022-2e3231c0a164": {
+      "ProjectGuid": "b8b7d0c7-b35e-44d3-9022-2e3231c0a164",
+      "DisplayName": "1. Average score",
+      "ColorIndex": 1
+    },
+    "20b2360d-d68a-407d-91c6-43aac2bd7522": {
+      "ProjectGuid": "20b2360d-d68a-407d-91c6-43aac2bd7522",
+      "DisplayName": "3. Swap keys with values",
+      "ColorIndex": 2
+    }
+  },
+  "NextColorIndex": 3
+}

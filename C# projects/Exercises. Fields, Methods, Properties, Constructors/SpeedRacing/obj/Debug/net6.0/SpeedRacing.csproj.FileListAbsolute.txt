@@ -1,0 +1,14 @@
+D:\CS projects\Exercises. Fields, Methods, Properties, Constructors\SpeedRacing\bin\Debug\net6.0\SpeedRacing.exe
+D:\CS projects\Exercises. Fields, Methods, Properties, Constructors\SpeedRacing\bin\Debug\net6.0\SpeedRacing.deps.json
+D:\CS projects\Exercises. Fields, Methods, Properties, Constructors\SpeedRacing\bin\Debug\net6.0\SpeedRacing.runtimeconfig.json
+D:\CS projects\Exercises. Fields, Methods, Properties, Constructors\SpeedRacing\bin\Debug\net6.0\SpeedRacing.dll
+D:\CS projects\Exercises. Fields, Methods, Properties, Constructors\SpeedRacing\bin\Debug\net6.0\SpeedRacing.pdb
+D:\CS projects\Exercises. Fields, Methods, Properties, Constructors\SpeedRacing\obj\Debug\net6.0\SpeedRacing.GeneratedMSBuildEditorConfig.editorconfig
+D:\CS projects\Exercises. Fields, Methods, Properties, Constructors\SpeedRacing\obj\Debug\net6.0\SpeedRacing.AssemblyInfoInputs.cache
+D:\CS projects\Exercises. Fields, Methods, Properties, Constructors\SpeedRacing\obj\Debug\net6.0\SpeedRacing.AssemblyInfo.cs
+D:\CS projects\Exercises. Fields, Methods, Properties, Constructors\SpeedRacing\obj\Debug\net6.0\SpeedRacing.csproj.CoreCompileInputs.cache
+D:\CS projects\Exercises. Fields, Methods, Properties, Constructors\SpeedRacing\obj\Debug\net6.0\SpeedRacing.dll
+D:\CS projects\Exercises. Fields, Methods, Properties, Constructors\SpeedRacing\obj\Debug\net6.0\refint\SpeedRacing.dll
+D:\CS projects\Exercises. Fields, Methods, Properties, Constructors\SpeedRacing\obj\Debug\net6.0\SpeedRacing.pdb
+D:\CS projects\Exercises. Fields, Methods, Properties, Constructors\SpeedRacing\obj\Debug\net6.0\SpeedRacing.genruntimeconfig.cache
+D:\CS projects\Exercises. Fields, Methods, Properties, Constructors\SpeedRacing\obj\Debug\net6.0\ref\SpeedRacing.dll

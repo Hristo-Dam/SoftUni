@@ -1,0 +1,15 @@
+C:\Users\hrist\source\repos\Lab Arrays\2. Print Numbers in Reverse Order\bin\Debug\net6.0\2. Print Numbers in Reverse Order.exe
+C:\Users\hrist\source\repos\Lab Arrays\2. Print Numbers in Reverse Order\bin\Debug\net6.0\2. Print Numbers in Reverse Order.deps.json
+C:\Users\hrist\source\repos\Lab Arrays\2. Print Numbers in Reverse Order\bin\Debug\net6.0\2. Print Numbers in Reverse Order.runtimeconfig.json
+C:\Users\hrist\source\repos\Lab Arrays\2. Print Numbers in Reverse Order\bin\Debug\net6.0\2. Print Numbers in Reverse Order.dll
+C:\Users\hrist\source\repos\Lab Arrays\2. Print Numbers in Reverse Order\bin\Debug\net6.0\ref\2. Print Numbers in Reverse Order.dll
+C:\Users\hrist\source\repos\Lab Arrays\2. Print Numbers in Reverse Order\bin\Debug\net6.0\2. Print Numbers in Reverse Order.pdb
+C:\Users\hrist\source\repos\Lab Arrays\2. Print Numbers in Reverse Order\obj\Debug\net6.0\2. Print Numbers in Reverse Order.csproj.AssemblyReference.cache
+C:\Users\hrist\source\repos\Lab Arrays\2. Print Numbers in Reverse Order\obj\Debug\net6.0\2. Print Numbers in Reverse Order.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hrist\source\repos\Lab Arrays\2. Print Numbers in Reverse Order\obj\Debug\net6.0\2. Print Numbers in Reverse Order.AssemblyInfoInputs.cache
+C:\Users\hrist\source\repos\Lab Arrays\2. Print Numbers in Reverse Order\obj\Debug\net6.0\2. Print Numbers in Reverse Order.AssemblyInfo.cs
+C:\Users\hrist\source\repos\Lab Arrays\2. Print Numbers in Reverse Order\obj\Debug\net6.0\2. Print Numbers in Reverse Order.csproj.CoreCompileInputs.cache
+C:\Users\hrist\source\repos\Lab Arrays\2. Print Numbers in Reverse Order\obj\Debug\net6.0\2. Print Numbers in Reverse Order.dll
+C:\Users\hrist\source\repos\Lab Arrays\2. Print Numbers in Reverse Order\obj\Debug\net6.0\ref\2. Print Numbers in Reverse Order.dll
+C:\Users\hrist\source\repos\Lab Arrays\2. Print Numbers in Reverse Order\obj\Debug\net6.0\2. Print Numbers in Reverse Order.pdb
+C:\Users\hrist\source\repos\Lab Arrays\2. Print Numbers in Reverse Order\obj\Debug\net6.0\2. Print Numbers in Reverse Order.genruntimeconfig.cache

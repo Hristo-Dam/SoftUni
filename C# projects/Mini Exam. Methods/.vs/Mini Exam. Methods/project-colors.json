@@ -1,0 +1,21 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "d8231e4d-b1e6-458a-b5c0-0c144f8ed045": {
+      "ProjectGuid": "d8231e4d-b1e6-458a-b5c0-0c144f8ed045",
+      "DisplayName": "1. Cafeteria",
+      "ColorIndex": 0
+    },
+    "345aa69b-acb5-4b42-9fb4-9135170a35b6": {
+      "ProjectGuid": "345aa69b-acb5-4b42-9fb4-9135170a35b6",
+      "DisplayName": "2. Simple Calculator",
+      "ColorIndex": 1
+    },
+    "6c0ab6a2-aea5-4521-8483-439ea6d5b152": {
+      "ProjectGuid": "6c0ab6a2-aea5-4521-8483-439ea6d5b152",
+      "DisplayName": "3. Matrix of Integers",
+      "ColorIndex": 2
+    }
+  },
+  "NextColorIndex": 3
+}

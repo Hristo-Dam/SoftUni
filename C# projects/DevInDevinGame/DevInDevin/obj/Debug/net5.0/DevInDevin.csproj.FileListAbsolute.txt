@@ -1,0 +1,16 @@
+C:\Users\hrist\Source\Repos\DevInDevinGame\DevInDevin\bin\Debug\net5.0\DevInDevin.exe
+C:\Users\hrist\Source\Repos\DevInDevinGame\DevInDevin\bin\Debug\net5.0\DevInDevin.deps.json
+C:\Users\hrist\Source\Repos\DevInDevinGame\DevInDevin\bin\Debug\net5.0\DevInDevin.runtimeconfig.json
+C:\Users\hrist\Source\Repos\DevInDevinGame\DevInDevin\bin\Debug\net5.0\DevInDevin.runtimeconfig.dev.json
+C:\Users\hrist\Source\Repos\DevInDevinGame\DevInDevin\bin\Debug\net5.0\DevInDevin.dll
+C:\Users\hrist\Source\Repos\DevInDevinGame\DevInDevin\bin\Debug\net5.0\ref\DevInDevin.dll
+C:\Users\hrist\Source\Repos\DevInDevinGame\DevInDevin\bin\Debug\net5.0\DevInDevin.pdb
+C:\Users\hrist\Source\Repos\DevInDevinGame\DevInDevin\obj\Debug\net5.0\DevInDevin.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hrist\Source\Repos\DevInDevinGame\DevInDevin\obj\Debug\net5.0\DevInDevin.AssemblyInfoInputs.cache
+C:\Users\hrist\Source\Repos\DevInDevinGame\DevInDevin\obj\Debug\net5.0\DevInDevin.AssemblyInfo.cs
+C:\Users\hrist\Source\Repos\DevInDevinGame\DevInDevin\obj\Debug\net5.0\DevInDevin.csproj.CoreCompileInputs.cache
+C:\Users\hrist\Source\Repos\DevInDevinGame\DevInDevin\obj\Debug\net5.0\DevInDevin.dll
+C:\Users\hrist\Source\Repos\DevInDevinGame\DevInDevin\obj\Debug\net5.0\ref\DevInDevin.dll
+C:\Users\hrist\Source\Repos\DevInDevinGame\DevInDevin\obj\Debug\net5.0\DevInDevin.pdb
+C:\Users\hrist\Source\Repos\DevInDevinGame\DevInDevin\obj\Debug\net5.0\DevInDevin.genruntimeconfig.cache
+C:\Users\hrist\Source\Repos\DevInDevinGame\DevInDevin\obj\Debug\net5.0\DevInDevin.csproj.AssemblyReference.cache

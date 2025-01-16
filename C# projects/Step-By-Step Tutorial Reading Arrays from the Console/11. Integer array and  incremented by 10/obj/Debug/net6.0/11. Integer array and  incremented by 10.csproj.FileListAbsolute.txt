@@ -1,0 +1,14 @@
+C:\Users\hrist\source\repos\Step-By-Step Tutorial Reading Arrays from the Console\11. Integer array and  incremented by 10\bin\Debug\net6.0\11. Integer array and  incremented by 10.exe
+C:\Users\hrist\source\repos\Step-By-Step Tutorial Reading Arrays from the Console\11. Integer array and  incremented by 10\bin\Debug\net6.0\11. Integer array and  incremented by 10.deps.json
+C:\Users\hrist\source\repos\Step-By-Step Tutorial Reading Arrays from the Console\11. Integer array and  incremented by 10\bin\Debug\net6.0\11. Integer array and  incremented by 10.runtimeconfig.json
+C:\Users\hrist\source\repos\Step-By-Step Tutorial Reading Arrays from the Console\11. Integer array and  incremented by 10\bin\Debug\net6.0\11. Integer array and  incremented by 10.dll
+C:\Users\hrist\source\repos\Step-By-Step Tutorial Reading Arrays from the Console\11. Integer array and  incremented by 10\bin\Debug\net6.0\ref\11. Integer array and  incremented by 10.dll
+C:\Users\hrist\source\repos\Step-By-Step Tutorial Reading Arrays from the Console\11. Integer array and  incremented by 10\bin\Debug\net6.0\11. Integer array and  incremented by 10.pdb
+C:\Users\hrist\source\repos\Step-By-Step Tutorial Reading Arrays from the Console\11. Integer array and  incremented by 10\obj\Debug\net6.0\11. Integer array and  incremented by 10.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hrist\source\repos\Step-By-Step Tutorial Reading Arrays from the Console\11. Integer array and  incremented by 10\obj\Debug\net6.0\11. Integer array and  incremented by 10.AssemblyInfoInputs.cache
+C:\Users\hrist\source\repos\Step-By-Step Tutorial Reading Arrays from the Console\11. Integer array and  incremented by 10\obj\Debug\net6.0\11. Integer array and  incremented by 10.AssemblyInfo.cs
+C:\Users\hrist\source\repos\Step-By-Step Tutorial Reading Arrays from the Console\11. Integer array and  incremented by 10\obj\Debug\net6.0\11. Integer array and  incremented by 10.csproj.CoreCompileInputs.cache
+C:\Users\hrist\source\repos\Step-By-Step Tutorial Reading Arrays from the Console\11. Integer array and  incremented by 10\obj\Debug\net6.0\11. Integer array and  incremented by 10.dll
+C:\Users\hrist\source\repos\Step-By-Step Tutorial Reading Arrays from the Console\11. Integer array and  incremented by 10\obj\Debug\net6.0\ref\11. Integer array and  incremented by 10.dll
+C:\Users\hrist\source\repos\Step-By-Step Tutorial Reading Arrays from the Console\11. Integer array and  incremented by 10\obj\Debug\net6.0\11. Integer array and  incremented by 10.pdb
+C:\Users\hrist\source\repos\Step-By-Step Tutorial Reading Arrays from the Console\11. Integer array and  incremented by 10\obj\Debug\net6.0\11. Integer array and  incremented by 10.genruntimeconfig.cache

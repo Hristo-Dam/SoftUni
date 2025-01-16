@@ -1,0 +1,14 @@
+--1
+--SELECT [Id], [FirstName], [LastName], LEFT([PaymentNumber], 6) + '**********' AS [PaymentNumaber] 
+--FROM [Customers]
+
+--2
+--SELECT *, 
+--CEILING
+--(
+--	CEILING
+--	(
+--		CAST([Quantity] AS FLOAT) / [BoxCapacity] / [PalletCapacity]
+--	)
+--) AS Devition
+--FROM Products

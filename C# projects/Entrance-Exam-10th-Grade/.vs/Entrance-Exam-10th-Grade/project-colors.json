@@ -1,0 +1,26 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "be3e9fdd-5896-4889-bb46-7adccf1d7f3f": {
+      "ProjectGuid": "be3e9fdd-5896-4889-bb46-7adccf1d7f3f",
+      "DisplayName": "1. Teams",
+      "ColorIndex": 0
+    },
+    "e13a99f1-3f81-48ab-927f-34e65d92d3ff": {
+      "ProjectGuid": "e13a99f1-3f81-48ab-927f-34e65d92d3ff",
+      "DisplayName": "2. Value Seeker System",
+      "ColorIndex": 1
+    },
+    "4276c45f-939c-4c0e-8d1c-a68b4a9dd077": {
+      "ProjectGuid": "4276c45f-939c-4c0e-8d1c-a68b4a9dd077",
+      "DisplayName": "3. Work Calendar",
+      "ColorIndex": 2
+    },
+    "c5524e41-66c2-45f2-afa2-37c8418e53e7": {
+      "ProjectGuid": "c5524e41-66c2-45f2-afa2-37c8418e53e7",
+      "DisplayName": "4. Movie Profit",
+      "ColorIndex": 3
+    }
+  },
+  "NextColorIndex": 4
+}

@@ -1,0 +1,14 @@
+D:\CS projects\Mini Exam. Inheritance, Interfaces and Abstraction\CompanyHierarchy\bin\Debug\net6.0\CompanyHierarchy.exe
+D:\CS projects\Mini Exam. Inheritance, Interfaces and Abstraction\CompanyHierarchy\bin\Debug\net6.0\CompanyHierarchy.deps.json
+D:\CS projects\Mini Exam. Inheritance, Interfaces and Abstraction\CompanyHierarchy\bin\Debug\net6.0\CompanyHierarchy.runtimeconfig.json
+D:\CS projects\Mini Exam. Inheritance, Interfaces and Abstraction\CompanyHierarchy\bin\Debug\net6.0\CompanyHierarchy.dll
+D:\CS projects\Mini Exam. Inheritance, Interfaces and Abstraction\CompanyHierarchy\bin\Debug\net6.0\CompanyHierarchy.pdb
+D:\CS projects\Mini Exam. Inheritance, Interfaces and Abstraction\CompanyHierarchy\obj\Debug\net6.0\CompanyHierarchy.GeneratedMSBuildEditorConfig.editorconfig
+D:\CS projects\Mini Exam. Inheritance, Interfaces and Abstraction\CompanyHierarchy\obj\Debug\net6.0\CompanyHierarchy.AssemblyInfoInputs.cache
+D:\CS projects\Mini Exam. Inheritance, Interfaces and Abstraction\CompanyHierarchy\obj\Debug\net6.0\CompanyHierarchy.AssemblyInfo.cs
+D:\CS projects\Mini Exam. Inheritance, Interfaces and Abstraction\CompanyHierarchy\obj\Debug\net6.0\CompanyHierarchy.csproj.CoreCompileInputs.cache
+D:\CS projects\Mini Exam. Inheritance, Interfaces and Abstraction\CompanyHierarchy\obj\Debug\net6.0\CompanyHierarchy.dll
+D:\CS projects\Mini Exam. Inheritance, Interfaces and Abstraction\CompanyHierarchy\obj\Debug\net6.0\refint\CompanyHierarchy.dll
+D:\CS projects\Mini Exam. Inheritance, Interfaces and Abstraction\CompanyHierarchy\obj\Debug\net6.0\CompanyHierarchy.pdb
+D:\CS projects\Mini Exam. Inheritance, Interfaces and Abstraction\CompanyHierarchy\obj\Debug\net6.0\CompanyHierarchy.genruntimeconfig.cache
+D:\CS projects\Mini Exam. Inheritance, Interfaces and Abstraction\CompanyHierarchy\obj\Debug\net6.0\ref\CompanyHierarchy.dll

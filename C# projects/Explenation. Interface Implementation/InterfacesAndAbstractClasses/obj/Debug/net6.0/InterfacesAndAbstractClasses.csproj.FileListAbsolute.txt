@@ -1,0 +1,14 @@
+D:\CS projects\InterfacesAndAbstractClasses\bin\Debug\net6.0\InterfacesAndAbstractClasses.exe
+D:\CS projects\InterfacesAndAbstractClasses\bin\Debug\net6.0\InterfacesAndAbstractClasses.deps.json
+D:\CS projects\InterfacesAndAbstractClasses\bin\Debug\net6.0\InterfacesAndAbstractClasses.runtimeconfig.json
+D:\CS projects\InterfacesAndAbstractClasses\bin\Debug\net6.0\InterfacesAndAbstractClasses.dll
+D:\CS projects\InterfacesAndAbstractClasses\bin\Debug\net6.0\InterfacesAndAbstractClasses.pdb
+D:\CS projects\InterfacesAndAbstractClasses\obj\Debug\net6.0\InterfacesAndAbstractClasses.GeneratedMSBuildEditorConfig.editorconfig
+D:\CS projects\InterfacesAndAbstractClasses\obj\Debug\net6.0\InterfacesAndAbstractClasses.AssemblyInfoInputs.cache
+D:\CS projects\InterfacesAndAbstractClasses\obj\Debug\net6.0\InterfacesAndAbstractClasses.AssemblyInfo.cs
+D:\CS projects\InterfacesAndAbstractClasses\obj\Debug\net6.0\InterfacesAndAbstractClasses.csproj.CoreCompileInputs.cache
+D:\CS projects\InterfacesAndAbstractClasses\obj\Debug\net6.0\InterfacesAndAbstractClasses.dll
+D:\CS projects\InterfacesAndAbstractClasses\obj\Debug\net6.0\refint\InterfacesAndAbstractClasses.dll
+D:\CS projects\InterfacesAndAbstractClasses\obj\Debug\net6.0\InterfacesAndAbstractClasses.pdb
+D:\CS projects\InterfacesAndAbstractClasses\obj\Debug\net6.0\InterfacesAndAbstractClasses.genruntimeconfig.cache
+D:\CS projects\InterfacesAndAbstractClasses\obj\Debug\net6.0\ref\InterfacesAndAbstractClasses.dll

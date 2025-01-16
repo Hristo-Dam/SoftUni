@@ -1,0 +1,14 @@
+D:\CS projects\AbsctractClassPractis\AbcstractClass\bin\Debug\net6.0\AbcstractClass.exe
+D:\CS projects\AbsctractClassPractis\AbcstractClass\bin\Debug\net6.0\AbcstractClass.deps.json
+D:\CS projects\AbsctractClassPractis\AbcstractClass\bin\Debug\net6.0\AbcstractClass.runtimeconfig.json
+D:\CS projects\AbsctractClassPractis\AbcstractClass\bin\Debug\net6.0\AbcstractClass.dll
+D:\CS projects\AbsctractClassPractis\AbcstractClass\bin\Debug\net6.0\AbcstractClass.pdb
+D:\CS projects\AbsctractClassPractis\AbcstractClass\obj\Debug\net6.0\AbcstractClass.GeneratedMSBuildEditorConfig.editorconfig
+D:\CS projects\AbsctractClassPractis\AbcstractClass\obj\Debug\net6.0\AbcstractClass.AssemblyInfoInputs.cache
+D:\CS projects\AbsctractClassPractis\AbcstractClass\obj\Debug\net6.0\AbcstractClass.AssemblyInfo.cs
+D:\CS projects\AbsctractClassPractis\AbcstractClass\obj\Debug\net6.0\AbcstractClass.csproj.CoreCompileInputs.cache
+D:\CS projects\AbsctractClassPractis\AbcstractClass\obj\Debug\net6.0\AbcstractClass.dll
+D:\CS projects\AbsctractClassPractis\AbcstractClass\obj\Debug\net6.0\refint\AbcstractClass.dll
+D:\CS projects\AbsctractClassPractis\AbcstractClass\obj\Debug\net6.0\AbcstractClass.pdb
+D:\CS projects\AbsctractClassPractis\AbcstractClass\obj\Debug\net6.0\AbcstractClass.genruntimeconfig.cache
+D:\CS projects\AbsctractClassPractis\AbcstractClass\obj\Debug\net6.0\ref\AbcstractClass.dll

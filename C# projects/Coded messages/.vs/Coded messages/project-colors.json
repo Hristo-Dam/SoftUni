@@ -1,0 +1,36 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "9a65b1a4-bb2b-40ed-8002-eecc1bddf8a0": {
+      "ProjectGuid": "9a65b1a4-bb2b-40ed-8002-eecc1bddf8a0",
+      "DisplayName": "Coded messages",
+      "ColorIndex": 0
+    },
+    "d98120c6-38dc-4077-9453-87ff84e3a0f4": {
+      "ProjectGuid": "d98120c6-38dc-4077-9453-87ff84e3a0f4",
+      "DisplayName": "Help Proj",
+      "ColorIndex": 1
+    },
+    "7bde960a-91ad-40cb-b643-7bdf5b451e5b": {
+      "ProjectGuid": "7bde960a-91ad-40cb-b643-7bdf5b451e5b",
+      "DisplayName": "WordReverser",
+      "ColorIndex": 2
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Miscellaneous Files",
+      "ColorIndex": -1
+    },
+    "de983f8a-4c74-4fda-9520-1a23ec333094": {
+      "ProjectGuid": "de983f8a-4c74-4fda-9520-1a23ec333094",
+      "DisplayName": "Message Reverser",
+      "ColorIndex": 3
+    },
+    "77d0ed2c-6698-4527-981b-ea55dd12b3e2": {
+      "ProjectGuid": "77d0ed2c-6698-4527-981b-ea55dd12b3e2",
+      "DisplayName": "Letter Counter",
+      "ColorIndex": 4
+    }
+  },
+  "NextColorIndex": 5
+}

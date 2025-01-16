@@ -1,0 +1,30 @@
+﻿@* 
+@Model Models.Calculator
+
+@{
+    ViewBag.Title = "Calculator";
+} *@
+
+@model CalculatorApp.Models.Calculator
+
+@{
+    ViewBag.Title = "Calculator";
+}
+
+@using (Html.BeginForm("Index", "Calculator", FormMethod.Post))
+{
+    <div class="row">
+        @Html.TextBoxFor(model => model.LeftOperand, new { @class = "form-control col-2 ml-3 mr-2" })
+        @Html.DropDownListFor(model => model.Operator,
+                new[] {
+    new SelectListItem { Text = "+", Value = "+" },
+    new SelectListItem { Text = "-", Value = "-" },
+    new SelectListItem { Text = "*", Value = "*" },
+    new SelectListItem { Text = "/", Value = "/" },
+    }, new { @class = "form-control mr-2" })
+        @Html.TextBoxFor(model => model.RightOperand, new { @class = "form-control col-2 mr-2" })
+        <div class="text-center mt-1 mr-2">=</div>
+        @Html.TextBoxFor(model => model.Result, null, new { @class = "form-control col-2 mr-2" })
+        <button type="submit" class="btn btn-primary col-3">Calculate</button>
+    </div>
+}

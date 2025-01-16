@@ -1,0 +1,16 @@
+C:\Users\hrist\source\repos\Lab. Objects and Classes\1. Same Weekday\bin\Debug\net5.0\1. Same Weekday.exe
+C:\Users\hrist\source\repos\Lab. Objects and Classes\1. Same Weekday\bin\Debug\net5.0\1. Same Weekday.deps.json
+C:\Users\hrist\source\repos\Lab. Objects and Classes\1. Same Weekday\bin\Debug\net5.0\1. Same Weekday.runtimeconfig.json
+C:\Users\hrist\source\repos\Lab. Objects and Classes\1. Same Weekday\bin\Debug\net5.0\1. Same Weekday.runtimeconfig.dev.json
+C:\Users\hrist\source\repos\Lab. Objects and Classes\1. Same Weekday\bin\Debug\net5.0\1. Same Weekday.dll
+C:\Users\hrist\source\repos\Lab. Objects and Classes\1. Same Weekday\bin\Debug\net5.0\ref\1. Same Weekday.dll
+C:\Users\hrist\source\repos\Lab. Objects and Classes\1. Same Weekday\bin\Debug\net5.0\1. Same Weekday.pdb
+C:\Users\hrist\source\repos\Lab. Objects and Classes\1. Same Weekday\obj\Debug\net5.0\1. Same Weekday.csproj.AssemblyReference.cache
+C:\Users\hrist\source\repos\Lab. Objects and Classes\1. Same Weekday\obj\Debug\net5.0\1. Same Weekday.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hrist\source\repos\Lab. Objects and Classes\1. Same Weekday\obj\Debug\net5.0\1. Same Weekday.AssemblyInfoInputs.cache
+C:\Users\hrist\source\repos\Lab. Objects and Classes\1. Same Weekday\obj\Debug\net5.0\1. Same Weekday.AssemblyInfo.cs
+C:\Users\hrist\source\repos\Lab. Objects and Classes\1. Same Weekday\obj\Debug\net5.0\1. Same Weekday.csproj.CoreCompileInputs.cache
+C:\Users\hrist\source\repos\Lab. Objects and Classes\1. Same Weekday\obj\Debug\net5.0\1. Same Weekday.dll
+C:\Users\hrist\source\repos\Lab. Objects and Classes\1. Same Weekday\obj\Debug\net5.0\ref\1. Same Weekday.dll
+C:\Users\hrist\source\repos\Lab. Objects and Classes\1. Same Weekday\obj\Debug\net5.0\1. Same Weekday.pdb
+C:\Users\hrist\source\repos\Lab. Objects and Classes\1. Same Weekday\obj\Debug\net5.0\1. Same Weekday.genruntimeconfig.cache

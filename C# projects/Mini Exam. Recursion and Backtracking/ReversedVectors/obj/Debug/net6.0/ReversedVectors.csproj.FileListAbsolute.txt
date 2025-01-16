@@ -1,0 +1,14 @@
+D:\CS projects\Mini Exam. Recursion and Backtracking\ReversedVectors\bin\Debug\net6.0\ReversedVectors.exe
+D:\CS projects\Mini Exam. Recursion and Backtracking\ReversedVectors\bin\Debug\net6.0\ReversedVectors.deps.json
+D:\CS projects\Mini Exam. Recursion and Backtracking\ReversedVectors\bin\Debug\net6.0\ReversedVectors.runtimeconfig.json
+D:\CS projects\Mini Exam. Recursion and Backtracking\ReversedVectors\bin\Debug\net6.0\ReversedVectors.dll
+D:\CS projects\Mini Exam. Recursion and Backtracking\ReversedVectors\bin\Debug\net6.0\ReversedVectors.pdb
+D:\CS projects\Mini Exam. Recursion and Backtracking\ReversedVectors\obj\Debug\net6.0\ReversedVectors.GeneratedMSBuildEditorConfig.editorconfig
+D:\CS projects\Mini Exam. Recursion and Backtracking\ReversedVectors\obj\Debug\net6.0\ReversedVectors.AssemblyInfoInputs.cache
+D:\CS projects\Mini Exam. Recursion and Backtracking\ReversedVectors\obj\Debug\net6.0\ReversedVectors.AssemblyInfo.cs
+D:\CS projects\Mini Exam. Recursion and Backtracking\ReversedVectors\obj\Debug\net6.0\ReversedVectors.csproj.CoreCompileInputs.cache
+D:\CS projects\Mini Exam. Recursion and Backtracking\ReversedVectors\obj\Debug\net6.0\ReversedVectors.dll
+D:\CS projects\Mini Exam. Recursion and Backtracking\ReversedVectors\obj\Debug\net6.0\refint\ReversedVectors.dll
+D:\CS projects\Mini Exam. Recursion and Backtracking\ReversedVectors\obj\Debug\net6.0\ReversedVectors.pdb
+D:\CS projects\Mini Exam. Recursion and Backtracking\ReversedVectors\obj\Debug\net6.0\ReversedVectors.genruntimeconfig.cache
+D:\CS projects\Mini Exam. Recursion and Backtracking\ReversedVectors\obj\Debug\net6.0\ref\ReversedVectors.dll

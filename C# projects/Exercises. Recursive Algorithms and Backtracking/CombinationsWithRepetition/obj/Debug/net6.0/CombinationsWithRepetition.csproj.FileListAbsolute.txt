@@ -1,0 +1,14 @@
+D:\CS projects\Exercises. Recursive Algorithms and Backtracking\CombinationsWithRepetition\bin\Debug\net6.0\CombinationsWithRepetition.exe
+D:\CS projects\Exercises. Recursive Algorithms and Backtracking\CombinationsWithRepetition\bin\Debug\net6.0\CombinationsWithRepetition.deps.json
+D:\CS projects\Exercises. Recursive Algorithms and Backtracking\CombinationsWithRepetition\bin\Debug\net6.0\CombinationsWithRepetition.runtimeconfig.json
+D:\CS projects\Exercises. Recursive Algorithms and Backtracking\CombinationsWithRepetition\bin\Debug\net6.0\CombinationsWithRepetition.dll
+D:\CS projects\Exercises. Recursive Algorithms and Backtracking\CombinationsWithRepetition\bin\Debug\net6.0\CombinationsWithRepetition.pdb
+D:\CS projects\Exercises. Recursive Algorithms and Backtracking\CombinationsWithRepetition\obj\Debug\net6.0\CombinationsWithRepetition.GeneratedMSBuildEditorConfig.editorconfig
+D:\CS projects\Exercises. Recursive Algorithms and Backtracking\CombinationsWithRepetition\obj\Debug\net6.0\CombinationsWithRepetition.AssemblyInfoInputs.cache
+D:\CS projects\Exercises. Recursive Algorithms and Backtracking\CombinationsWithRepetition\obj\Debug\net6.0\CombinationsWithRepetition.AssemblyInfo.cs
+D:\CS projects\Exercises. Recursive Algorithms and Backtracking\CombinationsWithRepetition\obj\Debug\net6.0\CombinationsWithRepetition.csproj.CoreCompileInputs.cache
+D:\CS projects\Exercises. Recursive Algorithms and Backtracking\CombinationsWithRepetition\obj\Debug\net6.0\CombinationsWithRepetition.dll
+D:\CS projects\Exercises. Recursive Algorithms and Backtracking\CombinationsWithRepetition\obj\Debug\net6.0\refint\CombinationsWithRepetition.dll
+D:\CS projects\Exercises. Recursive Algorithms and Backtracking\CombinationsWithRepetition\obj\Debug\net6.0\CombinationsWithRepetition.pdb
+D:\CS projects\Exercises. Recursive Algorithms and Backtracking\CombinationsWithRepetition\obj\Debug\net6.0\CombinationsWithRepetition.genruntimeconfig.cache
+D:\CS projects\Exercises. Recursive Algorithms and Backtracking\CombinationsWithRepetition\obj\Debug\net6.0\ref\CombinationsWithRepetition.dll

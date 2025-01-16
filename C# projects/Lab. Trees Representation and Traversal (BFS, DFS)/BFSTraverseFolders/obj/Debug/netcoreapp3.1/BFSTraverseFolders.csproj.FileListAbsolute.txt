@@ -1,0 +1,5 @@
+D:\CS projects\Lab. Trees Representation and Traversal (BFS, DFS)\BFSTraverseFolders\obj\Debug\netcoreapp3.1\BFSTraverseFolders.GeneratedMSBuildEditorConfig.editorconfig
+D:\CS projects\Lab. Trees Representation and Traversal (BFS, DFS)\BFSTraverseFolders\obj\Debug\netcoreapp3.1\BFSTraverseFolders.AssemblyInfoInputs.cache
+D:\CS projects\Lab. Trees Representation and Traversal (BFS, DFS)\BFSTraverseFolders\obj\Debug\netcoreapp3.1\BFSTraverseFolders.AssemblyInfo.cs
+D:\CS projects\Lab. Trees Representation and Traversal (BFS, DFS)\BFSTraverseFolders\obj\Debug\netcoreapp3.1\BFSTraverseFolders.csproj.CoreCompileInputs.cache
+D:\CS projects\Lab. Trees Representation and Traversal (BFS, DFS)\BFSTraverseFolders\obj\Debug\netcoreapp3.1\BFSTraverseFolders.csproj.AssemblyReference.cache

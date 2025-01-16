@@ -1,0 +1,16 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "6591fbcd-05f4-4e1d-827f-80dade04c2cf": {
+      "ProjectGuid": "6591fbcd-05f4-4e1d-827f-80dade04c2cf",
+      "DisplayName": "1. Bowling",
+      "ColorIndex": 0
+    },
+    "8aea60fa-7e19-4c87-b55d-4b8c8bf16da7": {
+      "ProjectGuid": "8aea60fa-7e19-4c87-b55d-4b8c8bf16da7",
+      "DisplayName": "2. Star Search",
+      "ColorIndex": 1
+    }
+  },
+  "NextColorIndex": 2
+}

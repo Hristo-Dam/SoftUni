@@ -1,0 +1,21 @@
+﻿
+@{
+    ViewData["Title"] = "PrintingNumbers";
+}
+
+<h1>PrintingNumbers from 1 to @(ViewBag.Count != 0 ? ViewBag.Count : "Your Choice")</h1>
+
+<ul type="none">
+    @for (int i = 1; i <= ViewBag.count; i++)
+    {
+        <li><p>@i</p></li>
+    }
+</ul>
+
+@using (Html.BeginForm())
+{
+    @Html.TextBox("count");
+
+    <input type="submit" />
+}
+

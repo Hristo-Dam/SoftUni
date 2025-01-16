@@ -1,0 +1,14 @@
+D:\CS projects\Mini Exam. Recursion and Backtracking\SumRectangleAreas\bin\Debug\net6.0\SumRectangleAreas.exe
+D:\CS projects\Mini Exam. Recursion and Backtracking\SumRectangleAreas\bin\Debug\net6.0\SumRectangleAreas.deps.json
+D:\CS projects\Mini Exam. Recursion and Backtracking\SumRectangleAreas\bin\Debug\net6.0\SumRectangleAreas.runtimeconfig.json
+D:\CS projects\Mini Exam. Recursion and Backtracking\SumRectangleAreas\bin\Debug\net6.0\SumRectangleAreas.dll
+D:\CS projects\Mini Exam. Recursion and Backtracking\SumRectangleAreas\bin\Debug\net6.0\SumRectangleAreas.pdb
+D:\CS projects\Mini Exam. Recursion and Backtracking\SumRectangleAreas\obj\Debug\net6.0\SumRectangleAreas.GeneratedMSBuildEditorConfig.editorconfig
+D:\CS projects\Mini Exam. Recursion and Backtracking\SumRectangleAreas\obj\Debug\net6.0\SumRectangleAreas.AssemblyInfoInputs.cache
+D:\CS projects\Mini Exam. Recursion and Backtracking\SumRectangleAreas\obj\Debug\net6.0\SumRectangleAreas.AssemblyInfo.cs
+D:\CS projects\Mini Exam. Recursion and Backtracking\SumRectangleAreas\obj\Debug\net6.0\SumRectangleAreas.csproj.CoreCompileInputs.cache
+D:\CS projects\Mini Exam. Recursion and Backtracking\SumRectangleAreas\obj\Debug\net6.0\SumRectangleAreas.dll
+D:\CS projects\Mini Exam. Recursion and Backtracking\SumRectangleAreas\obj\Debug\net6.0\refint\SumRectangleAreas.dll
+D:\CS projects\Mini Exam. Recursion and Backtracking\SumRectangleAreas\obj\Debug\net6.0\SumRectangleAreas.pdb
+D:\CS projects\Mini Exam. Recursion and Backtracking\SumRectangleAreas\obj\Debug\net6.0\SumRectangleAreas.genruntimeconfig.cache
+D:\CS projects\Mini Exam. Recursion and Backtracking\SumRectangleAreas\obj\Debug\net6.0\ref\SumRectangleAreas.dll

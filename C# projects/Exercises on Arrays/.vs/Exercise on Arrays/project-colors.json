@@ -1,0 +1,56 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Miscellaneous Files",
+      "ColorIndex": -1
+    },
+    "cc0136b7-905e-4431-840a-6b10e432b0d6": {
+      "ProjectGuid": "cc0136b7-905e-4431-840a-6b10e432b0d6",
+      "DisplayName": "Exercise 1",
+      "ColorIndex": 0
+    },
+    "c2b7d1d9-55c3-431f-8d53-4e213d312ab3": {
+      "ProjectGuid": "c2b7d1d9-55c3-431f-8d53-4e213d312ab3",
+      "DisplayName": "2. Against Bugs",
+      "ColorIndex": 1
+    },
+    "94276257-d4df-41d5-83c3-f419fdb5014c": {
+      "ProjectGuid": "94276257-d4df-41d5-83c3-f419fdb5014c",
+      "DisplayName": "Exercise 2",
+      "ColorIndex": 2
+    },
+    "687144db-4798-4085-aa53-765a5b5d6f08": {
+      "ProjectGuid": "687144db-4798-4085-aa53-765a5b5d6f08",
+      "DisplayName": "Exercise 3",
+      "ColorIndex": 3
+    },
+    "b92b2297-5b5d-48b2-bb3f-2419e098f694": {
+      "ProjectGuid": "b92b2297-5b5d-48b2-bb3f-2419e098f694",
+      "DisplayName": "Exercise 4",
+      "ColorIndex": 4
+    },
+    "e9a68c77-0c22-4377-8129-96087cba4fd2": {
+      "ProjectGuid": "e9a68c77-0c22-4377-8129-96087cba4fd2",
+      "DisplayName": "Exercise 5",
+      "ColorIndex": 5
+    },
+    "15ea5eec-8ae8-4dfe-8f4e-2fda4ea28641": {
+      "ProjectGuid": "15ea5eec-8ae8-4dfe-8f4e-2fda4ea28641",
+      "DisplayName": "Exercise 6",
+      "ColorIndex": 6
+    },
+    "f9433c1a-fa37-43d2-8fbb-db5081b18ce9": {
+      "ProjectGuid": "f9433c1a-fa37-43d2-8fbb-db5081b18ce9",
+      "DisplayName": "Exercise 7",
+      "ColorIndex": 7
+    },
+    "970877f0-5be4-475e-9c82-68a8144a7be0": {
+      "ProjectGuid": "970877f0-5be4-475e-9c82-68a8144a7be0",
+      "DisplayName": "1. Cash Desks",
+      "ColorIndex": 8
+    }
+  },
+  "NextColorIndex": 9
+}
