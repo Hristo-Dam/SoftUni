@@ -4741,11 +4741,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Database-Programming-and-ORM\\Database Team Exercise\\ShopDatabase\\ShopDatabase.csproj",
+      "projectUniqueName": "D:\\Programing\\SoftUni\\Database-Programming-and-ORM\\Database Team Exercise\\ShopDatabase\\ShopDatabase.csproj",
       "projectName": "ShopDatabase",
-      "projectPath": "D:\\Database-Programming-and-ORM\\Database Team Exercise\\ShopDatabase\\ShopDatabase.csproj",
+      "projectPath": "D:\\Programing\\SoftUni\\Database-Programming-and-ORM\\Database Team Exercise\\ShopDatabase\\ShopDatabase.csproj",
       "packagesPath": "C:\\Users\\hrist\\.nuget\\packages\\",
-      "outputPath": "D:\\Database-Programming-and-ORM\\Database Team Exercise\\ShopDatabase\\obj\\",
+      "outputPath": "D:\\Programing\\SoftUni\\Database-Programming-and-ORM\\Database Team Exercise\\ShopDatabase\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

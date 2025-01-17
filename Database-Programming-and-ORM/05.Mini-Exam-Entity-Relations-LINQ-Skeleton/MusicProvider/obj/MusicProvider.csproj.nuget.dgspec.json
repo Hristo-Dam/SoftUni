@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Database-Programming-and-ORM\\05.Mini-Exam-Entity-Relations-LINQ-Skeleton\\MusicProvider\\MusicProvider.csproj": {}
+    "D:\\Programing\\SoftUni\\Database-Programming-and-ORM\\05.Mini-Exam-Entity-Relations-LINQ-Skeleton\\MusicProvider\\MusicProvider.csproj": {}
   },
   "projects": {
-    "D:\\Database-Programming-and-ORM\\05.Mini-Exam-Entity-Relations-LINQ-Skeleton\\MusicProvider\\MusicProvider.csproj": {
+    "D:\\Programing\\SoftUni\\Database-Programming-and-ORM\\05.Mini-Exam-Entity-Relations-LINQ-Skeleton\\MusicProvider\\MusicProvider.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Database-Programming-and-ORM\\05.Mini-Exam-Entity-Relations-LINQ-Skeleton\\MusicProvider\\MusicProvider.csproj",
+        "projectUniqueName": "D:\\Programing\\SoftUni\\Database-Programming-and-ORM\\05.Mini-Exam-Entity-Relations-LINQ-Skeleton\\MusicProvider\\MusicProvider.csproj",
         "projectName": "MusicProvider",
-        "projectPath": "D:\\Database-Programming-and-ORM\\05.Mini-Exam-Entity-Relations-LINQ-Skeleton\\MusicProvider\\MusicProvider.csproj",
+        "projectPath": "D:\\Programing\\SoftUni\\Database-Programming-and-ORM\\05.Mini-Exam-Entity-Relations-LINQ-Skeleton\\MusicProvider\\MusicProvider.csproj",
         "packagesPath": "C:\\Users\\hrist\\.nuget\\packages\\",
-        "outputPath": "D:\\Database-Programming-and-ORM\\05.Mini-Exam-Entity-Relations-LINQ-Skeleton\\MusicProvider\\obj\\",
+        "outputPath": "D:\\Programing\\SoftUni\\Database-Programming-and-ORM\\05.Mini-Exam-Entity-Relations-LINQ-Skeleton\\MusicProvider\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

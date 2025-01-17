@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Xam6lPZ6bbE=",
+  "dgSpecHash": "iEcbPgNE0S4=",
   "success": true,
-  "projectFilePath": "D:\\Database-Programming-and-ORM\\Exercises. Entity Relations\\FootballBetting\\FootballBetting.csproj",
+  "projectFilePath": "D:\\Programing\\SoftUni\\Database-Programming-and-ORM\\Exercises. Entity Relations\\FootballBetting\\FootballBetting.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\hrist\\.nuget\\packages\\azure.core\\1.38.0\\azure.core.1.38.0.nupkg.sha512",
     "C:\\Users\\hrist\\.nuget\\packages\\azure.identity\\1.11.4\\azure.identity.1.11.4.nupkg.sha512",

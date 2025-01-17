@@ -1,13 +1,9 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\Database-Programming-and-ORM\\05.Mini-Exam-Entity-Relations-LINQ-Skeleton\\",
+  "WorkspaceRootPath": "D:\\Programing\\SoftUni\\Database-Programming-and-ORM\\05.Mini-Exam-Entity-Relations-LINQ-Skeleton\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{17217E04-86F0-44DA-BA64-A6A1CF816458}|Diablo\\Diablo.csproj|d:\\database-programming-and-orm\\05.mini-exam-entity-relations-linq-skeleton\\diablo\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{17217E04-86F0-44DA-BA64-A6A1CF816458}|Diablo\\Diablo.csproj|solutionrelative:diablo\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{16EFAD88-6E39-40E3-B36B-66AB7DC4930D}|MusicProvider\\MusicProvider.csproj|d:\\database-programming-and-orm\\05.mini-exam-entity-relations-linq-skeleton\\musicprovider\\data\\musicprovidercontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{16EFAD88-6E39-40E3-B36B-66AB7DC4930D}|MusicProvider\\MusicProvider.csproj|d:\\programing\\softuni\\database-programming-and-orm\\05.mini-exam-entity-relations-linq-skeleton\\musicprovider\\data\\musicprovidercontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{16EFAD88-6E39-40E3-B36B-66AB7DC4930D}|MusicProvider\\MusicProvider.csproj|solutionrelative:musicprovider\\data\\musicprovidercontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -18,32 +14,19 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "MusicProviderContext.cs",
-              "DocumentMoniker": "D:\\Database-Programming-and-ORM\\05.Mini-Exam-Entity-Relations-LINQ-Skeleton\\MusicProvider\\Data\\MusicProviderContext.cs",
+              "DocumentMoniker": "D:\\Programing\\SoftUni\\Database-Programming-and-ORM\\05.Mini-Exam-Entity-Relations-LINQ-Skeleton\\MusicProvider\\Data\\MusicProviderContext.cs",
               "RelativeDocumentMoniker": "MusicProvider\\Data\\MusicProviderContext.cs",
-              "ToolTip": "D:\\Database-Programming-and-ORM\\05.Mini-Exam-Entity-Relations-LINQ-Skeleton\\MusicProvider\\Data\\MusicProviderContext.cs",
+              "ToolTip": "D:\\Programing\\SoftUni\\Database-Programming-and-ORM\\05.Mini-Exam-Entity-Relations-LINQ-Skeleton\\MusicProvider\\Data\\MusicProviderContext.cs",
               "RelativeToolTip": "MusicProvider\\Data\\MusicProviderContext.cs",
-              "ViewState": "AgIAAAoAAAAAAAAAAAA5wAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-01-09T07:03:19.348Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "StartUp.cs",
-              "DocumentMoniker": "D:\\Database-Programming-and-ORM\\05.Mini-Exam-Entity-Relations-LINQ-Skeleton\\Diablo\\StartUp.cs",
-              "RelativeDocumentMoniker": "Diablo\\StartUp.cs",
-              "ToolTip": "D:\\Database-Programming-and-ORM\\05.Mini-Exam-Entity-Relations-LINQ-Skeleton\\Diablo\\StartUp.cs",
-              "RelativeToolTip": "Diablo\\StartUp.cs",
-              "ViewState": "AgIAABQAAAAAAAAAAAAuwGYAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-09T06:43:40.531Z",
               "EditorCaption": ""
             }
           ]

@@ -5,11 +5,6 @@ namespace MusicProvider.Data
 {
     public class MusicProviderContext : DbContext
     {
-        public DbSet<User> Users { get; set; }
-        public DbSet<Song> Songs { get; set; }
-        public DbSet<Playlist> Playlists { get; set; }
-        public DbSet<PlaylistSong> PlaylistsSongs { get; set; }
-
         public MusicProviderContext()
         {
         }
@@ -17,6 +12,12 @@ namespace MusicProvider.Data
             : base(options)
         {
         }
+
+        public DbSet<User> Users { get; set; }
+        public DbSet<Song> Songs { get; set; }
+        public DbSet<Playlist> Playlists { get; set; }
+        public DbSet<PlaylistSong> PlaylistsSongs { get; set; }
+
         protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)
         {
             if (!optionsBuilder.IsConfigured)

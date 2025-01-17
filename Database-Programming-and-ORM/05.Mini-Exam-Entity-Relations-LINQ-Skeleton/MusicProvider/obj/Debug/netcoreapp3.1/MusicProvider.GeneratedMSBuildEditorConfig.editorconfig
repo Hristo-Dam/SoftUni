@@ -1,6 +1,6 @@
 is_global = true
 build_property.RootNamespace = MusicProvider
-build_property.ProjectDir = D:\Database-Programming-and-ORM\05.Mini-Exam-Entity-Relations-LINQ-Skeleton\MusicProvider\
+build_property.ProjectDir = D:\Programing\SoftUni\Database-Programming-and-ORM\05.Mini-Exam-Entity-Relations-LINQ-Skeleton\MusicProvider\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 
 build_property.CsWinRTUseWindowsUIXamlProjections = false

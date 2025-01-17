@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Database-Programming-and-ORM\\Exercises. Entity Relations\\StudentSystem\\StudentSystem.csproj": {}
+    "D:\\Programing\\SoftUni\\Database-Programming-and-ORM\\Exercises. Entity Relations\\StudentSystem\\StudentSystem.csproj": {}
   },
   "projects": {
-    "D:\\Database-Programming-and-ORM\\Exercises. Entity Relations\\StudentSystem\\StudentSystem.csproj": {
+    "D:\\Programing\\SoftUni\\Database-Programming-and-ORM\\Exercises. Entity Relations\\StudentSystem\\StudentSystem.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Database-Programming-and-ORM\\Exercises. Entity Relations\\StudentSystem\\StudentSystem.csproj",
+        "projectUniqueName": "D:\\Programing\\SoftUni\\Database-Programming-and-ORM\\Exercises. Entity Relations\\StudentSystem\\StudentSystem.csproj",
         "projectName": "StudentSystem",
-        "projectPath": "D:\\Database-Programming-and-ORM\\Exercises. Entity Relations\\StudentSystem\\StudentSystem.csproj",
+        "projectPath": "D:\\Programing\\SoftUni\\Database-Programming-and-ORM\\Exercises. Entity Relations\\StudentSystem\\StudentSystem.csproj",
         "packagesPath": "C:\\Users\\hrist\\.nuget\\packages\\",
-        "outputPath": "D:\\Database-Programming-and-ORM\\Exercises. Entity Relations\\StudentSystem\\obj\\",
+        "outputPath": "D:\\Programing\\SoftUni\\Database-Programming-and-ORM\\Exercises. Entity Relations\\StudentSystem\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -42,7 +42,7 @@
         "restoreAuditProperties": {
           "enableAudit": "true",
           "auditLevel": "low",
-          "auditMode": "all"
+          "auditMode": "direct"
         },
         "SdkAnalysisLevel": "9.0.100"
       },
@@ -87,7 +87,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.100/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.101/PortableRuntimeIdentifierGraph.json"
         }
       }
     }

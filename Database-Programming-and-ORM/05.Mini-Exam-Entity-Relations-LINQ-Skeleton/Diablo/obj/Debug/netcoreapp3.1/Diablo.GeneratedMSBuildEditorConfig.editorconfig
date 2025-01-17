@@ -1,6 +1,6 @@
 is_global = true
 build_property.RootNamespace = Diablo
-build_property.ProjectDir = D:\Database-Programming-and-ORM\05.Mini-Exam-Entity-Relations-LINQ-Skeleton\Diablo\
+build_property.ProjectDir = D:\Programing\SoftUni\Database-Programming-and-ORM\05.Mini-Exam-Entity-Relations-LINQ-Skeleton\Diablo\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 
 build_property.CsWinRTUseWindowsUIXamlProjections = false

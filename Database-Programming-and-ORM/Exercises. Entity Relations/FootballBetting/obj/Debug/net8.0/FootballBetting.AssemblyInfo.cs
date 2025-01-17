@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("FootballBetting")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+06d05b05e76d10f1f64d8e7dee62104dc8d966e0")]
 [assembly: System.Reflection.AssemblyProductAttribute("FootballBetting")]
 [assembly: System.Reflection.AssemblyTitleAttribute("FootballBetting")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
