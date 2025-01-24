@@ -3,12 +3,12 @@
   "WorkspaceRootPath": "D:\\Programing\\SoftUni\\C# projects\\Exercises. Sorting Algorithms\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{40291176-B950-4855-A5BA-4D65B0564578}|QuickSort\\QuickSort.csproj|d:\\programing\\softuni\\c# projects\\exercises. sorting algorithms\\quicksort\\quicksort.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{40291176-B950-4855-A5BA-4D65B0564578}|QuickSort\\QuickSort.csproj|solutionrelative:quicksort\\quicksort.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{3CA7EAE2-9F96-43F7-B3CC-C8B77A3683D1}|SimpleSorts\\SimpleSorts.csproj|d:\\programing\\softuni\\c# projects\\exercises. sorting algorithms\\simplesorts\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3CA7EAE2-9F96-43F7-B3CC-C8B77A3683D1}|SimpleSorts\\SimpleSorts.csproj|solutionrelative:simplesorts\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{40291176-B950-4855-A5BA-4D65B0564578}|QuickSort\\QuickSort.csproj|d:\\programing\\softuni\\c# projects\\exercises. sorting algorithms\\quicksort\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{40291176-B950-4855-A5BA-4D65B0564578}|QuickSort\\QuickSort.csproj|solutionrelative:quicksort\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{40291176-B950-4855-A5BA-4D65B0564578}|QuickSort\\QuickSort.csproj|d:\\programing\\softuni\\c# projects\\exercises. sorting algorithms\\quicksort\\quicksort.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{40291176-B950-4855-A5BA-4D65B0564578}|QuickSort\\QuickSort.csproj|solutionrelative:quicksort\\quicksort.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -23,27 +23,27 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "QuickSort.cs",
-              "DocumentMoniker": "D:\\Programing\\SoftUni\\C# projects\\Exercises. Sorting Algorithms\\QuickSort\\QuickSort.cs",
-              "RelativeDocumentMoniker": "QuickSort\\QuickSort.cs",
-              "ToolTip": "D:\\Programing\\SoftUni\\C# projects\\Exercises. Sorting Algorithms\\QuickSort\\QuickSort.cs",
-              "RelativeToolTip": "QuickSort\\QuickSort.cs",
-              "ViewState": "AgIAAA0AAAAAAAAAAAAQwBUAAAAxAAAAAAAAAA==",
+              "Title": "StartUp.cs",
+              "DocumentMoniker": "D:\\Programing\\SoftUni\\C# projects\\Exercises. Sorting Algorithms\\SimpleSorts\\StartUp.cs",
+              "RelativeDocumentMoniker": "SimpleSorts\\StartUp.cs",
+              "ToolTip": "D:\\Programing\\SoftUni\\C# projects\\Exercises. Sorting Algorithms\\SimpleSorts\\StartUp.cs",
+              "RelativeToolTip": "SimpleSorts\\StartUp.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAQwEsAAAAiAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-13T08:44:29.279Z",
+              "WhenOpened": "2025-01-22T06:42:16.135Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "StartUp.cs",
-              "DocumentMoniker": "D:\\Programing\\SoftUni\\C# projects\\Exercises. Sorting Algorithms\\QuickSort\\StartUp.cs",
-              "RelativeDocumentMoniker": "QuickSort\\StartUp.cs",
-              "ToolTip": "D:\\Programing\\SoftUni\\C# projects\\Exercises. Sorting Algorithms\\QuickSort\\StartUp.cs",
-              "RelativeToolTip": "QuickSort\\StartUp.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAA1AAAAAAAAAA==",
+              "Title": "QuickSort.cs",
+              "DocumentMoniker": "D:\\Programing\\SoftUni\\C# projects\\Exercises. Sorting Algorithms\\QuickSort\\QuickSort.cs",
+              "RelativeDocumentMoniker": "QuickSort\\QuickSort.cs",
+              "ToolTip": "D:\\Programing\\SoftUni\\C# projects\\Exercises. Sorting Algorithms\\QuickSort\\QuickSort.cs",
+              "RelativeToolTip": "QuickSort\\QuickSort.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-13T08:43:46.75Z",
+              "WhenOpened": "2025-01-22T06:41:54.535Z",
               "EditorCaption": ""
             }
           ]

@@ -41,7 +41,7 @@ class ConnectedArea
         }
     }
 
-    private static int FindArea(int row, int col, int sizeRow, int sizeCol, char[,] matrix, bool[,] visit)
+    private static int FindArea(int row, int col, int sizeRow, int sizeCol, char[,] matrix, bool[,] visited)
     {
         if (row >= sizeRow || row < 0 || col >= sizeCol || col < 0)
         {

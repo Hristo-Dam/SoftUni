@@ -1,6 +1,6 @@
 is_global = true
 build_property.RootNamespace = Connected_Area
-build_property.ProjectDir = D:\C# projects\06.Trees-BFS-DFS-Exercises-Skeleton\Connected-Area\
+build_property.ProjectDir = D:\Programing\SoftUni\C# projects\06.Trees-BFS-DFS-Exercises-Skeleton\Connected-Area\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 
 build_property.CsWinRTUseWindowsUIXamlProjections = false

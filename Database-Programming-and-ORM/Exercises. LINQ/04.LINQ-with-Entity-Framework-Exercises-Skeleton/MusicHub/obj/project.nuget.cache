@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "EiK7fPyckwQ=",
+  "dgSpecHash": "aIs0ZVHH07A=",
   "success": true,
-  "projectFilePath": "D:\\Database-Programming-and-ORM\\Exercises. LINQ\\04.LINQ-with-Entity-Framework-Exercises-Skeleton\\MusicHub\\MusicHub.csproj",
+  "projectFilePath": "D:\\Programing\\SoftUni\\Database-Programming-and-ORM\\Exercises. LINQ\\04.LINQ-with-Entity-Framework-Exercises-Skeleton\\MusicHub\\MusicHub.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\hrist\\.nuget\\packages\\castle.core\\4.4.0\\castle.core.4.4.0.nupkg.sha512",
     "C:\\Users\\hrist\\.nuget\\packages\\microsoft.bcl.asyncinterfaces\\1.1.0\\microsoft.bcl.asyncinterfaces.1.1.0.nupkg.sha512",

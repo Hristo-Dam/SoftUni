@@ -1,13 +1,13 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\Database-Programming-and-ORM\\04.LINQ-with-Entity-Framework-Lab-Skeleton\\",
+  "WorkspaceRootPath": "D:\\Programing\\SoftUni\\Database-Programming-and-ORM\\04.LINQ-with-Entity-Framework-Lab-Skeleton\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{70687F73-1E0B-4F51-AB1B-92A33E0815C6}|SoftUni.csproj|d:\\database-programming-and-orm\\04.linq-with-entity-framework-lab-skeleton\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{70687F73-1E0B-4F51-AB1B-92A33E0815C6}|SoftUni.csproj|d:\\programing\\softuni\\database-programming-and-orm\\04.linq-with-entity-framework-lab-skeleton\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{70687F73-1E0B-4F51-AB1B-92A33E0815C6}|SoftUni.csproj|solutionrelative:startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{70687F73-1E0B-4F51-AB1B-92A33E0815C6}|SoftUni.csproj|d:\\database-programming-and-orm\\04.linq-with-entity-framework-lab-skeleton\\viewmodels\\employeeaddress.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{70687F73-1E0B-4F51-AB1B-92A33E0815C6}|SoftUni.csproj|d:\\programing\\softuni\\database-programming-and-orm\\04.linq-with-entity-framework-lab-skeleton\\viewmodels\\employeeaddress.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{70687F73-1E0B-4F51-AB1B-92A33E0815C6}|SoftUni.csproj|solutionrelative:viewmodels\\employeeaddress.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -24,23 +24,24 @@
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "EmployeeAddress.cs",
-              "DocumentMoniker": "D:\\Database-Programming-and-ORM\\04.LINQ-with-Entity-Framework-Lab-Skeleton\\ViewModels\\EmployeeAddress.cs",
+              "DocumentMoniker": "D:\\Programing\\SoftUni\\Database-Programming-and-ORM\\04.LINQ-with-Entity-Framework-Lab-Skeleton\\ViewModels\\EmployeeAddress.cs",
               "RelativeDocumentMoniker": "ViewModels\\EmployeeAddress.cs",
-              "ToolTip": "D:\\Database-Programming-and-ORM\\04.LINQ-with-Entity-Framework-Lab-Skeleton\\ViewModels\\EmployeeAddress.cs",
+              "ToolTip": "D:\\Programing\\SoftUni\\Database-Programming-and-ORM\\04.LINQ-with-Entity-Framework-Lab-Skeleton\\ViewModels\\EmployeeAddress.cs",
               "RelativeToolTip": "ViewModels\\EmployeeAddress.cs",
               "ViewState": "AgIAAAMAAAAAAAAAAAAAAA4AAAArAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-13T06:58:16.988Z"
+              "WhenOpened": "2024-12-13T06:58:16.988Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "StartUp.cs",
-              "DocumentMoniker": "D:\\Database-Programming-and-ORM\\04.LINQ-with-Entity-Framework-Lab-Skeleton\\StartUp.cs",
+              "DocumentMoniker": "D:\\Programing\\SoftUni\\Database-Programming-and-ORM\\04.LINQ-with-Entity-Framework-Lab-Skeleton\\StartUp.cs",
               "RelativeDocumentMoniker": "StartUp.cs",
-              "ToolTip": "D:\\Database-Programming-and-ORM\\04.LINQ-with-Entity-Framework-Lab-Skeleton\\StartUp.cs",
+              "ToolTip": "D:\\Programing\\SoftUni\\Database-Programming-and-ORM\\04.LINQ-with-Entity-Framework-Lab-Skeleton\\StartUp.cs",
               "RelativeToolTip": "StartUp.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIBAAAaAAAAAAAAAA==",
+              "ViewState": "AgIAADEAAAAAAAAAAAAQwBIBAAAaAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-12-12T08:17:52.955Z",
               "EditorCaption": ""

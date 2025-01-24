@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "EKY3DV0/LOn5HdTQred8tNRsKkNYOw6aqeq26PD+W2K1TBf1POqAnEgmR2yEbXkU9negf4/rSc7NyHptVRzzCw==",
+  "dgSpecHash": "lEreEN/Oh8I=",
   "success": true,
-  "projectFilePath": "D:\\CS projects\\Exercises. Recursive Algorithms and Backtracking\\GeneratingCombinations\\GeneratingCombinations.csproj",
+  "projectFilePath": "D:\\Programing\\SoftUni\\C# projects\\Exercises. Recursive Algorithms and Backtracking\\GeneratingCombinations\\GeneratingCombinations.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

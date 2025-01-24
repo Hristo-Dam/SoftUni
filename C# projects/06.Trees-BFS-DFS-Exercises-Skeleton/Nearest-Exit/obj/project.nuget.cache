@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "QWKq558g+zw=",
+  "dgSpecHash": "1juAM6XFjbQ=",
   "success": true,
-  "projectFilePath": "D:\\C# projects\\06.Trees-BFS-DFS-Exercises-Skeleton\\Nearest-Exit\\Nearest-Exit.csproj",
+  "projectFilePath": "D:\\Programing\\SoftUni\\C# projects\\06.Trees-BFS-DFS-Exercises-Skeleton\\Nearest-Exit\\Nearest-Exit.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\hrist\\.nuget\\packages\\simpletreenode\\1.0.0\\simpletreenode.1.0.0.nupkg.sha512"
   ],

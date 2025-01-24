@@ -1,6 +1,6 @@
 is_global = true
 build_property.RootNamespace = Nearest_Exit
-build_property.ProjectDir = D:\C# projects\06.Trees-BFS-DFS-Exercises-Skeleton\Nearest-Exit\
+build_property.ProjectDir = D:\Programing\SoftUni\C# projects\06.Trees-BFS-DFS-Exercises-Skeleton\Nearest-Exit\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 
 build_property.CsWinRTUseWindowsUIXamlProjections = false

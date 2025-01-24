@@ -3,8 +3,12 @@
   "WorkspaceRootPath": "D:\\Programing\\SoftUni\\Database-Programming-and-ORM\\05.Mini-Exam-Entity-Relations-LINQ-Skeleton\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{16EFAD88-6E39-40E3-B36B-66AB7DC4930D}|MusicProvider\\MusicProvider.csproj|d:\\programing\\softuni\\database-programming-and-orm\\05.mini-exam-entity-relations-linq-skeleton\\musicprovider\\data\\musicprovidercontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{16EFAD88-6E39-40E3-B36B-66AB7DC4930D}|MusicProvider\\MusicProvider.csproj|solutionrelative:musicprovider\\data\\musicprovidercontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{17217E04-86F0-44DA-BA64-A6A1CF816458}|Diablo\\Diablo.csproj|d:\\programing\\softuni\\database-programming-and-orm\\05.mini-exam-entity-relations-linq-skeleton\\diablo\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{17217E04-86F0-44DA-BA64-A6A1CF816458}|Diablo\\Diablo.csproj|solutionrelative:diablo\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{17217E04-86F0-44DA-BA64-A6A1CF816458}|Diablo\\Diablo.csproj|d:\\programing\\softuni\\database-programming-and-orm\\05.mini-exam-entity-relations-linq-skeleton\\diablo\\data\\viewmodels\\characterinformation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{17217E04-86F0-44DA-BA64-A6A1CF816458}|Diablo\\Diablo.csproj|solutionrelative:diablo\\data\\viewmodels\\characterinformation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -19,14 +23,27 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "MusicProviderContext.cs",
-              "DocumentMoniker": "D:\\Programing\\SoftUni\\Database-Programming-and-ORM\\05.Mini-Exam-Entity-Relations-LINQ-Skeleton\\MusicProvider\\Data\\MusicProviderContext.cs",
-              "RelativeDocumentMoniker": "MusicProvider\\Data\\MusicProviderContext.cs",
-              "ToolTip": "D:\\Programing\\SoftUni\\Database-Programming-and-ORM\\05.Mini-Exam-Entity-Relations-LINQ-Skeleton\\MusicProvider\\Data\\MusicProviderContext.cs",
-              "RelativeToolTip": "MusicProvider\\Data\\MusicProviderContext.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAFAAAAAAAAAA==",
+              "Title": "StartUp.cs",
+              "DocumentMoniker": "D:\\Programing\\SoftUni\\Database-Programming-and-ORM\\05.Mini-Exam-Entity-Relations-LINQ-Skeleton\\Diablo\\StartUp.cs",
+              "RelativeDocumentMoniker": "Diablo\\StartUp.cs",
+              "ToolTip": "D:\\Programing\\SoftUni\\Database-Programming-and-ORM\\05.Mini-Exam-Entity-Relations-LINQ-Skeleton\\Diablo\\StartUp.cs",
+              "RelativeToolTip": "Diablo\\StartUp.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAQwAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-09T07:03:19.348Z",
+              "WhenOpened": "2025-01-17T09:29:07.607Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CharacterInformation.cs",
+              "DocumentMoniker": "D:\\Programing\\SoftUni\\Database-Programming-and-ORM\\05.Mini-Exam-Entity-Relations-LINQ-Skeleton\\Diablo\\Data\\ViewModels\\CharacterInformation.cs",
+              "RelativeDocumentMoniker": "Diablo\\Data\\ViewModels\\CharacterInformation.cs",
+              "ToolTip": "D:\\Programing\\SoftUni\\Database-Programming-and-ORM\\05.Mini-Exam-Entity-Relations-LINQ-Skeleton\\Diablo\\Data\\ViewModels\\CharacterInformation.cs",
+              "RelativeToolTip": "Diablo\\Data\\ViewModels\\CharacterInformation.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-17T09:26:56.081Z",
               "EditorCaption": ""
             }
           ]

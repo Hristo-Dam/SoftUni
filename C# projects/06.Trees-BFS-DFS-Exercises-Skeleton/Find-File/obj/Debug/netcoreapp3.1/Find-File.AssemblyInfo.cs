@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Find-File")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+afe77e6a47b10bb1ba7d08d416071923794d2177")]
 [assembly: System.Reflection.AssemblyProductAttribute("Find-File")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Find-File")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

@@ -9,7 +9,9 @@ namespace BookShop.Models
     {
         [Key]
         public int AuthorId { get; set; }
-        [Unicode]
+        [MaxLength(50)]
         public string FirstName { get; set; }
+        [MaxLength(50)]
+        public string LastName { get; set; }
     }
 }

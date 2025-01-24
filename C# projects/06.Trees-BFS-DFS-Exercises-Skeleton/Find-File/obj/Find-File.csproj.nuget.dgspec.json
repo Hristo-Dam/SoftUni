@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\C# projects\\06.Trees-BFS-DFS-Exercises-Skeleton\\Find-File\\Find-File.csproj": {}
+    "D:\\Programing\\SoftUni\\C# projects\\06.Trees-BFS-DFS-Exercises-Skeleton\\Find-File\\Find-File.csproj": {}
   },
   "projects": {
-    "D:\\C# projects\\06.Trees-BFS-DFS-Exercises-Skeleton\\Find-File\\Find-File.csproj": {
+    "D:\\Programing\\SoftUni\\C# projects\\06.Trees-BFS-DFS-Exercises-Skeleton\\Find-File\\Find-File.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\C# projects\\06.Trees-BFS-DFS-Exercises-Skeleton\\Find-File\\Find-File.csproj",
+        "projectUniqueName": "D:\\Programing\\SoftUni\\C# projects\\06.Trees-BFS-DFS-Exercises-Skeleton\\Find-File\\Find-File.csproj",
         "projectName": "Find-File",
-        "projectPath": "D:\\C# projects\\06.Trees-BFS-DFS-Exercises-Skeleton\\Find-File\\Find-File.csproj",
+        "projectPath": "D:\\Programing\\SoftUni\\C# projects\\06.Trees-BFS-DFS-Exercises-Skeleton\\Find-File\\Find-File.csproj",
         "packagesPath": "C:\\Users\\hrist\\.nuget\\packages\\",
-        "outputPath": "D:\\C# projects\\06.Trees-BFS-DFS-Exercises-Skeleton\\Find-File\\obj\\",
+        "outputPath": "D:\\Programing\\SoftUni\\C# projects\\06.Trees-BFS-DFS-Exercises-Skeleton\\Find-File\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -42,7 +42,7 @@
         "restoreAuditProperties": {
           "enableAudit": "true",
           "auditLevel": "low",
-          "auditMode": "all"
+          "auditMode": "direct"
         },
         "SdkAnalysisLevel": "9.0.100"
       },
@@ -71,7 +71,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.100\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.101\\RuntimeIdentifierGraph.json"
         }
       }
     }

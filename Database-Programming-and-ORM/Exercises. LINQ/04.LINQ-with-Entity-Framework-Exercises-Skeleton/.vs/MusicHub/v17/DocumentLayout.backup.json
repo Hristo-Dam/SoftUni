@@ -1,17 +1,17 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\Database-Programming-and-ORM\\Exercises. LINQ\\04.LINQ-with-Entity-Framework-Exercises-Skeleton\\",
+  "WorkspaceRootPath": "D:\\Programing\\SoftUni\\Database-Programming-and-ORM\\Exercises. LINQ\\04.LINQ-with-Entity-Framework-Exercises-Skeleton\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{31E92BC3-B827-455F-AD38-0E786854E922}|MusicHub\\MusicHub.csproj|d:\\database-programming-and-orm\\exercises. linq\\04.linq-with-entity-framework-exercises-skeleton\\musichub\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{31E92BC3-B827-455F-AD38-0E786854E922}|MusicHub\\MusicHub.csproj|d:\\programing\\softuni\\database-programming-and-orm\\exercises. linq\\04.linq-with-entity-framework-exercises-skeleton\\musichub\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{31E92BC3-B827-455F-AD38-0E786854E922}|MusicHub\\MusicHub.csproj|solutionrelative:musichub\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{31E92BC3-B827-455F-AD38-0E786854E922}|MusicHub\\MusicHub.csproj|d:\\database-programming-and-orm\\exercises. linq\\04.linq-with-entity-framework-exercises-skeleton\\musichub\\data\\models\\song.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{31E92BC3-B827-455F-AD38-0E786854E922}|MusicHub\\MusicHub.csproj|d:\\programing\\softuni\\database-programming-and-orm\\exercises. linq\\04.linq-with-entity-framework-exercises-skeleton\\musichub\\data\\models\\song.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{31E92BC3-B827-455F-AD38-0E786854E922}|MusicHub\\MusicHub.csproj|solutionrelative:musichub\\data\\models\\song.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{31E92BC3-B827-455F-AD38-0E786854E922}|MusicHub\\MusicHub.csproj|d:\\database-programming-and-orm\\exercises. linq\\04.linq-with-entity-framework-exercises-skeleton\\musichub\\viewmodels\\exportsongsaboveduration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{31E92BC3-B827-455F-AD38-0E786854E922}|MusicHub\\MusicHub.csproj|d:\\programing\\softuni\\database-programming-and-orm\\exercises. linq\\04.linq-with-entity-framework-exercises-skeleton\\musichub\\viewmodels\\exportsongsaboveduration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{31E92BC3-B827-455F-AD38-0E786854E922}|MusicHub\\MusicHub.csproj|solutionrelative:musichub\\viewmodels\\exportsongsaboveduration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -28,37 +28,35 @@
               "$type": "Document",
               "DocumentIndex": 2,
               "Title": "ExportSongsAboveDuration.cs",
-              "DocumentMoniker": "D:\\Database-Programming-and-ORM\\Exercises. LINQ\\04.LINQ-with-Entity-Framework-Exercises-Skeleton\\MusicHub\\ViewModels\\ExportSongsAboveDuration.cs",
+              "DocumentMoniker": "D:\\Programing\\SoftUni\\Database-Programming-and-ORM\\Exercises. LINQ\\04.LINQ-with-Entity-Framework-Exercises-Skeleton\\MusicHub\\ViewModels\\ExportSongsAboveDuration.cs",
               "RelativeDocumentMoniker": "MusicHub\\ViewModels\\ExportSongsAboveDuration.cs",
-              "ToolTip": "D:\\Database-Programming-and-ORM\\Exercises. LINQ\\04.LINQ-with-Entity-Framework-Exercises-Skeleton\\MusicHub\\ViewModels\\ExportSongsAboveDuration.cs",
+              "ToolTip": "D:\\Programing\\SoftUni\\Database-Programming-and-ORM\\Exercises. LINQ\\04.LINQ-with-Entity-Framework-Exercises-Skeleton\\MusicHub\\ViewModels\\ExportSongsAboveDuration.cs",
               "RelativeToolTip": "MusicHub\\ViewModels\\ExportSongsAboveDuration.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAVAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-15T10:35:35.156Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-15T10:35:35.156Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "Song.cs",
-              "DocumentMoniker": "D:\\Database-Programming-and-ORM\\Exercises. LINQ\\04.LINQ-with-Entity-Framework-Exercises-Skeleton\\MusicHub\\Data\\Models\\Song.cs",
+              "DocumentMoniker": "D:\\Programing\\SoftUni\\Database-Programming-and-ORM\\Exercises. LINQ\\04.LINQ-with-Entity-Framework-Exercises-Skeleton\\MusicHub\\Data\\Models\\Song.cs",
               "RelativeDocumentMoniker": "MusicHub\\Data\\Models\\Song.cs",
-              "ToolTip": "D:\\Database-Programming-and-ORM\\Exercises. LINQ\\04.LINQ-with-Entity-Framework-Exercises-Skeleton\\MusicHub\\Data\\Models\\Song.cs",
+              "ToolTip": "D:\\Programing\\SoftUni\\Database-Programming-and-ORM\\Exercises. LINQ\\04.LINQ-with-Entity-Framework-Exercises-Skeleton\\MusicHub\\Data\\Models\\Song.cs",
               "RelativeToolTip": "MusicHub\\Data\\Models\\Song.cs",
               "ViewState": "AgIAABAAAAAAAAAAAAAQwAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-14T11:59:49.991Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-14T11:59:49.991Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "StartUp.cs",
-              "DocumentMoniker": "D:\\Database-Programming-and-ORM\\Exercises. LINQ\\04.LINQ-with-Entity-Framework-Exercises-Skeleton\\MusicHub\\StartUp.cs",
+              "DocumentMoniker": "D:\\Programing\\SoftUni\\Database-Programming-and-ORM\\Exercises. LINQ\\04.LINQ-with-Entity-Framework-Exercises-Skeleton\\MusicHub\\StartUp.cs",
               "RelativeDocumentMoniker": "MusicHub\\StartUp.cs",
-              "ToolTip": "D:\\Database-Programming-and-ORM\\Exercises. LINQ\\04.LINQ-with-Entity-Framework-Exercises-Skeleton\\MusicHub\\StartUp.cs*",
-              "RelativeToolTip": "MusicHub\\StartUp.cs*",
-              "ViewState": "AgIAAEQAAAAAAAAAAAAUwF0AAAAlAAAAAAAAAA==",
+              "ToolTip": "D:\\Programing\\SoftUni\\Database-Programming-and-ORM\\Exercises. LINQ\\04.LINQ-with-Entity-Framework-Exercises-Skeleton\\MusicHub\\StartUp.cs",
+              "RelativeToolTip": "MusicHub\\StartUp.cs",
+              "ViewState": "AgIAACcAAAAAAAAAAAAYwF0AAAAlAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-12-13T09:30:19.617Z",
               "EditorCaption": ""
