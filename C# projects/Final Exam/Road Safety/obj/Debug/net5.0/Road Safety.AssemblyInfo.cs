@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Road Safety")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+fbd55d0d6ccff0f4110eea8d8f6cbcaf61079b13")]
 [assembly: System.Reflection.AssemblyProductAttribute("Road Safety")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Road Safety")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

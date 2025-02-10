@@ -17,7 +17,6 @@ namespace Forum
         {
             var context = new ForumDbContext();
 
-
             // 1. Import Users
             // STEP 1. Get the path to users.json
             //string path = $"../../../Datasets/users.json";
@@ -28,17 +27,15 @@ namespace Forum
 
             // 2. Import Posts
             //string path = $"../../../Datasets/posts.json";
-
             //string json = File.ReadAllText(path);
-
             //Console.WriteLine(ImportPosts(context, json));
 
             // 3. Import PostAnswers
-            string path = $"../../../Datasets/postsAnswers.json";
+            //string path = $"../../../Datasets/postsAnswers.json";
+            //string json = File.ReadAllText(path);
+            //Console.WriteLine(ImportPostsAnswers(context, json));
 
-            string json = File.ReadAllText(path);
 
-            Console.WriteLine(ImportPostsAnswers(context, json));
         }
         public static string ImportUsers(ForumDbContext context, string inputJson)
         {
@@ -97,12 +94,12 @@ namespace Forum
 
         public static string GetPostsWithPostAnswers(ForumDbContext context)
         {
-            var posts = context.Posts
-                .Select(p => new PostViewModel
-                {
-                    PostContent = p.PostContent,
-                    User = p.User
-                })
+            //var posts = context.Posts
+            //    .Select(p => new PostViewModel
+            //    {
+            //        PostContent = p.PostContent,
+            //        User = p.User
+            //    })
             return "";
         }
 
