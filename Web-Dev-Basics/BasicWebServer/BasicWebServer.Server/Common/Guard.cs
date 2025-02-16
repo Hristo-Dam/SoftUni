@@ -13,11 +13,11 @@ namespace BasicWebServer.Server.Common
             if (value == null)
             {
 
-                // name ??= "Value";
-                if (name == null)
-                {
-                    name = "Value";
-                }
+                name ??= "Value";
+                //if (name == null)
+                //{
+                //    name = "Value";
+                //}
 
                 throw new ArgumentNullException($"{name} cannot be null.");
             }
