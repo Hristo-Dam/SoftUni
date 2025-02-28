@@ -1,0 +1,22 @@
+#button {
+    width: 40px;
+    height: 20px;
+    margin-bottom: 10px;
+}
+
+#text {
+    padding-top: 1px;
+}
+
+#container  {
+    text-align: center;
+    width: 150px;
+    height: 80px;
+    margin: 0 auto;
+    padding: 0;
+    background-color: #ffffff;
+    border-width: 5px;
+    border-style: solid;
+    border-color: #071a93;
+    border-radius: 10px;
+}

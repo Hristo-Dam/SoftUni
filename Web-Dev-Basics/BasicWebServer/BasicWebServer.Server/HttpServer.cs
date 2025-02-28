@@ -1,14 +1,8 @@
 ﻿using BasicWebServer.Server.HTTP;
 using BasicWebServer.Server.Routing;
-using System;
-using System.Collections.Generic;
-using System.Linq;
 using System.Net;
 using System.Net.Sockets;
-using System.Numerics;
-using System.Reflection.Metadata;
 using System.Text;
-using System.Threading.Tasks;
 
 namespace BasicWebServer.Server
 {
@@ -43,6 +37,7 @@ namespace BasicWebServer.Server
         public void Start()
         {
             this._serverListener.Start();
+
             Console.WriteLine($"Server started on port {this._port}.");
             Console.WriteLine("Listening for requests...");
 

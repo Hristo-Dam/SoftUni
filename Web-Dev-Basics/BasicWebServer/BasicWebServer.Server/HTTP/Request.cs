@@ -40,7 +40,7 @@ namespace BasicWebServer.Server.HTTP
 
         private static Dictionary<string, string> ParseForm(HeaderCollection headers, string body)
         {
-            var formCollection = new Dictionary<string, string>();
+            Dictionary<string, string> formCollection = new Dictionary<string, string>();
 
             if (headers.Contains(Header.CONTENT_TYPE) && headers[Header.CONTENT_TYPE] == ContentType.FORM_URL_ENCODED)
             {
@@ -56,8 +56,8 @@ namespace BasicWebServer.Server.HTTP
         }
         private static Dictionary<string, string> ParseFormData(string bodyLines)
             => HttpUtility.UrlDecode(bodyLines)
-                .Split("&")
-                .Select(part => part.Split("="))
+                .Split('&')
+                .Select(part => part.Split('='))
                 .Where(part => part.Length == 2)
                 .ToDictionary(
                     part => part[0],

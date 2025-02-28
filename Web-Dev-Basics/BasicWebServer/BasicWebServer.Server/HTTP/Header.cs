@@ -1,5 +1,4 @@
 ﻿using BasicWebServer.Server.Common;
-using System.Security.Cryptography.X509Certificates;
 
 namespace BasicWebServer.Server.HTTP
 {
